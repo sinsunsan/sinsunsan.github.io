@@ -36,6 +36,8 @@ In a word : [The github for architecture](http://www.openbricks.io)!
 * From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
 * From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
 
+![First mac computer]({{site.baseurl}}/images/mac.jpg)
+
 ### Other projects I've contributed to 
 
 * 2016 [Arsultima, a web app to organize your art collection](http://www.arsultima.com/)
