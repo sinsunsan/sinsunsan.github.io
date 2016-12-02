@@ -6,8 +6,8 @@ permalink: /about/
 
 Hello, 
 
-I am Sébastien Lucas, a self taugh web developer. 
-I am building web sites and applications using Angular as a front end and Node as the backend from 2014 to 2016
+I am Sébastien Lucas, a french self taught web developer. 
+I am currently building web sites and applications using Angular as a front end and Node as the backend from 2014 to 2016
 
 ### My story with code
 
