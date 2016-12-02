@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+published: true
 ---
 
 Hello, 
@@ -11,29 +12,33 @@ I am currently building web sites and applications using Angular as a front end 
 
 ### My story with code
 
-* From 2010 to 2013, I used to code in php and using Drupal CMS. 
+* From 2014 to 2016, I am a "Full stack js developer" using both Angular and Node 
+* From 2010 to 2013, I coded in php and using Drupal CMS
+* In 2015 I worked for We Cook 
 * In 2011, I worked for Rue 89
-* I released my first client site in 2009.
-* I learn php and mysql for the first time in 2007.
-* In 2010 I studied photography and started to work both as an [architecture photographer](http://www.sebastienlucas.com) and as a developer.
-* From 2002 to 2006 I've worked in different architecture, landscape and urbanism studio. 
-* From 1994 to 2002, I've studied Architecture
-* In 1986, I developed my first software using a Amstrad CPC 6128. The purpose of the game was a plane launching missile on boats. The missile was an ASCII character !
+* In 2009-2010 I studied photography and started to work as an [architecture photographer](http://www.sebastienlucas.com) along with my wev development activities
+* In 2009, I released my first client site
+* In 2007, I started to learn php and mysql
+* From 2002 to 2006 I worked in several architecture, landscape and urbanism studio (Agence Ter, Fortier...)
+* From 1994 to 2002, I studied Architecture
+* In 1986, I developed my first game using a Amstrad CPC 6128. The scenario of the game was a plane launching missiles on boats. The missiles were ASCII characters !
 
-### My main projects
+### My main project : Collaborative architecture design
 
-My main project is to build a web app to make architecture and design a more collaborative process. 
-I've developped : 
-* [Archiref, the visual source of architecture to find visual inspiration for your projects](http://www.archiref.com)
-* [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
-* [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
+My main project is to make architecture design a collaborative process and empower architects and all architecture lovers to design architecture without loosing time in reinventing wheel.    
+
+* From 2010 [Archiref, the visual source of architecture to find visual inspiration for your projects](http://www.archiref.com)
+* From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
+* From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
 
 ### Other projects I've contributed to 
 
-* [Arsultima, a web app ro organize your art collection](http://www.arsultima.com/)
-* [Holaspirit, a web app to set up Holacracy inside your organization](https://www.holaspirit.com/)
-* [Rue 89, a french new pure player that was built in Drupal in 2011](http://www.rue89.com)
+* 2016 [Arsultima, a web app to organize your art collection](http://www.arsultima.com/)
+* 2015 [Holaspirit, a web app to set up Holacracy inside your organization](https://www.holaspirit.com/)
+* 2014 [We cook, an app to help you eat good  food and schedule your meals](http://www.wecook.fr)
+* 2012 [Rue 89, a french news pure player that was built in Drupal in 2012](http://www.rue89.com)
 
 ### Contact me
 
-[lucas.sebastien@gmail.com](mailto:lucas.sebastien@gmail.com)
+I will be always happy to discuss with you about your projects. 
+[Drop me a mail](mailto:lucas.sebastien@gmail.com) or [follow me in Twitter](https://twitter.com/sebastien_lucas)
