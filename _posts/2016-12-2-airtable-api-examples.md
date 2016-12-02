@@ -5,6 +5,16 @@ published: true
 ---
 ## Where to find documentation about Airtable API ? 
 
+* The main documentation is findable inside your
+![Airtable API doc]({{site.baseurl}}/_posts/Capture d'écran 2016-12-02 12.41.30.png)
+![API documentation]({{site.baseurl}}/_posts/Capture d'écran 2016-12-02 12.42.47.png)
+
+
+* A blog post explaining some changes (feb 2016) to the api client 
+http://blog.airtable.com/post/138484080527/the-right-sort-of-api-updates
+
+* a ui allowing to quickly url encode parameters
+https://codepen.io/airtable/full/rLKkYB
 
 
 ## Airtable API usage examples
