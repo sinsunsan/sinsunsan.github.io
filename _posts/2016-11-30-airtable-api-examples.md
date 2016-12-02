@@ -3,6 +3,12 @@ layout: post
 title: How to use Airtable API
 published: true
 ---
+Airtable is an interesting tool for web developer as it is as the crossroad of database ui like phpmyadmin, robotmongo, a spreadsheet like google spreadsheet and a api. 
+
+You can use airtable as an api in a nobackend strategy. Even if you end up using other data storage. It is a good way to start prototyping with true data. Its simplicity of usage allow all team members even non technical to participate. 
+
+You can create your [free account](https://airtable.com/invite/tmyzgSjU "Airtable database in the cloud"). 
+
 ## Where to find documentation about Airtable API ? 
 
 The main documentation is findable inside your Airtable UI
