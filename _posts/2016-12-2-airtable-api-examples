@@ -4,3 +4,21 @@ title: How to use Airtable API
 ---
 
 Let's look at some nice usage of airtable API.
+
+Airtable is an easy to use database that can be edited by non developper. It has a nice api that can do powerful filtering. 
+
+
+Let's see a few example of which queries can be made: 
+
+### API query usage
+
+In all example {tableId} is to replace by your table Id
+
+* **Limit number of items per page**
+`https://api.airtable.com/v0/{DatabaseId}/{TableId}?pageSize=1`
+    
+* **Filters items with a title = to a defined value**
+`https://api.airtable.com/v0/{DatabaseId}/{TableId}?filterByFormula={title}="Ternes"`
+     
+* **Filters items with a integer field > 0**
+`https://api.airtable.com/v0/{DatabaseId}/{TableId}?filterByFormula={cost}>1000000`
