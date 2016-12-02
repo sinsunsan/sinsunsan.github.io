@@ -26,6 +26,10 @@ I am currently building web sites and applications using Angular as a front end 
 * In 1986 I developed my first game using a Amstrad CPC 6128. The scenario of the game was a plane launching missiles on boats. The missiles were ASCII characters !
 * In 1977 I was born the year Apple Inc. get incorporated, Voyager probe started its journey and Centre Pompidou museum erected in Paris
 
+![First mac computer]({{site.baseurl}}/images/mac.jpg)
+
+***
+
 ### My main project : Collaborative architecture design
 
 My main project is to make architecture design a collaborative process. 
@@ -36,7 +40,7 @@ In a word : [The github for architecture](http://www.openbricks.io)!
 * From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
 * From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
 
-![First mac computer]({{site.baseurl}}/images/mac.jpg)
+
 
 ### Other projects I've contributed to 
 
