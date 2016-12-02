@@ -77,7 +77,7 @@ I've posted an [issue](https://github.com/Airtable/airtable.js/issues/15) on air
 
 ![Filter by formula 2]({{site.baseurl}}/_posts/filterbyformula2.png)
 
-I am listing all projects of architects. I want to click on one architect name to have this list limited to only his projects. AS we have just seen, I need his name to do the filtered projects request.
+I am listing all projects of architects. I want to click on one architect name to have this list limited to only his projects. As we have just seen, I need his name to do the filtered projects request.
 
 But now how to get the record name from the table query ? As I need it to make the query. Should I first hit a reuqest to get all architect information, before making a request for his projects. 
 
