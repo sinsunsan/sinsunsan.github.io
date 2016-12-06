@@ -7,23 +7,23 @@ published: false
 Angular 2 architecture have changed, but javascript too. The rise of ES6 usage accompany the release of angular 2. 
 Angular  choose to have dependencies on zone.js and on typescript though it is possible to use angular 2 without typescript
 
-### Typescript 
+## Typescript 
 
-### System js and ES6 stuff 
+## System js and ES6 stuff 
 
-	### You need a package loader!
+* **You need a package loader!**
     
-    ### ES6 is not only syntax changes
+* **ES6 is not only syntax changes**
 
-### Component everywhere 
+## Components everywhere 
 
-### Binding 
+## Binding 
  * the syntax has changed
  * the 2 way bindings is no more the defrult 
 
-### syntax of standard directive
+## Syntax of standard directive
 
-### Observable on top of promise
+## Observable on top of promise
 
-### Zone.js 
+## Zone.js 
 
