@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Start angular 2 now! What are the main differences with angular 1.
-published: false
+published: true
 ---
 
 Angular 2 architecture have changed, but javascript too. The rise of ES6 usage accompany the release of angular 2. 
