@@ -28,11 +28,13 @@ The drawbacks are :
 
 ### The ES6 modules 
 
-ES6  typescript introduce the javascript modules syntax import { myModule} from '../../file.js'; 
-It is nice because it allow to related what each file need in a much more declarative way. 
-The previous way to do that was simply add many script  files in a html file, or concatenate a bunch of file. But not explicit relation was made without those files. 
+ES6  typescript introduce the javascript modules syntax 
+`import { myModule} from '../../file.js';`
 
-With the modules every file "require" / "import" the files it need to execute. If you practice Node.js you should be familiar with that. But 
+It is nice because it allow to define what each files need in a declarative style. 
+The previous way to do that, was simply to add many scripts files in a html fil. Or concatenate a bunch of files in one files. But no explicit relations was set between those files. 
+
+With the modules, every file "require" / "import" the files it need to execute properly. If you practice Node.js you should be familiar with that and the  really simple idea it is. 
 
 ### **You need a package loader!**
 
@@ -61,8 +63,6 @@ But as you get more familiar with observables, you can do more.
 
 <script src="https://gist.github.com/sinsunsan/843a9032f12df31c65fc3fbfd6518d73"></script>
 
-
-          
 
 ## Debuging 
 
