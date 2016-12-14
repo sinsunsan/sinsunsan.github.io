@@ -9,23 +9,35 @@ Angular choose to have dependencies on typescript though it is possible to use a
 
 ## Typescript 
 
-Typescript is  a superset on ES6. It means it have more features than ES6, but all features of ES6. The main feature it have is hard typings hence the name typescript https://www.typescriptlang.org
+Typescript is  a superset of ES6. It means it has all features of ES6 plus additional features. The main differentiating feature is typings hence the name typescript https://www.typescriptlang.org
 But not only, it allows also to use the decorator syntax @ used by angular heavily. 
 
-At first I was not very enthusiast to use Typesript, because it is a software made by Microsoft and I kept with some bad opinions about this firm. But also because I kept with the idea hard typings was a thing for old fashioned java, c++ guys and was not useful in modern workflows. 
+At first I was not very enthusiastic to use Typescript, first because it is a software initiated by Microsoft and I kept with some bad opinions about this firm. But also because I kept with the idea typings was a thing for old fashioned java, c++ guys and was not useful in modern workflows. 
 
-I changed my mind, about Microsoft and about hard typings! It could be really useful, and the best is that you can use it a lot or in a minimal way if you want. It allow you to intercept simple errors before compilation, which is not bad. 
+I changed my mind, about Microsoft and about hard typings! 
+
+It could be really useful, and the best is that you can use it a lot or in a minimal way if you want. It allow you to intercept simple errors before compilation, which is not bad. 
 
 The drawbacks are : 
+
 * you can have bugs only caused by typings stuff....
-* you need to compile back to a file readable by the browser but less readable by you. But anyway with ES6 we will be obliged to work like this till ES6 will be readable directly in all browsers.
+* you need to compile back to a file readable by the browser but less readable by you. But anyway with ES6 we will be obliged to work like this, till ES6 will be readable directly in all browsers.
+
+## System.js and ES6 stuff 
 
 
-## System js and ES6 stuff 
+### The ES6 modules 
 
-* **You need a package loader!**
+ES6  typescript introduce the javascript modules syntax import { myModule} from '../../file.js'; 
+It is nice because it allow to related what each file need in a much more declarative way. 
+The previous way to do that was simply add many script  files in a html file, or concatenate a bunch of file. But not explicit relation was made without those files. 
+
+With the modules every file "require" / "import" the files it need to execute. If you practice Node.js you should be familiar with that. But 
+
+### **You need a package loader!**
+
     
-* **ES6 is not only syntax changes**
+### **ES6 is not only syntax changes**
 
 ## Components everywhere 
 
