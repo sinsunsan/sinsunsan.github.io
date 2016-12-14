@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start angular 2 now! Main differences with angular 1
+title: Start angular 2 now! Main differences from v1
 published: true
 ---
 
