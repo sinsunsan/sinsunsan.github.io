@@ -43,9 +43,14 @@ With the modules, every file "require" / "import" the files it need to execute p
 
 ## Components everywhere 
 
+### Components clear syntax
+
 The component syntax is much, much clearer that in angular 1. By the way everything is component. That mean that no part of the page rendered by angular is not a component. 
 That does not mean you need to over structure your app, with components, sub-components. 
 It is up to  you to be granular as it is useful for you
+
+### Css scoping / Web component like pseudo phantom DOM
+
 
 ## Binding 
  * the syntax has changed
@@ -56,7 +61,8 @@ It is up to  you to be granular as it is useful for you
 ## Observable on top of promise
 
 Observable are a new type of async object, like  promise but with much more possibilities. 
-The doc of observable is available here : [reactivex.io](http://www.reactivex.io). 
+The doc of observables is available here : [reactivex.io](http://www.reactivex.io). 
+
 Practically at first it could be as simple as replacing the **then** of promises 
 by the **subscribe** of observable. 
 But as you get more familiar with observables, you can do more.
@@ -64,7 +70,7 @@ But as you get more familiar with observables, you can do more.
 <script src="https://gist.github.com/sinsunsan/843a9032f12df31c65fc3fbfd6518d73"></script>
 
 
-## Debuging 
+## Debugging 
 
 The debug tools are not the same. I've not finished to discovered the possibilities. But I've found a chrome extension [Augury](https://augury.angular.io) that seem the defacto standard for viewing components hierarchy and properties. It display very nicely the dependencies, the components nesting. 
 
@@ -73,5 +79,6 @@ Though it does not always display all the public properties of the components cl
 It seems that is is not more necessary to write $log.debug as the standard console.log seems enough. How to prevent console logs to display in prod? Do not know yet.
 
 ## Zone.js
+
 
 ### Events
