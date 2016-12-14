@@ -47,7 +47,8 @@ Practically at first it could be as simple as replacing the **then** of promises
 by the **subscribe** of observable. 
 But as you get more familiar with observables, you can do more.
 
-```js
+{% highlight js %}
+
 this.projectService
     .getProject(id)
     .subscribe(
@@ -55,7 +56,8 @@ this.projectService
     		this.project = project.fields;
     	}
     );
- ```
+{% endhighlight ruby %}
+
           
 
 ## Debuging 
