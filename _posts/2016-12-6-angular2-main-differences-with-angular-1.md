@@ -43,7 +43,7 @@ With the modules, every file "require" / "import" the files it need to execute p
 
 ## Components everywhere 
 
-### Components clear syntax
+### Components angular clear syntax
 
 The component syntax is much, much clearer that in angular 1. By the way everything is component. That mean that no part of the page rendered by angular is not a component. 
 That does not mean you need to over structure your app, with components, sub-components. 
@@ -51,8 +51,29 @@ It is up to  you to be granular as it is useful for you
 
 ### Css scoping / Web component like pseudo phantom DOM
 
+Angular 2 introduce an elegant way to use component specific / phantom dom, without waiting for full browser support. Let's reacall what it is. Phantom DOM is a way to isolate the DOM of a component from the interior world so that global CSS do not impact it. 
+
+Let's  take a simple example. You have a sidebar component, with it's style that you want everyone on the planet to be able to use, and also be sure that it's graphical appearance will be preserved.
+
+Without phantom DOM, it is feasible, but you cannot garanty that the appearance of your component will be always preserved. Indeed the only way to style it in a secure way is to use a sort of name spacing with your component css. 
+
+```css
+. complicated-and-specic-name_body {   
+   background: blue; 
+}
+```
+
+But there is always a way to override in the site where it is used. Only with iframe we can achieve this independance of component.
+
+With phantom DOM, we can as the DOM inside the component, in a similar way than the iframe DOM, is not accessible and targetable by css rules from the exterior. 
+
+The problem is the phantom DOM implementation is not yet ready. 
+So in angular 2 they found a system to by pass this (with attributes component name space) and be able ot switch to full phantom DOM support when ready.
+
+With this improvement the 3 part of a web components - css, html and js - are packagable in a convenient way. Component by component and without needing to include a full library where 80% of elements are not useful for you.
 
 ## Binding 
+
  * the syntax has changed
  * the 2 way bindings is no more the default
  * Top > bottom binding is the default : the binding propagate to component and sub-components
