@@ -47,16 +47,8 @@ Practically at first it could be as simple as replacing the **then** of promises
 by the **subscribe** of observable. 
 But as you get more familiar with observables, you can do more.
 
-{% highlight js %}
+<script src="https://gist.github.com/sinsunsan/843a9032f12df31c65fc3fbfd6518d73"></script>
 
-this.projectService
-    .getProject(id)
-    .subscribe(
-    	project => {
-    		this.project = project.fields;
-    	}
-    );
-{% endhighlight ruby %}
 
           
 
