@@ -10,6 +10,7 @@ But let's list some elements to record for those who used angular forms in versi
 ### Template driven forms
 
 * We need to import the form module to enable ngModel and form stuff
+
 ```
 import {FormsModule} from "@angular/forms";
 @NgModule({
@@ -18,7 +19,8 @@ import {FormsModule} from "@angular/forms";
     bootstrap: [App]
 })
 ```
-* The Ng-model accept two-way or one-way binding 
+
+#### The Ng-model accept two-way or one-way binding 
 
 With angular 1 forms, we had the case that the changes in the form get reflected instantly in the rest of the page. As 2 way binding was the default. This could not be always intended. In angular 2, you have the choice.
 
