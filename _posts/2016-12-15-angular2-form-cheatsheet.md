@@ -10,7 +10,7 @@ But let's list some elements to record for those who used angular forms in versi
 
 ### 2 way to build forms : template driven and model driven 
 
-Template driven is the tradionnal way with html and angular directives. 
+Template driven is the tradional way with html and angular directives. 
 
 * **Advantages**: 
    * Feel more natural and readable 
