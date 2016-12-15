@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: How  to use JSPM / A good alternative to web pack
+title: JSPM / A good alternative to web pack
 ---
 Jspm is an alternative to using webpack. It's philosophy is quite different and intersting. Here is what you need to know about it. 
 
