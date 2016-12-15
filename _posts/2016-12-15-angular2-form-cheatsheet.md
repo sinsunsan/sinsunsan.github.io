@@ -27,6 +27,27 @@ With angular 1 forms, we had the case that the changes in the form get reflected
 * **[(ngModel)]** : to have the form state reflected back in real time (two way binding)
 * **[ngModel]** : to have the form data just initialised and actualised programatically when the form is submited and when the api call is successful. (one way binding)
 
+### Syntax the name the form 
+
+To identify the form and be able to  access it's data (not the ng-model) but all data about form validation, touched, non touched states...
+you use this syntax :
+
+**#NameOfYouForm="ngForm"**
+
+Yes it is strange!
+But why not?
+
+```html
+<form #myForm="ngForm" (ngSubmit)="submit()">
+```
+
+You probably need to access it to prevent the form to be submitted. 
+**myForm.valid** is testing a global form bolean  that is true if all form fields are valid (required fields filled, no validation errors...)
+
+```html
+<button type="submit" [disabled]="!myForm.valid">Submit</button>
+```
+
 ### 2 way to build forms : template driven and model driven 
 
 Template driven is the tradional way with html and angular directives. 
