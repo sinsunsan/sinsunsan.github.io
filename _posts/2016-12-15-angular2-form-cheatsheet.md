@@ -11,7 +11,7 @@ But let's list some elements to record for those who used angular forms in versi
 
 * We need to import the form module to enable ngModel and form stuff
 
-```
+```ts
 import {FormsModule} from "@angular/forms";
 @NgModule({
     declarations: [App],
@@ -22,10 +22,10 @@ import {FormsModule} from "@angular/forms";
 
 #### The Ng-model accept two-way or one-way binding 
 
-With angular 1 forms, we had the case that the changes in the form get reflected instantly in the rest of the page. As 2 way binding was the default. This could not be always intended. In angular 2, you have the choice.
+With angular 1 forms, we had the case that the changes in the form get reflected instantly in the rest of the page. As 2 way binding was the default. This could not be always intended. In angular 2, you have the choic :
 
-* [(ngModel)] : to have the form state reflected back in real time (two way binding)
-* [ngModel] : to have the form data just initialised and actualised programatically when the form is submited and when the api call is successful. (one way binding)
+* **[(ngModel)]** : to have the form state reflected back in real time (two way binding)
+* **[ngModel]** : to have the form data just initialised and actualised programatically when the form is submited and when the api call is successful. (one way binding)
 
 ### 2 way to build forms : template driven and model driven 
 
