@@ -5,11 +5,15 @@ title: JSPM A good alternative to web pack
 ---
 Jspm is an alternative to using webpack. It's philosophy is quite different and intersting. Here is what you need to know about it. 
 
+### JSPM online 
+
 The main site 
 [http://jspm.io/](http://jspm.io/)
 
 The [documentation of  jspm on github](https://github.com/jspm/jspm-cli/tree/master/docs)
 
+
+### In short 
 
 * JSPM use existing Package managers : NPM & Github 
 
@@ -22,11 +26,13 @@ and the exact location of the file in the `jspm_packages`
 
 ### How JSPM deal with version 
 
-
 jspm install installs the latest versions of packages listed in the package.json respecting semver ranges defined in it. 
 
 Once installed, exact versions numbers(not ranges) are stored in jspm's config.js. The subsequent jspm installs will install concrete versions stored in the config.js
 
-#### how to update JSPM managed libraries ot latest version 
+#### Download packages
 
-````jspm update````
+`jspm update` Update libraries to their  latest version in the range defined in the package.json
+`jspm inspect` List all exact version install by  jspm 
+`jspm install` Reinstall all libraries following package.js stored jspm formula
+
