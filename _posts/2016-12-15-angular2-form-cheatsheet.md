@@ -47,8 +47,9 @@ import {FormsModule} from "@angular/forms";
 
 With angular 1 forms, we had the case that the changes in the form get reflected instantly in the rest of the page. As 2 way binding was the default. This could not be always intended. In angular 2, you have the choic :
 
-* **[(ngModel)]** : to have the form state reflected back in real time (two way binding)
-* **[ngModel]** : to have the form data just initialised and actualised programatically when the form is submited and when the api call is successful. (one way binding)
+* **[(ngModel)]="proj.field"** : to have the form state reflected back in real time (two way binding)
+* **[ngModel]="proj.field"** : to have the form data just initialised and actualised programatically when the form is submited and when the api call is successful. (one way binding)
+* **ngModel**: If you do not want initialization but form validation a simple  ngModel without any field or object
 
 #### Syntax the name the form 
 
@@ -70,5 +71,15 @@ You probably need to access it to prevent the form to be submitted.
 ```html
 <button type="submit" [disabled]="!myForm.valid">Submit</button>
 ```
+
+#### Form controls 
+
+Each field identified by a name is 
+````html
+<input type="text" name="project">
+````
+
+That is foundable in **myForm.forms.controls**.
+
 
 
