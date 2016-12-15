@@ -5,6 +5,12 @@ title: How  to use JSPM / A good alternative to web pack
 ---
 Jspm is an alternative to using webpack. It's philosophy is quite different and intersting. Here is what you need to know about it. 
 
+The main site 
+http://jspm.io/
+
+The documentation of  jspm
+https://github.com/jspm/jspm-cli/tree/master/docs
+
 * JSPM use existing Package managers : NPM & Github 
 
 * JSPM manager the config.js file to be used by system.js 
