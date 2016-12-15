@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Tutorials to learn Angular 2
+title: The tutorials I read to learn Angular 2
 published: true
 ---
 ### Forms
