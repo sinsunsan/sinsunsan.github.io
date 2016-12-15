@@ -30,6 +30,33 @@ jspm install installs the latest versions of packages listed in the package.json
 
 Once installed, exact versions numbers(not ranges) are stored in jspm's config.js. The subsequent jspm installs will install concrete versions stored in the config.js
 
+### version required by the app & versions required by the libs
+
+JSPM install version required by the libraries also so it can store and import different versions
+
+Let's inspect the rxjs  packages isntalled
+
+```
+jspm inspect npm:rxjs
+
+Installed versions of npm:rxjs
+
+       rxjs 5.0.1 (^5.0.1)
+
+       npm:@angular/core@2.3.1
+         rxjs 5.0.0-rc.4 (5.0.0-rc.4)
+
+       npm:@angular/http@2.3.1
+         rxjs 5.0.0-rc.4 (5.0.0-rc.4)
+
+       npm:@angular/router@3.3.1
+         rxjs 5.0.0-rc.4 (5.0.0-rc.4)
+
+       npm:angularfire2@2.0.0-beta.6-preview
+         rxjs 5.0.0-beta.12 (5.0.0-beta.12)
+
+```
+
 #### Download packages
 
 `jspm update` Update libraries to their  latest version in the range defined in the package.json
