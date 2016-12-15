@@ -3,7 +3,7 @@ layout: post
 title: Angular 2 forms cheatsheets
 published: true
 ---
-Angular 2 form add many improvements on angula r1 version. There is good in [depth tutorials](http://dev.sebastienlucas.com/good-tutorials-to-learn-angular2/) explaining how to use it. 
+Angular 2 form add many improvements on angular 1 version. There is good in [depth tutorials](http://dev.sebastienlucas.com/good-tutorials-to-learn-angular2/) explaining how to use it. 
 
 Let's list the most important elements to record for those who used angular forms in version 1.
 
