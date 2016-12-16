@@ -14,6 +14,10 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * [Introduction to Angular 2 Forms - Template Driven vs Model Driven or Reactive Forms
 ](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven)
 
+## Events 
+* Event and @output decorator     
+[https://toddmotto.com/component-events-event-emitter-output-angular-2](https://toddmotto.com/component-events-event-emitter-output-angular-2)
 ## Components 
 
-* [http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
+* Children  view    
+[http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
