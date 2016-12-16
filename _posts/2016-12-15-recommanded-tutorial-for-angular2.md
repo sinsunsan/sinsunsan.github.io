@@ -7,7 +7,7 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 
 ## Global
 * Offical tutorial      
-https://angular.io/docs/ts/latest/tutorial/
+[https://angular.io/docs/ts/latest/tutorial/](https://angular.io/docs/ts/latest/tutorial/)
 *  Light weight documentation with both ES6 and Angular 2 made by Ionic team     
 [Learn angular 2](http://learnangular2.com)
 
