@@ -16,4 +16,4 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 
 ### Components 
 
-* http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders
+* [http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
