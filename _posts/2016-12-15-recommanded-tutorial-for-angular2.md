@@ -34,3 +34,8 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 ## Decorator / Annotation syntax [Typescript]
 
 * Difference between decorator and annotation [http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
+
+## ES 6 
+
+* Exploring JS / Full online book on javascripting with extensive doc on ES6 
+[http://exploringjs.com/es6/ch_destructuring.html#_object-destructuring](http://exploringjs.com/es6/ch_destructuring.html#_object-destructuring)
