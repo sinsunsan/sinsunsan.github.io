@@ -21,9 +21,11 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * Reactive forms    
 [https://toddmotto.com/angular-2-forms-reactive](https://toddmotto.com/angular-2-forms-reactive)
 
-## Events 
+## Events / Change detection
 * Event and @output decorator     
 [https://toddmotto.com/component-events-event-emitter-output-angular-2](https://toddmotto.com/component-events-event-emitter-output-angular-2)
+* Change detection in Angular 2 
+[http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html](http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
 
 ## Components 
 
