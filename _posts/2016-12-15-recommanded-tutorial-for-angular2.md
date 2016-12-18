@@ -11,6 +11,8 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 [https://angular.io/docs/ts/latest/tutorial/](https://angular.io/docs/ts/latest/tutorial/)
 *  Light weight documentation with both ES6 and Angular 2 made by Ionic team     
 [Learn angular 2](http://learnangular2.com)
+* 132+ Video tutorial on specific pratical cases
+[https://egghead.io/technologies/angular2](https://egghead.io/technologies/angular2)
 
 ## Forms
 
