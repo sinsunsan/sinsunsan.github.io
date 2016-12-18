@@ -20,6 +20,8 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 [http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven)
 * Reactive forms    
 [https://toddmotto.com/angular-2-forms-reactive](https://toddmotto.com/angular-2-forms-reactive)
+* Guide to forms in angular 2 
+[http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 
 ## Events / Change detection
 * Event and @output decorator     
