@@ -44,6 +44,12 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * Children  view    
 [http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
 
+## Modules 
+
+Organize your code in a modular way. Import a module instead of importing a dozen of files (javascript modules). Despite of the use of ES6 modules in angular, angular  modules @ngModules are still useful to bundle a feature or a shared utility together. 
+
+* [https://scotch.io/bar-talk/getting-to-know-angular-2s-module-ngmodule](https://scotch.io/bar-talk/getting-to-know-angular-2s-module-ngmodule)
+
 ## Decorator / Annotation syntax [Typescript]
 
 * Difference between decorator and annotation [http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
