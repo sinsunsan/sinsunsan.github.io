@@ -16,14 +16,22 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 
 ## Forms
 
+* Guide to forms in angular 2    
+[http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
+
+### Reactive forms or model driven fields
+
 * Using Angular2 model driven forms    
 [https://scotch.io/tutorials/using-angular-2s-model-driven-forms-with-formgroup-and-formcontrol](https://scotch.io/tutorials/using-angular-2s-model-driven-forms-with-formgroup-and-formcontrol)
 * Introduction to Angular 2 Forms - Template Driven vs Model Driven or Reactive Forms   
 [http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven)
 * Reactive forms    
 [https://toddmotto.com/angular-2-forms-reactive](https://toddmotto.com/angular-2-forms-reactive)
-* Guide to forms in angular 2    
-[http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
+
+### Forms fields 
+
+* Example of different types of fields    
+[https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
 
 ## Events / Change detection
 * Event and @output decorator     
@@ -35,7 +43,6 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 
 * Children  view    
 [http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
-
 
 ## Decorator / Annotation syntax [Typescript]
 
