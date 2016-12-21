@@ -61,9 +61,11 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 ## Typescript 
 
-* Detailed explanation about how the modules resolution works with the typescript compiler. How typescript find a module when we write something like :    
+* Detailed explanation about how the modules resolution works with the typescript compiler. How typescript find a module when we write something like :   
+
 ```js
 import { Component, Input }                from '@angular/core';
 import { OptionService }                   from '../../../services/api/option.service';
 ```    
+
 https://www.typescriptlang.org/docs/handbook/module-resolution.html
