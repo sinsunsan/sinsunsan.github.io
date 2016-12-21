@@ -58,3 +58,12 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 * Exploring JS / Full online book on javascripting with extensive doc on ES6 
 [http://exploringjs.com/es6/ch_destructuring.html#_object-destructuring](http://exploringjs.com/es6/ch_destructuring.html#_object-destructuring)
+
+## Typescript 
+
+* Detailed explanation about how the modules resolution works with the typescript compiler. How typescript find a module when we write something like :    
+```js
+import { Component, Input }                from '@angular/core';
+import { OptionService }                   from '../../../services/api/option.service';
+```    
+https://www.typescriptlang.org/docs/handbook/module-resolution.html
