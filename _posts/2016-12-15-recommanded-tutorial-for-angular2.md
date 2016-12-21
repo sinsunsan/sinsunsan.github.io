@@ -70,4 +70,9 @@ import { Component, Input }   from '@angular/core';
 import { OptionService }      from '../../../services/api/option.service';
 ```    
 
-https://www.typescriptlang.org/docs/handbook/module-resolution.html
+[https://www.typescriptlang.org/docs/handbook/module-resolution.html](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
+
+## System.js / JSPM 
+
+* A installation guide using JSPM / Typescript and System.js    
+[http://www.mario-brendel.com/angular2-setup/2016/01/28/Angular2_Jspm_Setup_Part1/](http://www.mario-brendel.com/angular2-setup/2016/01/28/Angular2_Jspm_Setup_Part1/)
