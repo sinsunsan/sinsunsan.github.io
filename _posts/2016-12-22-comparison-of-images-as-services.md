@@ -1,6 +1,6 @@
 ---
 published: true
-title: Comparison of images as services solutions
+title: Comparison of images as a service solutions
 ---
 Images as a service is a convenient to handle images upload in a web site. 
 
