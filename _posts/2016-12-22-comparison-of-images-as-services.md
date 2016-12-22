@@ -22,4 +22,4 @@ Here is a comparison table of the different services.
 Feel free to suggest me other I have not listed here.
 I included only the first plan below 100$.
 
-https://airtable.com/shrRHT8OAv0glDMpw/tblH80HUr0OUoXXpY
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrRHT8OAv0glDMpw?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
