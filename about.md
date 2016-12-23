@@ -17,12 +17,12 @@ If you are interested to work with me, here is my updated [Web developer Resume]
 ### 2017-... : AI period? (Angular 2 + Docker + AI?...)
 
 My favorite  editor: [Atom.io](https://atom.io/)    
-My main project: [Bricks](http://www.bricksapp.io)
+My main project: [Bricks, Agile and open architecture app](http://www.bricksapp.io)
 
 ### 2014-2016 : Full stack period (Angular + Node)
 
 My favorite editor : [Sublime text](https://www.sublimetext.com/)   
-My Main project : [Openbricks.io](www.openbricks.io)
+My Main project : [Openbricks.io, the hub for open source architecture](www.openbricks.io)
 
 * From 2014 to 2016, I am a "Full stack js developer" using both Angular and Node
 * In 2015 I worked for [Holaspirit](https://www.holaspirit.com)
@@ -31,7 +31,7 @@ My Main project : [Openbricks.io](www.openbricks.io)
 ### 2010-2013 : Drupal period (Drupal + Php)
 
 My favorite editor : [Text Mate](https://macromates.com/)   
-My main project : [Archiref](www.archiref.com)
+My main project : [Archiref, the visual source of architecture](www.archiref.com)
 
 * From 2010 to 2013, I coded in php and using Drupal CMS
 * In 2011, I worked for [Rue 89](http://rue89.nouvelobs.com)
