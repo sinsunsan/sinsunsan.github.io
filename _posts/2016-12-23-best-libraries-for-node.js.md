@@ -1,8 +1,22 @@
 ---
 published: true
-title: The best libraries for node.js
+title: The best libraries and modules of node.js
 ---
 Here is a growing selection of the most useful libraries for node.
+
+## Node JS Core modules 
+
+* **PATH** Allow to work on path and urls. Split a path, take the file name...    
+[https://nodejs.org/api/path.html](https://nodejs.org/api/path.html)
+
+* **FS** : Allow to work on file to save file on disk...     
+[https://nodejs.org/api/fs.html](https://nodejs.org/api/fs.html)
+
+
+*** 
+
+## Libraries for Node.js
+
 
 ### Utilities 
 
