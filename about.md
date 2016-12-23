@@ -69,7 +69,7 @@ I have been working on 3 projects to realize this goal :
 
 * From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
 * From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
-* From 2010 [Archiref, the visual source of architecture to find visual inspiration for your projects](http://www.archiref.com)
+* From 2010 [Archiref, a platform to find visual inspiration for your architecture projects](http://www.archiref.com)
 
 
 ### Other projects I have contributed to 
