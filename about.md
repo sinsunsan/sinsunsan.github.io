@@ -63,15 +63,15 @@ My main project : [Sébastien Lucas - Photography](www.sebastienlucas.com)
 ### My main project : Collaborative architecture design
 
 My main project is to make architecture design a collaborative process. 
-Empower architects and architecture lovers to design with the community, sharing elements of projects with their team or in open source. 
-In a word : [The github for architecture](http://www.openbricks.io)!
+Empower architects and architecture lovers to design with the community, sharing elements of projects with their team or under open source licences with the community. 
 
-* From 2010 [Archiref, the visual source of architecture to find visual inspiration for your projects](http://www.archiref.com)
-* From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
+I have been working on 3 projects to realize this goal : 
 * From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
+* From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
+* From 2010 [Archiref, the visual source of architecture to find visual inspiration for your projects](http://www.archiref.com)
 
 
-### Other projects I've contributed to 
+### Other projects I have contributed to 
 
 * 2016 [Arsultima, a web app to organize your art collection](http://www.arsultima.com/)
 * 2015 [Holaspirit, a web app to set up Holacracy inside your organization](https://www.holaspirit.com/)
