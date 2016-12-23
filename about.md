@@ -21,8 +21,9 @@ Current Explorations :
 * Angular 2 : A lot of changes to learn Typescript, ES6...
 * Node, micro services...
 * Docker : Awesome !
-* Baas : Why make a backend and concentrate on the front only
-* Extrnal APIs : I am not sufficiently using APIs
+* Graph databases and semantic web
+* Firebase, Baas : Why make a backend and concentrate on the front only
+* External APIs : I am not sufficiently using APIs
 * AI? : Would like but not a lot of time
 
 My favorite  editor: [Atom.io](https://atom.io/)    
