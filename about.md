@@ -16,7 +16,7 @@ If you are interested to work with me, here is my updated [Web developer Resume]
 
 ### 2017-... : AI period? (Angular 2 + Docker + AI?...)
 
-My favorite  editor: [Atom.io](https://atom.io/)
+My favorite  editor: [Atom.io](https://atom.io/)    
 My main project: [Bricks](http://www.bricksapp.io)
 
 ### 2014-2016 : Full stack period (Angular + Node)
