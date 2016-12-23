@@ -14,7 +14,15 @@ If you are interested to work with me, here is my updated [Web developer Resume]
 
 ## My story with code
 
-### 2017-... : this.period (Angular 2 + Node + Docker + AI? + API...)
+### 2017-... : NOW Period (Angular 2 & 
+
+Current Explorations : 
+* Angular 2 : A lot of changes to learn Typescript, ES6...
+* Node, micro services...
+* Docker : Awesome !
+* Baas : Why make a backend and concentrate on the front only
+* Extrnal APIs : I am not sufficiently using APIs
+* AI? : Would like but not a lot of time
 
 My favorite  editor: [Atom.io](https://atom.io/)    
 My main project: [Bricks, Agile and open architecture app](http://www.bricksapp.io)
@@ -25,17 +33,19 @@ My favorite editor : [Sublime text](https://www.sublimetext.com/)
 My Main project : [Openbricks.io, the hub for open source architecture](www.openbricks.io)
 
 * From 2014 to 2016, I am a "Full stack js developer" using both Angular and Node
+* In 2016 I worked for [Arsultima](http://www.arsultima) & Mosaïc
 * In 2015 I worked for [Holaspirit](https://www.holaspirit.com)
-* In 2014 I worked for [We Cook ](https://www.wecook.fr)
+* In 2014 I worked for [We Cook](https://www.wecook.fr)
 
 ### 2010-2013 : Drupal period (Drupal + Php)
 
 My favorite editor : [Text Mate](https://macromates.com/)   
 My main project : [Archiref, the visual source of architecture](www.archiref.com)
 
-* From 2010 to 2013, I coded in php and using Drupal CMS
-* In 2011, I worked for [Rue 89](http://rue89.nouvelobs.com)
-* In 2010 I worked for [Plume.fr agency](http://plume.fr)
+* From 2010 to 2013, I coded in PHP and with Drupal CMS (version 6)
+* In 2013 I Worked for different companies : AKQA, Isobar, Fullsix....
+* In 2012, I worked for [Rue 89](http://rue89.nouvelobs.com)
+* In 2011 I worked for [Plume.fr agency](http://plume.fr)
 
 ### 2007-2009 : Php Period (Php + Mysql + Html)
 
