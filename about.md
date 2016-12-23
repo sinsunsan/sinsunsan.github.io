@@ -40,7 +40,7 @@ My main project : [Archiref, the visual source of architecture](www.archiref.com
 ### 2007-2009 : Php Period (Php + Mysql + Html)
 
 My favorite editor : [Notepad ++](https://notepad-plus-plus.org/)   
-My main project : [Sébastien Lucas - Photography](www.sebastienlucas.com)
+My main project : [Sébastien Lucas - Photography](http://www.sebastienlucas.com)
 
 * In 2009-2010 I studied photography and started to work as an [architecture photographer](http://www.sebastienlucas.com) along with my web development activities
 * In 2009, I released my first client site
