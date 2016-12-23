@@ -10,7 +10,7 @@ Hello,
 I am Sébastien Lucas, a french self taught web developer. 
 I am currently building web sites and applications using Angular as a front end and Node as the backend.
 
-If you are interested to work with me, you can have more information about my project on my updated [Web developer Resume](http://bit.ly/slucas-web).
+If you are interested to work with me, here is my updated [Web developer Resume](http://bit.ly/slucas-web).
 
 ## My story with code
 
