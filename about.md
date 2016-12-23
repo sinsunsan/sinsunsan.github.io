@@ -14,9 +14,10 @@ If you are interested to work with me, here is my updated [Web developer Resume]
 
 ## My story with code
 
-### 2017-... : NOW Period (Angular 2 & 
+### 2017-... : NOW Period (Angular 2 & more)
 
 Current Explorations : 
+
 * Angular 2 : A lot of changes to learn Typescript, ES6...
 * Node, micro services...
 * Docker : Awesome !
