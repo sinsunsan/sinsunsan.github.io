@@ -14,12 +14,12 @@ If you are interested to work with me, here is full updated [Web developer Resum
 
 ## My story with code
 
-### 2017 Angular 2 / AI / Docker.....
+### 2017-... : AI period? (Angular 2 + Docker + AI?...)
 
 My favorite  editor: [Atom.io](https://atom.io/)
 My main project: [Bricks](http://www.bricksapp.io)
 
-### From 2014-2016 : Full stack period (Angular + Node)
+### 2014-2016 : Full stack period (Angular + Node)
 
 My favorite editor : [Sublime text](https://www.sublimetext.com/)   
 My Main project : [Openbricks.io](www.openbricks.io)
@@ -28,7 +28,7 @@ My Main project : [Openbricks.io](www.openbricks.io)
 * In 2015 I worked for [Holaspirit](https://www.holaspirit.com)
 * In 2014 I worked for [We Cook ](https://www.wecook.fr)
 
-### From 2010-2013 : Drupal period (Drupal + Php)
+### 2010-2013 : Drupal period (Drupal + Php)
 
 My favorite editor : [Text Mate](https://macromates.com/)   
 My main project : [Archiref](www.archiref.com)
@@ -51,9 +51,9 @@ My main project : [Sébastien Lucas - Photography](www.sebastienlucas.com)
 * From 2002 to 2006 I worked in several architecture, landscape and urbanism studio (Agence Ter, Fortier...)
 * From 1994 to 2002 I studied Architecture in Paris and [México](http://mexico.sebastienlucas.com)
 
-### 1986 - 1995 : Prehistory of code
+### 1986 - 1995 : Code prehistory period
 
-* In 1986 I developed my first game using a Amstrad CPC 6128. The scenario of the game was a plane launching missiles on boats. The missiles were ASCII characters !
+* In 1986 I developed my first game using a Amstrad CPC 6128. The scenario of the game was a plane launching missiles on boats. The missiles were ASCII symbols!
 * In 1977 I was born the year Apple Inc. get incorporated, Voyager probe started its journey and Centre Pompidou museum erected in Paris
 
 ![First mac computer]({{site.baseurl}}/images/mac.jpg)
