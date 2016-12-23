@@ -19,9 +19,6 @@ Here is a growing selection of the most useful libraries for node.
 
 ### Express 
 
-* **express-history-api-fallback** Simple fallback for Express-served single page apps that use the HTML5 History API for client side routing > Redirect to index.html internally thought it display the html5 history in the url which is used by Angular app for example to know the client side routing.
-[https://github.com/sebdeckers/express-history-api-fallback](https://github.com/sebdeckers/express-history-api-fallback)
-
 ### Utilities 
 
 * **Lodash** : the utility library for javascript    
