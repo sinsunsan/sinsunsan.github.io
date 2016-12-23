@@ -32,7 +32,7 @@ My main project: [Bricks, Agile and open architecture app](http://www.bricksapp.
 ### 2014-2016 : Full stack period (Angular + Node)
 
 My favorite editor : [Sublime text](https://www.sublimetext.com/)   
-My Main project : [Openbricks.io, the hub for open source architecture](www.openbricks.io)
+My Main project : [Openbricks.io, the hub for open source architecture](http://www.openbricks.io)
 
 * From 2014 to 2016, I am a "Full stack js developer" using both Angular and Node
 * In 2016 I worked for [Arsultima](http://www.arsultima) & Mosaïc
@@ -42,7 +42,7 @@ My Main project : [Openbricks.io, the hub for open source architecture](www.open
 ### 2010-2013 : Drupal period (Drupal + Php)
 
 My favorite editor : [Text Mate](https://macromates.com/)   
-My main project : [Archiref, the visual source of architecture](www.archiref.com)
+My main project : [Archiref, the visual source of architecture](http://www.archiref.com)
 
 * From 2010 to 2013, I coded in PHP and with Drupal CMS (version 6)
 * In 2013 I Worked for different companies : AKQA, Isobar, Fullsix....
