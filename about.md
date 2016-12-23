@@ -14,7 +14,7 @@ If you are interested to work with me, here is my updated [Web developer Resume]
 
 ## My story with code
 
-### 2017-... : Exploration period (Angular 2 + Node + Docker + AI? + API...)
+### 2017-... : this.period (Angular 2 + Node + Docker + AI? + API...)
 
 My favorite  editor: [Atom.io](https://atom.io/)    
 My main project: [Bricks, Agile and open architecture app](http://www.bricksapp.io)
