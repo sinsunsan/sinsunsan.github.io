@@ -66,6 +66,7 @@ My main project is to make architecture design a collaborative process.
 Empower architects and architecture lovers to design with the community, sharing elements of projects with their team or under open source licences with the community. 
 
 I have been working on 3 projects to realize this goal : 
+
 * From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
 * From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
 * From 2010 [Archiref, the visual source of architecture to find visual inspiration for your projects](http://www.archiref.com)
