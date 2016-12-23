@@ -12,14 +12,14 @@ I am currently building web sites and applications using Angular as a front end 
 
 If you are interested to work with me, here is full updated [Web developer Resume](http://bit.ly/slucas-web).
 
-### My story with code
+## My story with code
 
-#### 2017 Angular 2 / AI / Docker.....
+### 2017 Angular 2 / AI / Docker.....
 
 My favorite  editor: [Atom.io](https://atom.io/)
 My main project: [Bricks](http://www.bricksapp.io)
 
-#### From 2014-2016 : Full stack period (Angular + Node)
+### From 2014-2016 : Full stack period (Angular + Node)
 
 My favorite editor : [Sublime text](https://www.sublimetext.com/)   
 My Main project : [Openbricks.io](www.openbricks.io)
@@ -28,7 +28,7 @@ My Main project : [Openbricks.io](www.openbricks.io)
 * In 2015 I worked for [Holaspirit](https://www.holaspirit.com)
 * In 2014 I worked for [We Cook ](https://www.wecook.fr)
 
-#### From 2010-2013 : Drupal period (Drupal + Php)
+### From 2010-2013 : Drupal period (Drupal + Php)
 
 My favorite editor : [Text Mate](https://macromates.com/)   
 My main project : [Archiref](www.archiref.com)
@@ -37,7 +37,7 @@ My main project : [Archiref](www.archiref.com)
 * In 2011, I worked for [Rue 89](http://rue89.nouvelobs.com)
 * In 2010 I worked for [Plume.fr agency](http://plume.fr)
 
-#### 2007-2009 : Php Period (Php + Mysql + Html)
+### 2007-2009 : Php Period (Php + Mysql + Html)
 
 My favorite editor : [Notepad ++](https://notepad-plus-plus.org/)   
 My main project : [Sébastien Lucas - Photography](www.sebastienlucas.com)
@@ -69,7 +69,6 @@ In a word : [The github for architecture](http://www.openbricks.io)!
 * From 2010 [Archiref, the visual source of architecture to find visual inspiration for your projects](http://www.archiref.com)
 * From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
 * From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
-
 
 
 ### Other projects I've contributed to 
