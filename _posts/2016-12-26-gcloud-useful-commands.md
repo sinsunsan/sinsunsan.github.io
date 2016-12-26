@@ -19,6 +19,7 @@ The full gcloud doc is available [here](https://cloud.google.com/sdk/gcloud).
 [https://cloud.google.com/sdk/gcloud/reference/auth/login](https://cloud.google.com/sdk/gcloud/reference/auth/login)    
 
 `gcloud auth login`     
+
 Open a browser tab displaying an oauth consent screen and  ask you to connect to you google account. 
 If you are  not logged yet. It is the first step to do, to have authorization to manage your projects.
 
@@ -27,8 +28,10 @@ If you are  not logged yet. It is the first step to do, to have authorization to
 [https://cloud.google.com/sdk/gcloud/reference/projects/list](https://cloud.google.com/sdk/gcloud/reference/projects/list)     
 
 `gcloud projects list`    
+
 Display a list of your projects 
 The name if the human name  and project_id is an unique project id derived from the human name.
+
 ```shell
 $ gcloud projects list
 PROJECT_ID                NAME         PROJECT_NUMBER
