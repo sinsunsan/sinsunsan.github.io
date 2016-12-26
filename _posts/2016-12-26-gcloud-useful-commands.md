@@ -70,5 +70,14 @@ When inside the app directory, typing this command try to load the online versio
 
 When in the local app code directory upload the files following teh guidance of a specific yaml file.
 
+If like me at your first attempt you have the following message 
+
+`ERROR: (gcloud.app.deploy) You do not have permission to access app [bookshelf] (or it may not exist): Operation not allowed`
+
+You should try a debug mode as explained [here](http://stackoverflow.com/questions/39594478/do-not-have-permission-to-access-app-while-deploying-google-service-account). 
+
+`$ gcloud app deploy --log-http --verbosity=debug`
+
+
 
 
