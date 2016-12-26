@@ -52,3 +52,23 @@ Display :
 * ....
 
 Well you have got a problem with your local install, typing this command could be a good start.
+
+
+### Open an app in the browser 
+
+[https://cloud.google.com/sdk/gcloud/reference/app/browse](https://cloud.google.com/sdk/gcloud/reference/app/browse)
+
+`gcloud app browse`
+
+When inside the app directory, typing this command try to load the online version
+
+### Deploy an app
+
+[https://cloud.google.com/sdk/gcloud/reference/app/deploy](https://cloud.google.com/sdk/gcloud/reference/app/deploy)
+
+`gcloud app deploy`
+
+When in the local app code directory upload the files following teh guidance of a specific yaml file.
+
+
+
