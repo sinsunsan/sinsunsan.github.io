@@ -38,3 +38,17 @@ PROJECT_ID                NAME         PROJECT_NUMBER
 api-project-194095586610  API Project  194095586610
 bookshelf-153721          bookshelf    723276592807
 ```
+
+### Get information about your gcloud environment 
+
+[https://cloud.google.com/sdk/gcloud/reference/info](https://cloud.google.com/sdk/gcloud/reference/info)
+
+`gcloud info`   
+
+Display : 
+* Installed components
+* Default project 
+* Important files (logs...) that you can access
+* ....
+
+Well you have got a problem with your local install, typing this command could be a good start.
