@@ -8,7 +8,7 @@ I am a beginner with google cloud and found the UI quite confusing. A bit less t
 
 They should  take example on [Digital Ocean](digitalocean.com), that I love and trust a lot. Why? Because it is very elegantly designed. 
 
-Anyway when trying to forget all the useless information that is displayed in the UI. And thanks to the tutorials, I have understood a bit more how the hell it work. 
+Anyway when trying to forget all the useless information that is displayed in the UI. And thanks to the tutorials ([like the hello  world in node.js](https://cloud.google.com/nodejs/)), I have understood a bit more how the hell it work. 
 
 An important utility to manage project is **gcloud**. So we are going to identify some useful commands to dig a bit more in what it can do.
 
