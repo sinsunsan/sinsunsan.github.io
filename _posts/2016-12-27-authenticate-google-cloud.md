@@ -57,7 +57,7 @@ For the case of a server that want to have access to the app.
 I ended with the concept of **Application Default Credentials**.
 Documented in this [page](https://developers.google.com/identity/protocols/application-default-credentials?hl=en_US).
 
-I am interested in the node.js version 
+I am interested in the [node.js version](https://developers.google.com/identity/protocols/application-default-credentials#callingnode) 
 
 It use a library :   
 [https://github.com/google/google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) which is global to all google APIs.
@@ -85,6 +85,9 @@ Let's use it, as its doc should be clearer (as it is more specific)
 
 [https://github.com/google/google-auth-library-nodejs](https://github.com/google/google-auth-library-nodejs)
 
+So again :
+
+`npm install google-auth-library --save`
 
 
 
