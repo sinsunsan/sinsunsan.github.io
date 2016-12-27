@@ -16,6 +16,7 @@ the tutorial suggest you
 > Enable both the Google App Engine Admin API and Google Cloud Storage API in your Cloud Platform project:
 
 So :
+
 * Api's are not enabled by default
 * there is 2 concepts :
    * google cloud storage : for storing static files
