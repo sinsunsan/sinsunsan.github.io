@@ -116,4 +116,8 @@ Yes, I do not like writing boiler plate code! After hours of search I am quite h
 
 https://googlecloudplatform.github.io/google-cloud-node/#/
 
+And google cloud is the recommanded way, good to know....
+
+> The Google APIs Node.js Client is a client library for using the broad set of Google APIs. google-cloud is built specifically for the Google Cloud Platform and is the recommended way to integrate Google Cloud APIs into your Node.js applications. If your application requires both Google Cloud Platform and other Google APIs, the 2 libraries may be used by your application.
+
 
