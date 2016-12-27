@@ -94,6 +94,7 @@ While reading a [discussion](https://groups.google.com/forum/#!topic/firebase-ta
 [https://github.com/GoogleCloudPlatform/google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node)
 
 So let's sum up : 
+
 * [https://github.com/google/google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) Manage all google apis with node.js app indepently of gcloud
 * [https://github.com/google/google-auth-library-nodejs](https://github.com/google/google-auth-library-nodejs) Manage only the authentication in the  context of gcloud or not 
 * [https://github.com/GoogleCloudPlatform/google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node) the gcloud specific library 
