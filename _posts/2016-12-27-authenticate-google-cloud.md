@@ -120,3 +120,7 @@ And google cloud is the recommanded way, good to know....
 > The Google APIs Node.js Client is a client library for using the broad set of Google APIs. google-cloud is built specifically for the Google Cloud Platform and is the recommended way to integrate Google Cloud APIs into your Node.js applications. If your application requires both Google Cloud Platform and other Google APIs, the 2 libraries may be used by your application.
 
 
+Here is a much more detailed description on how to authenticate with google-cloud SDK (not be mistaken with gcloud the command line utility)
+[https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.45.0/guides/authentication](https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.45.0/guides/authentication)
+
+
