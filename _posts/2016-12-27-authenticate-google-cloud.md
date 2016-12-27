@@ -90,10 +90,16 @@ So again :
 `npm install google-auth-library --save`
 
 
+While reading a [discussion](https://groups.google.com/forum/#!topic/firebase-talk/13kBF0PpmQA) on how to use google storage instead of firebase (which does not have a SDK yet in node.js) 
+[https://github.com/GoogleCloudPlatform/google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node)
 
+So let's sum up : 
+* [https://github.com/google/google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) Manage all google apis with node.js app indepently of gcloud
+* [https://github.com/google/google-auth-library-nodejs](https://github.com/google/google-auth-library-nodejs) Manage only the authentication in the  context of gcloud or not 
+* [https://github.com/GoogleCloudPlatform/google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node) the gcloud specific library 
 
+The response of Aurelien is quite interesting 
 
-
-   
+<script src="https://gist.github.com/sinsunsan/2bec4f3970057fb2db3cd04fda6dbca1.js"></script>
 
 
