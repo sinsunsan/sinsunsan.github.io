@@ -103,4 +103,15 @@ The response of Aurelien is quite interesting
 
 <script src="https://gist.github.com/sinsunsan/2bec4f3970057fb2db3cd04fda6dbca1.js"></script>
 
+Yes I found the source! 
+
+Google cloud 
+> google-cloud is a client library for accessing Google Cloud Platform services that significantly reduces the boilerplate code you have to write. 
+
+Yes, I do not like writing boiler plate code! After hours of search I am quite happy to see this promise of simplicity.
+
+![Google cloud]({{site.baseurl}}/_posts/Screen Shot 2016-12-27 at 01.47.06.png)
+
+https://googlecloudplatform.github.io/google-cloud-node/#/
+
 
