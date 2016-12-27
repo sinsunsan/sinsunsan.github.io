@@ -53,6 +53,41 @@ There is 3 types :
 * Service account keys : A variant or API keys?
 
 
+For the case of a server that want to have access to the app.
+I ended with the concept of **Application Default Credentials**.
+Documented in this [page](https://developers.google.com/identity/protocols/application-default-credentials?hl=en_US).
+
+I am interested in the node.js version 
+
+It use a library :   
+[https://github.com/google/google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) which is global to all google APIs.
+
+> Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included
+
+So let's install it : 
+
+`npm install googleapis --save`
+
+Another place to look at is this page 
+
+[https://developers.google.com/identity/](https://developers.google.com/identity/)
+
+Which is the identification temple of google!
+All google methods to authenticate. 
+
+Among which this mysterious **Application Default Credentials**.
+
+After reading a bit, it seems there is another node.js more specific library only for google authentication. 
+
+Let's use it, as its doc should be clearer (as it is more specific) 
+
+> This is Google's officially supported node.js client library for using OAuth 2.0 authorization and authentication with Google APIs.
+
+[https://github.com/google/google-auth-library-nodejs](https://github.com/google/google-auth-library-nodejs)
+
+
+
+
 
 
 
