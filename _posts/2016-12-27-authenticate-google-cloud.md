@@ -8,7 +8,7 @@ It seems really complicated with various system, a terminology that at first we 
 
 Let's list a few facts, we have understood. 
 
-### Enabling the API's and discovering API manager
+## Enabling the API's and discovering API manager
 
 * Accessing  the api guide [https://cloud.google.com/appengine/docs/admin-api/accessing-the-api](https://cloud.google.com/appengine/docs/admin-api/accessing-the-api)
 
@@ -44,7 +44,7 @@ The last item of this menu offer to help choose. Good idea!
 You can access this wizard directly at this [link](https://console.cloud.google.com/apis/credentials/wizard).
 
 
-### What type of authentication? 
+## What type of authentication? 
 
 There is 3 types : 
 
@@ -52,6 +52,7 @@ There is 3 types :
 * OAuth 2.0 client IDs : A way to create an account on you site thanks to their google login (for your app users) 
 * Service account keys : A variant or API keys?
 
+## What is Application Default Credentials? 
 
 For the case of a server that want to have access to the app.
 I ended with the concept of **Application Default Credentials**.
@@ -89,6 +90,7 @@ So again :
 
 `npm install google-auth-library --save`
 
+## On the road to google cloud library
 
 While reading a [discussion](https://groups.google.com/forum/#!topic/firebase-talk/13kBF0PpmQA) on how to use google storage instead of firebase (which does not have a SDK yet in node.js) 
 [https://github.com/GoogleCloudPlatform/google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node)
