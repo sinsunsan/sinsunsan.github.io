@@ -113,8 +113,7 @@ Google cloud
 Yes, I do not like writing boiler plate code! After hours of search I am quite happy to see this promise of simplicity.
 
 ![Google cloud]({{site.baseurl}}/_posts/Screen Shot 2016-12-27 at 01.47.06.png)
-
-https://googlecloudplatform.github.io/google-cloud-node/#/
+[https://googlecloudplatform.github.io/google-cloud-node/#/]( https://googlecloudplatform.github.io/google-cloud-node/#/)
 
 And google cloud is the recommanded way, good to know....
 
