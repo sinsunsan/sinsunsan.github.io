@@ -413,15 +413,19 @@ There is one page to manage API's all API's.
 And one page per service / module.
 When you do not use the module yet, you have a card linking to documentation...
 
+And found the id of my bucket different from the id of the project.
+I had put the projectId instead.
+
 That was it!
+
 ![First upload]({{site.baseurl}}/images/gcloud-file-upload.png)
 
 After 1-2 days on it.
 I understood :
 
-* In understood better some node.js
+* some facts about node.js : fs and path module
 * Made my way through google cloud online console
-* Choose a library in node.js to communicate with
+* Choose a library in node.js to communicate with it
 * Fixed temporarily the authentication problem
 
 Because the remaining problems are :
@@ -429,4 +433,4 @@ Because the remaining problems are :
 * How to to authenticate in the project and not with the not very handy environmental variable
 
 But now I am no more stuck and get back to work.
-The quest is over !
+The quest is over!
