@@ -3,7 +3,7 @@ published: true
 title: Understanding mysterious google cloud authentication
 ---
 
-Authentication is the more frustating part of google cloud at first.
+Authentication is the more frustrating part of google cloud at first.
 It seems really complicated with various system, a terminology that at first we do not understand.
 
 Let's list a few facts, we have understood.
@@ -98,7 +98,7 @@ While reading a [discussion](https://groups.google.com/forum/#!topic/firebase-ta
 
 So let's sum up :
 
-* [https://github.com/google/google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) Manage all google apis with node.js app indepently of gcloud
+* [https://github.com/google/google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) Manage all google apis with node.js app independently of gcloud
 * [https://github.com/google/google-auth-library-nodejs](https://github.com/google/google-auth-library-nodejs) Manage only the authentication in the  context of gcloud or not
 * [https://github.com/GoogleCloudPlatform/google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node) the gcloud specific library
 
@@ -116,10 +116,32 @@ Yes, I do not like writing boiler plate code! After hours of search I am quite h
 ![Google cloud]({{site.baseurl}}/images/gcloud-client-header.png)
 [https://googlecloudplatform.github.io/google-cloud-node/#/]( https://googlecloudplatform.github.io/google-cloud-node/#/)
 
-And google cloud is the recommanded way, good to know....
+And google cloud is the recommended way, good to know....
 
 > The Google APIs Node.js Client is a client library for using the broad set of Google APIs. google-cloud is built specifically for the Google Cloud Platform and is the recommended way to integrate Google Cloud APIs into your Node.js applications. If your application requires both Google Cloud Platform and other Google APIs, the 2 libraries may be used by your application.
 
-
 Here is a much more detailed description on how to authenticate with google-cloud SDK (not be mistaken with gcloud the command line utility)
 [https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.45.0/guides/authentication](https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.45.0/guides/authentication)
+
+Then I set my authentication in my node.js file.
+
+```
+var gcloud = require('gcloud')({
+  // the project Id is the unique id of the project
+  // derived from the project name
+  // it looks like myproject-1d298
+  projectId: 'myProject-Name',
+  keyFileName: './bamarchi-42fde040ae9d.json',
+});
+```
+
+The **keyfileName** is the path to the service account key you have created in the google cloud console at [https://console.cloud.google.com/apis/credentials]( https://console.cloud.google.com/apis/credentials)
+
+![Google cloud]({{site.baseurl}}/images/gcloud-service-account.png)
+
+And relaunched my API using those settings.
+But was stopped by an other error.
+
+```
+firebase there was an error uploading to gcloud Error: Could not load the default credentials. Browse to https://developers.google.com/accounts/docs/application-default-credent
+```
