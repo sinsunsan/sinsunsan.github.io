@@ -198,6 +198,7 @@ But my google cloud quest is not finished!
 
 Here is the next error message.
 What is not found ?
+
 * The api route used by gcloud bucket.upload function?
 * Or the file I am giving it to upload?
 * Or the bucket?
