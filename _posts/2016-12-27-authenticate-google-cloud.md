@@ -6,6 +6,8 @@ title: My Google Cloud Authentication Quest
 Authentication is the more frustrating part of google cloud at first.
 It seems really complicated with various system, a terminology that at first we do not understand.
 
+![the google storage authentication quest]({{site.baseurl}}/images/gcloud-quest.png)
+
 Let's list a few facts, we have understood.
 
 ## Enabling the API's and discovering API manager
@@ -395,4 +397,35 @@ remain.
 And looking at more detail.
 It is 6 client errors (4XX errors).
 
-![Google cloud]({{site.baseurl}}/images/gcloud-client-error.png)
+![Google cloud error]({{site.baseurl}}/images/gcloud-client-error.png)
+
+By searching this error message in google I found the error message page and their description (for the specific google-cloud-storage API).
+[https://cloud.google.com/storage/docs/json_api/v1/status-codes](https://cloud.google.com/storage/docs/json_api/v1/status-codes)
+Not very informative but the phrase is
+
+> The following is an example of an error response you receive if you try to retrieve an object that does not exist.
+
+So I searched an object, I suspect an object in cloud storage so either a file object or a bucket object.... But as I was uploading a new file and not updating it. I suppose it could be the bucket?
+
+I went to google storage configuration page.
+There is one page to manage API's all API's.
+And one page per service / module.
+When you do not use the module yet, you have a card linking to documentation...
+
+That was it!
+![First upload]({{site.baseurl}}/images/gcloud-file-upload.png)
+
+After 1-2 days on it.
+I understood :
+
+* In understood better some node.js
+* Made my way through google cloud online console
+* Choose a library in node.js to communicate with
+* Fixed temporarily the authentication problem
+
+Because the remaining problems are :
+
+* How to to authenticate in the project and not with the not very handy environmental variable
+
+But now I am no more stuck and get back to work.
+The quest is over !
