@@ -145,3 +145,39 @@ But was stopped by an other error.
 ```
 firebase there was an error uploading to gcloud Error: Could not load the default credentials. Browse to https://developers.google.com/accounts/docs/application-default-credent
 ```
+
+I then investigated the code that triggered this error, and found that the code is checking if the code is executed from a google cloud Engine (GCE) or not.
+
+So if it is not the case (I am in local), it triggered this error independently of if it found the famous service key or not.
+
+By reading again this the page linked  in the error [https://developers.google.com/identity/protocols/application-default-credentials](https://developers.google.com/identity/protocols/application-default-credentials)
+
+I figured that to set the application default credentials, we need to modify an environment variable.     
+What is a environment variable?      
+They are UNIX variables that you can set in the command line by typing `export`.
+
+```
+export nameOftheVariable="valueOfTheVariable"
+```
+
+To get a list of variable already defined in your machine.    
+
+Just type :
+
+```
+export
+```
+
+You will be surprised to find :
+
+* PATH The list of directory where are placed some executables
+* PWD the current directory
+* ....
+
+and lot of basic settings very important everywhere :)
+
+So let's set application default credentials as mentioned in the doc :
+
+```
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/the/myproject-key.json"
+```
