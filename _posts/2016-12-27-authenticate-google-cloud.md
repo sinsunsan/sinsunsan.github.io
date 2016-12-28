@@ -191,7 +191,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="/path/to/the/myproject-key.json"
 
 The last  export  command seemed to have solved the credential missing error.
 I understood also that only the environmental is necessary,
-or at least only that is sucessfull to authenticate.
+or at least only that is successful to authenticate.
 But my google cloud quest is not finished!
 
 Here is the next error message.
@@ -354,4 +354,27 @@ Also the metadata object seem a non standardized object where you choose which m
 *   var file = data[0];
 * });
 */
+```
+
+But back to our concerns, why this error, 404, not found.
+I was suspecting that it was the file that was not found.
+
+So I had the idea to use **fs** module to check first if the file exist.
+To prevent stupid file not found error.
+
+I realized 2 things:
+
+* files are relative to the file where we are (not the starter file of the node process)
+* We can use `__dirname` to get the absolute directory where we are and path.join
+As this [stack overflow response](http://stackoverflow.com/a/32707530/1453811) suggest.
+
+So we wrap our `bucket.upload` call in a `fs.exists` function to be sure the file exist before trying to upload it to google storage.
+
+```
+var filePath = path.join(__dirname, '..', '..', '..', 'files', 'upload', filemeta.newName);
+    fs.exists(filePath, function(exists) {
+      if (exists) {
+        debug('going to upload the file' + filePath);
+        bucket.upload(filePath, function(err, file) {
+        ...
 ```
