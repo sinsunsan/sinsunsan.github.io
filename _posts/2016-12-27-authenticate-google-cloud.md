@@ -91,7 +91,7 @@ So again :
 
 `npm install google-auth-library --save`
 
-## On the road to google cloud library
+## The google-cloud-node library the library to use
 
 While reading a [discussion](https://groups.google.com/forum/#!topic/firebase-talk/13kBF0PpmQA) on how to use google storage instead of firebase (which does not have a SDK yet in node.js)
 [https://github.com/GoogleCloudPlatform/google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node)
@@ -119,6 +119,9 @@ Yes, I do not like writing boiler plate code! After hours of search I am quite h
 And google cloud is the recommended way, good to know....
 
 > The Google APIs Node.js Client is a client library for using the broad set of Google APIs. google-cloud is built specifically for the Google Cloud Platform and is the recommended way to integrate Google Cloud APIs into your Node.js applications. If your application requires both Google Cloud Platform and other Google APIs, the 2 libraries may be used by your application.
+
+
+### google-cloud-node do not take my json  key
 
 Here is a much more detailed description on how to authenticate with google-cloud SDK (not be mistaken with gcloud the command line utility)
 [https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.45.0/guides/authentication](https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.45.0/guides/authentication)
@@ -151,6 +154,8 @@ I then investigated the code that triggered this error, and found that the code 
 So if it is not the case (I am in local), it triggered this error independently of if it found the famous service key or not.
 
 By reading again this the page linked  in the error [https://developers.google.com/identity/protocols/application-default-credentials](https://developers.google.com/identity/protocols/application-default-credentials)
+
+###  Application Default credential need to be set in an env variable!
 
 I figured that to set the application default credentials, we need to modify an environment variable.     
 What is a environment variable?      
