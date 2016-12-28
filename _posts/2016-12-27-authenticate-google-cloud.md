@@ -186,3 +186,45 @@ So let's set application default credentials as mentioned in the doc :
 ```
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/the/myproject-key.json"
 ```
+
+### Credentials fixed / What's next ?
+
+The last  export  command seemed to have solved the credential missing error.
+I understood also that only the environmental is necessary,
+or at least only that is sucessfull to authenticate.
+But my google cloud quest is not finished!
+
+Here is the next error message.
+What is not found ?
+The api route used by gcloud bucket.upload function?
+Or the file I am giving it to upload?
+By the way what is the file format it is expecting?
+```
+firebase there was an error uploading to gcloud  { ApiError: Not Found
+  at Object.parseHttpRespBody (/Users/slucas/SEB/www/bam/bamv2/node_modules/google-cloud/node_modules/@google-cloud/common/src/util.js:191:30)
+  at Object.handleResp (/Users/slucas/SEB/www/bam/bamv2/node_modules/google-cloud/node_modules/@google-cloud/common/src/util.js:131:18)
+  at /Users/slucas/SEB/www/bam/bamv2/node_modules/google-cloud/node_modules/@google-cloud/common/src/util.js:465:12
+  at Request.onResponse [as _callback] (/Users/slucas/SEB/www/bam/bamv2/node_modules/google-cloud/node_modules/retry-request/index.js:120:7)
+  at Request.self.callback (/Users/slucas/SEB/www/bam/bamv2/node_modules/google-cloud/node_modules/request/request.js:186:22)
+  at emitTwo (events.js:106:13)
+  at Request.emit (events.js:191:7)
+  at Request.<anonymous> (/Users/slucas/SEB/www/bam/bamv2/node_modules/google-cloud/node_modules/request/request.js:1081:10)
+  at emitOne (events.js:96:13)
+  at Request.emit (events.js:188:7)
+code: 404,
+errors: [ { domain: 'global', reason: 'notFound', message: 'Not Found' } ],
+response: undefined,
+message: 'Not Found' } +2s
+```
+
+Let's read in the file it self where is that function Bucket.upload
+It's [here](https://github.com/GoogleCloudPlatform/google-cloud-node/blob/master/packages/storage/src/bucket.js).
+
+The comments are quite informative and give link to a online documentation.
+This page is the documentation on [Gcloud storage upload module](https://cloud.google.com/storage/docs/json_api/v1/how-tos/upload).
+
+There are 3 types of upload :
+
+* **simple** : only a file
+* **multi-part** : a file + its metadata
+* **resumable** : that can resume if a network disconnection occurred (for large file)
