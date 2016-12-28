@@ -1,6 +1,6 @@
 ---
 published: true
-title: My quest to understand google cloud authentication
+title: My Google Cloud Authentication Quest
 ---
 
 Authentication is the more frustrating part of google cloud at first.
