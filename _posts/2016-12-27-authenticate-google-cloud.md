@@ -199,6 +199,7 @@ What is not found ?
 The api route used by gcloud bucket.upload function?
 Or the file I am giving it to upload?
 By the way what is the file format it is expecting?
+
 ```
 firebase there was an error uploading to gcloud  { ApiError: Not Found
   at Object.parseHttpRespBody (/Users/slucas/SEB/www/bam/bamv2/node_modules/google-cloud/node_modules/@google-cloud/common/src/util.js:191:30)
