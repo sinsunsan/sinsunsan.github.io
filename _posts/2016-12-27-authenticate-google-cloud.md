@@ -196,9 +196,12 @@ But my google cloud quest is not finished!
 
 Here is the next error message.
 What is not found ?
-The api route used by gcloud bucket.upload function?
-Or the file I am giving it to upload?
+* The api route used by gcloud bucket.upload function?
+* Or the file I am giving it to upload?
+* Or the bucket?
+
 By the way what is the file format it is expecting?
+Let's look at the code
 
 ```
 firebase there was an error uploading to gcloud  { ApiError: Not Found
@@ -378,3 +381,18 @@ var filePath = path.join(__dirname, '..', '..', '..', 'files', 'upload', filemet
         bucket.upload(filePath, function(err, file) {
         ...
 ```
+
+By looking at the cloud storage console, I realized that some request was logged.    
+6 requests, so the API was hit.    
+A first step.    
+
+![Google cloud]({{site.baseurl}}/images/gcloud-api-used.png)
+
+But my
+`there was an error uploading to gcloud  { ApiError: Not Found`
+remain.
+
+And looking at more detail.
+It is 6 client errors (4XX errors).
+
+![Google cloud]({{site.baseurl}}/images/gcloud-client-error.png)
