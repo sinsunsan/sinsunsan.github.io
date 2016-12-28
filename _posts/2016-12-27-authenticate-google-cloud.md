@@ -6,7 +6,7 @@ title: My Google Cloud Authentication Quest
 Authentication is the more frustrating part of google cloud at first.
 It seems really complicated with various system, a terminology that at first we do not understand.
 
-![the google storage authentication quest]({{site.baseurl}}/images/gcloud-quest.png)
+![the google storage authentication quest]({{site.baseurl}}/images/gcloud-quest.jpg)
 
 Let's list a few facts, we have understood.
 
