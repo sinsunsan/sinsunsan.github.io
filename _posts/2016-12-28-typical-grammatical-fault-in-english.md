@@ -16,14 +16,14 @@ Let's debug the language as efficiently we debug code :)
 ### There **is** lot of cats > There **are** lot of cats
 
 In french Il y a beaucoup de chats     
-In french 'Il y a' is invariable so if we speak about cats it is always chats.     
-In english There +  verb to be take the plural of what follow    
+In french 'Il y a' is invariable so if we speak about cats it is always 'Il y a'.     
+In english There + verb 'to be' take the plural of what follow.    
 
 ### He **do** a great job > He do**es** a great job
 
 Why?    
 English have a simplistic conjugation by comparison with latin languages.
-But there is one exception for he, she, it pronouns that make the verb take a s.
+But there is one exception for **he, she, it** personal pronouns that make the verb take a **s**.
 
 * I do
 * You do
@@ -38,15 +38,19 @@ Simple suite, isn't it?
 ## Per aps > Per**haps**
 
 Strange word Perhaps? I wonder what is the origin.
+What is  a "haps"?.
 Here are the synonyms suggested by google translate.
 
-The 3 I use
+The 2 I use more :
 
 * perhaps
 * maybe > Peut-être
+
+The 1 I use sometimes :
+
 * probably > Probablement
 
-Others I do not use
+Others I do not use :
 
 * possibly
 * supposedly
