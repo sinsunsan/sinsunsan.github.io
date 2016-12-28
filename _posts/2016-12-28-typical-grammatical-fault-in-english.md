@@ -36,3 +36,18 @@ But there is one exception for he, she, it pronouns that make the verb take a s.
 
 do, do, do, does, do, do, do     
 Simple suite, isn't it?
+
+## Per aps > Perhaps
+
+Strange word Perhaps? I wonder what is the origin.
+Here are the synonyms suggested by google translate.
+
+The 3 I use
+* perhaps
+* maybe > Peut-être
+* probably > Probablement
+
+I do not use
+* possibly
+* supposedly
+* perchance
