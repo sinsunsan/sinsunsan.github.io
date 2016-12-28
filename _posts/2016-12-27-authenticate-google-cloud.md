@@ -224,6 +224,8 @@ response: undefined,
 message: 'Not Found' } +2s
 ```
 
+### Learn more about uploads in google storage
+
 Let's read in the file it self where is that function Bucket.upload
 It's [here](https://github.com/GoogleCloudPlatform/google-cloud-node/blob/master/packages/storage/src/bucket.js).
 
@@ -362,6 +364,8 @@ Also the metadata object seem a non standardized object where you choose which m
 */
 ```
 
+### File get found? Use of fs module
+
 But back to our concerns, why this error, 404, not found.
 I was suspecting that it was the file that was not found.
 
@@ -384,6 +388,8 @@ var filePath = path.join(__dirname, '..', '..', '..', 'files', 'upload', filemet
         bucket.upload(filePath, function(err, file) {
         ...
 ```
+
+### The bucket Id!
 
 By looking at the cloud storage console, I realized that some request was logged.    
 6 requests, so the API was hit.    
@@ -419,6 +425,9 @@ I had put the projectId instead.
 That was it!
 
 ![First upload]({{site.baseurl}}/images/gcloud-file-upload.png)
+
+
+### The quest is over / First upload to google storage
 
 After 1-2 days on it.
 I understood :
