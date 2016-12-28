@@ -13,16 +13,14 @@ I will do a list of my most common errors as I realize, to may be stop doing the
 Let's debug the language as efficiently we debug code :)
 
 
-### There **is** lot of cats
+### There **is** lot of cats > There **are** lot of cats
 
-There **is** lot of cats > There **are** lot of cats    
 In french Il y a beaucoup de chats     
 In french 'Il y a' is invariable so if we speak about cats it is always chats.     
 In english There +  verb to be take the plural of what follow    
 
-### He **do** a great job
+### He **do** a great job > He do**es** a great job
 
-He **do** a great job > He do**es** a great job    
 Why?    
 English have a simplistic conjugation by comparison with latin languages.
 But there is one exception for he, she, it pronouns that make the verb take a s.
@@ -37,7 +35,7 @@ But there is one exception for he, she, it pronouns that make the verb take a s.
 do, do, do, does, do, do, do     
 Simple suite, isn't it?
 
-## Per aps > Perhaps
+## Per aps > Per**haps**
 
 Strange word Perhaps? I wonder what is the origin.
 Here are the synonyms suggested by google translate.
