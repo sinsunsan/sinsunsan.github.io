@@ -1,6 +1,6 @@
 ---
 published: true
-title: Understanding mysterious google cloud authentication
+title: My quest to understand google cloud authentication
 ---
 
 Authentication is the more frustrating part of google cloud at first.
