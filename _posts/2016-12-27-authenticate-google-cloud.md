@@ -233,6 +233,7 @@ By going in the official doc, it was quite abstract and confusing.
 But reading at the code @example was more instructive
 
 * Simple upload with link to a local file
+
 ```
 @example
 * //-
@@ -278,6 +279,7 @@ Also the metadata object seem a non standardized object where you choose which m
 *
 ```
 * Gzip on the fly!
+
 ```
 * //-
 * // You can also have a file gzip'd on the fly.
@@ -291,6 +293,7 @@ Also the metadata object seem a non standardized object where you choose which m
 * });
 *
 ```
+
 * Overwrite an existing file
 
 ```
