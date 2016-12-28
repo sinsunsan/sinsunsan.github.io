@@ -43,11 +43,13 @@ Strange word Perhaps? I wonder what is the origin.
 Here are the synonyms suggested by google translate.
 
 The 3 I use
+
 * perhaps
 * maybe > Peut-être
 * probably > Probablement
 
-I do not use
+Others I do not use
+
 * possibly
 * supposedly
 * perchance
