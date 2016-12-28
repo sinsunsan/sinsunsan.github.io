@@ -228,3 +228,126 @@ There are 3 types of upload :
 * **simple** : only a file
 * **multi-part** : a file + its metadata
 * **resumable** : that can resume if a network disconnection occurred (for large file)
+
+By going in the official doc, it was quite abstract and confusing.
+But reading at the code @example was more instructive
+
+* Simple upload with link to a local file
+```
+@example
+* //-
+* // The easiest way to upload a file.
+* //-
+* bucket.upload('/local/path/image.png', function(err, file, apiResponse) {
+*   // Your bucket now contains:
+*   // - "image.png" (with the contents of `/local/path/image.png')
+*
+*   // `file` is an instance of a File object that refers to your new file.
+* });
+*
+```
+
+* With some options
+
+Resumable options is interesting as it allow to resume the upload if the network connection is lost.    
+
+Also the metadata object seem a non standardized object where you choose which metadata to add, great for simple image annotation....
+
+```
+* //-
+* // It's not always that easy. You will likely want to specify the filename
+* // used when your new file lands in your bucket.
+* //
+* // You may also want to set metadata or customize other options.
+* //-
+* var options = {
+*   destination: 'new-image.png',
+*   resumable: true,
+*   validation: 'crc32c',
+*   metadata: {
+*     event: 'Fall trip to the zoo'
+*   }
+* };
+*
+* bucket.upload('local-image.png', options, function(err, file) {
+*   // Your bucket now contains:
+*   // - "new-image.png" (with the contents of `local-image.png')
+*
+*   // `file` is an instance of a File object that refers to your new file.
+* });
+*
+```
+* Gzip on the fly!
+```
+* //-
+* // You can also have a file gzip'd on the fly.
+* //-
+* bucket.upload('index.html', { gzip: true }, function(err, file) {
+*   // Your bucket now contains:
+*   // - "index.html" (automatically compressed with gzip)
+*
+*   // Downloading the file with `file.download` will automatically decode the
+*   // file.
+* });
+*
+```
+* Overwrite an existing file
+
+```
+* //-
+* // You may also re-use a File object, {module:storage/file}, that references
+* // the file you wish to create or overwrite.
+* //-
+* var options = {
+*   destination: bucket.file('existing-file.png'),
+*   resumable: false
+* };
+*
+* bucket.upload('local-img.png', options, function(err, newFile) {
+*   // Your bucket now contains:
+*   // - "existing-file.png" (with the contents of `local-img.png')
+*
+*   // Note:
+*   // The `newFile` parameter is equal to `file`.
+* });
+*
+```
+
+* Encrypt the files
+
+```
+* //-
+* // To use
+* // <a href="https://cloud.google.com/storage/docs/encryption#customer-supplied">
+* // Customer-supplied Encryption Keys</a>, provide the `encryptionKey` option.
+* //-
+* var crypto = require('crypto');
+* var encryptionKey = crypto.randomBytes(32);
+*
+* bucket.upload('img.png', {
+*   encryptionKey: encryptionKey
+* }, function(err, newFile) {
+*   // `img.png` was uploaded with your custom encryption key.
+*
+*   // `newFile` is already configured to use the encryption key when making
+*   // operations on the remote object.
+*
+*   // However, to use your encryption key later, you must create a `File`
+*   // instance with the `key` supplied:
+*   var file = bucket.file('img.png', {
+*     encryptionKey: encryptionKey
+*   });
+*
+*   // Or with `file#setEncryptionKey`:
+*   var file = bucket.file('img.png');
+*   file.setEncryptionKey(encryptionKey);
+* });
+*
+* //-
+* // If the callback is omitted, we'll return a Promise.
+* //-
+* bucket.upload('local-image.png').then(function(data) {
+*   var file = data[0];
+* });
+*/
+```

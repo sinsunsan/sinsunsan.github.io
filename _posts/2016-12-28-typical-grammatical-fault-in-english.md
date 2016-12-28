@@ -1,6 +1,6 @@
 ---
 published: true
-title: The common errors I do writing english (and how to prevent them)
+title: The common errors I do writing english
 ---
 
 As many developers I use english on a daily basis, but mostly to write and read.
@@ -15,7 +15,7 @@ Let's debug the language as efficiently we debug code :)
 
 ### There **is** lot of cats
 
-There **is** lot of cats > There are lot of cats    
+There **is** lot of cats > There **are** lot of cats    
 In french Il y a beaucoup de chats     
 In french 'Il y a' is invariable so if we speak about cats it is always chats.     
 In english There +  verb to be take the plural of what follow    
@@ -34,5 +34,5 @@ But there is one exception for he, she, it pronouns that make the verb take a s.
 * You do
 * They do   
 
-do, do, do does, do, do, do     
+do, do, do, does, do, do, do     
 Simple suite, isn't it?
