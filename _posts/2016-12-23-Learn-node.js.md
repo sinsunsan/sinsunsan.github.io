@@ -17,3 +17,18 @@ The module system for example has played an important role in the ES6 modules ad
 ## Error Handling
 
 [https://www.joyent.com/node-js/production/design/errors](https://www.joyent.com/node-js/production/design/errors)
+
+## Debug 
+
+The node  debugger that use chrome debugger is available in latest version of node 
+using the --inspect flag
+
+```
+$ node --inspect index.js
+Debugger listening on port 9229.
+Warning: This is an experimental feature and could change at any time.
+To start debugging, open the following URL in Chrome:
+    chrome-devtools://devtools/remote/serve_file/@60cd6e859b9f557d2312f5bf532f6aec5f284980/inspector.html?experiments=true&v8only=true&ws=localhost:9229/b4f005c7-caad-4e7c-b554-5746da12b549
+Server listening on 3000
+Debugger attached.
+```
