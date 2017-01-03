@@ -6,21 +6,24 @@ Node.js is quite straightforward and easy to learn once we have understood the b
 
 The module system for example has played an important role in the ES6 modules adoption. Indeed modules (require in node.js) are so convenient and natural to split the code in different files.
 
-## Modules 
+## Modules
 
 ## Express
 
-## Async 
+## Async, Promises
 
 [https://blog.risingstack.com/node-hero-async-programming-in-node-js/](https://blog.risingstack.com/node-hero-async-programming-in-node-js/)
+
+* How to use promises instead of callback and even transform core modules in promise style     
+[https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/](https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/)
 
 ## Error Handling
 
 [https://www.joyent.com/node-js/production/design/errors](https://www.joyent.com/node-js/production/design/errors)
 
-## Debug 
+## Debug
 
-The node  debugger that use chrome debugger is available in latest version of node 
+The node  debugger that use chrome debugger is available in latest version of node
 using the --inspect flag
 
 ```

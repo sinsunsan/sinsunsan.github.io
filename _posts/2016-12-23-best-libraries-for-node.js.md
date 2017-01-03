@@ -4,7 +4,7 @@ title: Node.js libraries  and  modules you should use
 ---
 Here is a growing selection of the most useful libraries for node.
 
-## Node JS Core modules 
+## Node JS Core modules
 
 * **PATH** Allow to work on path and urls. Split a path, take the file name...    
 [https://nodejs.org/api/path.html](https://nodejs.org/api/path.html)
@@ -13,27 +13,33 @@ Here is a growing selection of the most useful libraries for node.
 [https://nodejs.org/api/fs.html](https://nodejs.org/api/fs.html)
 
 
-*** 
+***
 
 ## Libraries for Node.js
 
-### Express 
+### Express
 
-### Utilities 
+* **CORS** : Middleware to help make a CORS settings!    
+[https://github.com/expressjs/cors](https://github.com/expressjs/cors)
+
+* **Morgan** : Http request logging Middleware    
+[https://github.com/expressjs/morgan](https://github.com/expressjs/morgan)
+
+### Utilities
 
 * **Lodash** : the utility library for javascript    
 [https://lodash.com](https://lodash.com)
 
-### Async 
+### Async
 
 * **Async** : Aynschronous call (a sort of lodash for asynchronous operation)     [http://caolan.github.io/async/docs.html#](http://caolan.github.io/async/docs.html#)
 
 
-### Uploading 
+### Uploading
 
 * **Multer** Node.js middleware for handling `multipart/form-data`. > handle image upload more easily    
 [https://github.com/expressjs/multer](https://github.com/expressjs/multer)
 
-### Image manipulation 
+### Image manipulation
 
 * **Jimp** : Image processing in javascript without any external dependencies     [https://github.com/oliver-moran/jimp](https://github.com/oliver-moran/jimp)
