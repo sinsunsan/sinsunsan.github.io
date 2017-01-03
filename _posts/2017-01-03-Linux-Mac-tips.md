@@ -22,4 +22,4 @@ To kill the process
 kill -9   2091
 ```
 
-<script src="https://gist.github.com/sinsunsan/40d5f096ea6aa9f267d64148d4fc1c38">
+<script src="https://gist.github.com/sinsunsan/40d5f096ea6aa9f267d64148d4fc1c38"></script>
