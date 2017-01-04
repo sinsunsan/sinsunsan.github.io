@@ -41,8 +41,27 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 
 ## Components
 
-* Children  view    
+* Children view    
 [http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
+
+## Components @input
+
+* How to define a inner child component property on-change to allow pass observable as input.   [http://almerosteyn.com/2016/03/immutable-component-input-from-observable](http://almerosteyn.com/2016/03/immutable-component-input-from-observable)
+
+## Observables / RxJS
+
+Angular 2 adopted this new concept of observable which basically is a more advanced form of promise.
+RxJs is the  implementation of Observable used by angular which is being developed by Microsoft.
+
+* This post list 3 common problems with can have with observable.
+
+* **Pitfall 1** : not subscribing to an observable is similar to having a function but not exucuting it
+
+> An observable itself is just a definition of a way to handle a stream of values. We can think of it as something close to a function. Creating an observable is somewhat similar to declaring a function, the function itself is just a declaration. Calling the function is something entirely different, as defining a function does not execute its code.
+
+> We need to call the function in order for something to happen, and that is also the case with an Observable: we need to subscribe to it in order for it to work!
+
+ [http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/](http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 
 ## Modules
 
@@ -54,10 +73,14 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 * Difference between decorator and annotation [http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-## Depency injection
+## Dependency injection
 
 * How to inject window in a service to keep it compatible with angular  dependency injection philosophy        [https://juristr.com/blog/2016/09/ng2-get-window-ref](https://juristr.com/blog/2016/09/ng2-get-window-ref/)
 
+
+## Pipes
+
+* Simple tutorial to do a custom  pipe available in its components then make it available application wide    [https://scotch.io/tutorials/create-a-globally-available-custom-pipe-in-angular-2](https://scotch.io/tutorials/create-a-globally-available-custom-pipe-in-angular-2)
 ## ES 6
 
 * Exploring JS / Full online book on javascripting with extensive doc on ES6
@@ -80,3 +103,7 @@ import { OptionService }      from '../../../services/api/option.service';
 
 * A installation guide using JSPM / Typescript and System.js    
 [http://www.mario-brendel.com/angular2-setup/2016/01/28/Angular2_Jspm_Setup_Part1/](http://www.mario-brendel.com/angular2-setup/2016/01/28/Angular2_Jspm_Setup_Part1/)
+
+## Angular 2 & firebase
+
+* Detailed post that explained the principle of firebase, why it is a good solution for BaaS application and allow to develop faster. Then it describe the integration in Angular2 with the angular fire library [http://blog.angular-university.io/angular-2-firebase](http://blog.angular-university.io/angular-2-firebase/)
