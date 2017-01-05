@@ -44,6 +44,10 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * Children view    
 [http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
 
+* Dump / Smart component architecture :
+A way to organize component to differentiate presentational component highly reusable and intelligent component that actually handle the logic and specific stuff
+[https://teropa.info/blog/2016/02/22/dumb-components-and-visual-feedback-in-angular-apps.html]()
+
 ## Components @input
 
 * How to define a inner child component property on-change to allow pass observable as input.   [http://almerosteyn.com/2016/03/immutable-component-input-from-observable](http://almerosteyn.com/2016/03/immutable-component-input-from-observable)
@@ -62,6 +66,19 @@ RxJs is the  implementation of Observable used by angular which is being develop
 > We need to call the function in order for something to happen, and that is also the case with an Observable: we need to subscribe to it in order for it to work!
 
  [http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/](http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
+
+
+## ngFor, ngIf, ...
+
+
+* Revision of what ngFor can do
+   * how to get the index
+   * how to track by another value that default (by object Identity)
+   * using odd, even, last, first for dynamic class naming
+
+ > ngFor by default tracks list items using object identity. This means that if you build a list of new objects from scratch with the exact same values as the previous list and pass this newly built list to ngFor, Angular will not be able to tell that a given list item is already present or not.
+
+[http://blog.angular-university.io/angular-2-ngfor/](http://blog.angular-university.io/angular-2-ngfor/)
 
 ## Modules
 
@@ -107,3 +124,5 @@ import { OptionService }      from '../../../services/api/option.service';
 ## Angular 2 & firebase
 
 * Detailed post that explained the principle of firebase, why it is a good solution for BaaS application and allow to develop faster. Then it describe the integration in Angular2 with the angular fire library [http://blog.angular-university.io/angular-2-firebase](http://blog.angular-university.io/angular-2-firebase/)
+* The official docs ? [https://angularfire2.com/api/](https://angularfire2.com/api/)
+* The doc in the project [https://github.com/angular/angularfire2/tree/master/docs](https://github.com/angular/angularfire2/tree/master/docs)
