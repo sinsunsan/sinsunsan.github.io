@@ -2,7 +2,10 @@
 published: true
 title: Linux & mac admin tips & tricks
 ---
-## found the pid of a listening process + kill it
+
+List of recipes  to debug or just do what you need on MAC or LINUX machine.
+
+## Find the pid of a listening process + kill it
 
 I found this [Stackoverflow](http://stackoverflow.com/questions/24387451/how-can-i-kill-whatever-process-is-using-port-8080-so-that-i-can-vagrant-up) question.
 
