@@ -2,6 +2,10 @@
 published: true
 title: My developer toolbox
 ---
+
+Developer tooling is important!   
+With good tools we lose less time in stupid things and can concentrate on the app specific stuff we are paid (or not paid) for. 
+
 ## A text editor
 
 * Sublime text
