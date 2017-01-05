@@ -15,9 +15,8 @@ From this [link](http://stackoverflow.com/questions/35768768/angular2-using-elvi
 
 > The Elvis operator is only available for the . not for other dereference operators like []. As a workaround use
 
-```
-data?.record ? data.record['name/first'] : null
-``
+
+**{{ data?.record ? data.record['name/first'] : null }}**
 
 ### Object property binding & async pipe with bracket syntax
 
@@ -34,7 +33,7 @@ The problem is that : `(imagesFB | async)[0]` would fail because the item does 
 So with a ternary syntax :
 
 ```
-(bolean) ? /* code if true */ : /* code if false */ ;`
+ (bolean) ? /* code if true */ : /* code if false */ ;`
 ```
 
 We do the trick.
