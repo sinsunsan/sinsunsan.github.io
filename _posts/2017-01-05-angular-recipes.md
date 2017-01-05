@@ -13,10 +13,12 @@ Elvis operator is a syntax for angular 2 that allow to tell angular renderer to 
 
 From this [link](http://stackoverflow.com/questions/35768768/angular2-using-elvis-operator-on-object-key-with-forward-slash)
 
-> The Elvis operator is only available for the . not for other dereference operators like []. As a workaround use
 
+The Elvis operator is only available for the . not for other dereference operators like []. As a workaround use
 
-**{{ data?.record ? data.record['name/first'] : null }}**
+```
+{{{ data?.record ? data.record['name/first'] : null }}}
+```
 
 ### Object property binding & async pipe with bracket syntax
 
