@@ -16,7 +16,9 @@ From this [link](http://stackoverflow.com/questions/35768768/angular2-using-elvi
 > The Elvis operator is only available for the . not for other dereference operators like []. As a workaround use
 
 ```
+//
 {{ data?.record ? data.record['name/first'] : null }}
+
 ```
 
 ### Object property binding & async pipe with bracket syntax
@@ -30,7 +32,9 @@ Once passed I want a sub property that is static in that case : the first item o
 Or may be dynamic, a component property.    
 
 The problem is that : `(imagesFB | async)[0]` would fail because the item does not exist at first and the async is for imagesFB not for the resulting array that (imagesFB | async) return.
-So with a ternary syntax
+
+So with a ternary syntax :
+
 ```
 (bolean) ? /* code if true */ : /* code if false */ ;`
 ```
