@@ -13,7 +13,6 @@ Elvis operator is a syntax for angular 2 that allow to tell angular renderer to 
 
 From this [link](http://stackoverflow.com/questions/35768768/angular2-using-elvis-operator-on-object-key-with-forward-slash)
 
-I noted
 > The Elvis operator is only available for the . not for other dereference operators like []. As a workaround use
 
 ```
@@ -24,18 +23,17 @@ I noted
 
 Yes but how to use a bracket syntax with async syntax.
 
-
 [http://stackoverflow.com/questions/36803389/angular2-async-pipe-not-does-not-fill-object-data-into-template](http://stackoverflow.com/questions/36803389/angular2-async-pipe-not-does-not-fill-object-data-into-template)
-
 
 I have an observable that I want to pass to a component.
 Once passed I want a sub property that is static in that case : the first item of an array.
+Or may be dynamic, a component property.    
 
-Or may be dynamic, a component property.     
-The problem is that : `(imagesFB | async)[0]` would fail because the item does not exist at first and the async is for imagesFB not for the resulting array that (imagesFB | async) output.
-So with a ternary syntax (bolean) ? /* code if true */ : /* code if false */ ;
+The problem is that : `(imagesFB | async)[0]` would fail because the item does not exist at first and the async is for imagesFB not for the resulting array that (imagesFB | async) return.
+So with a ternary syntax `(bolean) ? /* code if true */ : /* code if false */ ;`
+
 We do the trick.
-*
+
 ```
 ui-gallery-image([image]="(imagesFB | async) ? (imagesFB | async)[0] : null")
 ```
