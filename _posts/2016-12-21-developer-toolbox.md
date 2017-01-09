@@ -4,12 +4,23 @@ title: My developer toolbox
 ---
 
 Developer tooling is important!   
-With good tools we lose less time in stupid things and can concentrate on the app specific stuff we are paid (or not paid) for. 
+With good tools we lose less time in stupid things and can concentrate on the app specific stuff we are paid (or not paid) for.
 
 ## A text editor
 
 * Sublime text
 * Atom.io
+
+### A browser with  good debugging
+
+Alternatives are :
+
+* Chrome With dev tools
+* Mozilla Firefox with debugger
+* Chrome canary with dev tools
+
+Though Firefox have interesting features with a nice design of the debugger. Chrome offer more extensions and mainly I am  more used to chrome for good or bad reasons.
+
 
 ## A terminal
 

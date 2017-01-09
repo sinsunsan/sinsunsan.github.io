@@ -98,6 +98,11 @@ Organize your code in a modular way. Import a module instead of importing a doze
 ## Pipes
 
 * Simple tutorial to do a custom  pipe available in its components then make it available application wide    [https://scotch.io/tutorials/create-a-globally-available-custom-pipe-in-angular-2](https://scotch.io/tutorials/create-a-globally-available-custom-pipe-in-angular-2)
+
+## Router
+
+* In depth practical article on the new  angular 2 router     [https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router](https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router)
+
 ## ES 6
 
 * Exploring JS / Full online book on javascripting with extensive doc on ES6

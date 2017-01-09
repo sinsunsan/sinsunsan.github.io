@@ -12,10 +12,16 @@ The module system for example has played an important role in the ES6 modules ad
 
 ## Async, Promises
 
+* Async programming    
 [https://blog.risingstack.com/node-hero-async-programming-in-node-js/](https://blog.risingstack.com/node-hero-async-programming-in-node-js/)
 
 * How to use promises instead of callback and even transform core modules in promise style     
 [https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/](https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/)
+
+* Chaining promises     
+[https://html5hive.org/how-to-chain-javascript-promises/](https://html5hive.org/how-to-chain-javascript-promises/)
+
+<script src="https://gist.github.com/sinsunsan/3b8081bec0fe45c17cfaf28a6542448c"></script>
 
 ## Error Handling
 
@@ -35,3 +41,9 @@ To start debugging, open the following URL in Chrome:
 Server listening on 3000
 Debugger attached.
 ```
+
+## Inspire from existing library
+
+You will probably use many open source library in your project.
+Why not opening a dedicated tab or window in your text editor to browse the code.
+It could be very instructive to how to organize code in node.js.
