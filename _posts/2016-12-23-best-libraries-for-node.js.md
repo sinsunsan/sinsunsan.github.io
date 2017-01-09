@@ -30,10 +30,13 @@ Here is a growing selection of the most useful libraries for node.
 * **Lodash** : the utility library for javascript    
 [https://lodash.com](https://lodash.com)
 
-### Async
+### Async & Promises
 
 * **Async** : Aynschronous call (a sort of lodash for asynchronous operation)     [http://caolan.github.io/async/docs.html#](http://caolan.github.io/async/docs.html#)
 
+* **Blue bird** : Blue bird is the more popular promise library for node.js Though promise are in the core node.js language there are  [multiple  arguments](http://stackoverflow.com/questions/34960886/are-there-still-reasons-to-use-promise-libraries-like-q-or-bluebird-now-that-we) to keep using a library like blue bird.  
+  
+[http://bluebirdjs.com/](http://bluebirdjs.com/)
 
 ### Uploading
 

@@ -23,6 +23,10 @@ The module system for example has played an important role in the ES6 modules ad
 
 <script src="https://gist.github.com/sinsunsan/3b8081bec0fe45c17cfaf28a6542448c"></script>
 
+* Using ES6 promises implementation of a library (blue bird, q....)
+
+[http://stackoverflow.com/questions/34960886/are-there-still-reasons-to-use-promise-libraries-like-q-or-bluebird-now-that-we](http://stackoverflow.com/questions/34960886/are-there-still-reasons-to-use-promise-libraries-like-q-or-bluebird-now-that-we)
+
 ## Error Handling
 
 [https://www.joyent.com/node-js/production/design/errors](https://www.joyent.com/node-js/production/design/errors)
