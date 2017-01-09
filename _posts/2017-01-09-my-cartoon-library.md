@@ -4,7 +4,7 @@ title: Ma bibliothèque de BD
 published: true
 ---
 
-Les bandes dessinées que j'ai lues depuis 1 ans environ.
+Les bandes dessinées que j'ai lues depuis 1 an environ.
 En général, je les emprunte à la bibliothèque de mon quartier. Et je les lis vite. C'est l'avantage des BD !
 
 J'ai voulu garder la trace de ce qui m'est passé par les mains, en les mettant dans une base de données que je vous partage.
