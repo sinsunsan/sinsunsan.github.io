@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cosmological theories to reconcile quantum physics with relativity
+title: Theories to reconcile quantum physics with relativity
 published: true
 ---
 Cosmology is one of most interesting subject of science.
