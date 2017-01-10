@@ -20,8 +20,10 @@ The module system for example has played an important role in the ES6 modules ad
 
 * Chaining promises     
 [https://html5hive.org/how-to-chain-javascript-promises/](https://html5hive.org/how-to-chain-javascript-promises/)
-
 <script src="https://gist.github.com/sinsunsan/3b8081bec0fe45c17cfaf28a6542448c"></script>
+
+[http://stackoverflow.com/questions/28250680/how-do-i-access-previous-promise-results-in-a-then-chain](http://stackoverflow.com/questions/28250680/how-do-i-access-previous-promise-results-in-a-then-chain)
+
 
 * Using ES6 promises implementation of a library (blue bird, q....)
 
