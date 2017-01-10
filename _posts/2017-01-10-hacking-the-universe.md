@@ -23,7 +23,7 @@ Let's list the different theories and their different characteristics.
 
 ### Loop quantum gravity
 
-The space is not continuous but composed with small quantifiable space units.
+The space is not continuous but composed by small quantifiable space units.
 
 #### How if fix the problem ?
 
