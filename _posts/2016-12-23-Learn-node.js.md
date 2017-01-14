@@ -10,6 +10,10 @@ The module system for example has played an important role in the ES6 modules ad
 
 ## Express
 
+## Http call
+
+* Using Request library     [https://blog.risingstack.com/node-hero-node-js-request-module-tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
+
 ## Async, Promises
 
 * Async programming    
@@ -47,6 +51,11 @@ To start debugging, open the following URL in Chrome:
 Server listening on 3000
 Debugger attached.
 ```
+
+## test
+
+* Simple test with mocha and chai tutorial      
+[https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 
 ## Inspire from existing library
 

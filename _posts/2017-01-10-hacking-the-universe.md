@@ -30,3 +30,7 @@ The space is not continuous but composed by small quantifiable space units.
 By discretizing the space it self, we get rid of Infinity that prevent us from understanding relativity during extreme conditions like in the big bang or in black hole.
 
 [https://en.wikipedia.org/wiki/Loop_quantum_gravity](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
+
+#### Ressources
+
+* [La géométrie et le quantique 1/2](https://www.college-de-france.fr/site/alain-connes/course-2017-01-05-14h30.htm) In french by the  famous mathematician Alain Cones https://en.wikipedia.org/wiki/Alexander_Grothendieck 
