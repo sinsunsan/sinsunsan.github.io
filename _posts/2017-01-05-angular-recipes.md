@@ -43,3 +43,45 @@ We do the trick.
 ```
 ui-gallery-image([image]="(imagesFB | async) ? (imagesFB | async)[0] : null")
 ```
+
+### Instanciation of class or static method
+
+There is 3 keywords that can be used in a class.
+To defined a property or method
+
+* **public** to get the method available from other classes
+* **private** to get it only usable inside the class
+* **static** allow to use a class without instantiating it
+Instantiate a class, is creating a local copy of it. For example if we are in a component, that mean that we are using an instance of a class.
+An instance is creating by passing it to the component constructor like this.
+````js
+import { UploadService }         from '../../../services/api/upload.service'
+
+export class UiUploadUploadcareComponent {
+  constructor(
+    private uploadService: UploadService,
+  ){
+  }
+
+  upload() {
+    // we use the instance of the class with this
+    this.uploadService.upload()
+  }
+````
+But by using static we do not need, and we cannot actually create a local instance
+
+````js
+import { StaticService }         from '../../../services/static.service'
+
+export class UiUploadUploadcareComponent {
+  constructor(
+    // we do not need to instanciate the class
+  ){
+  }
+
+  upload() {
+    // we use the static method useStaticClass
+    // of StaticService  class without the this keyword
+    StaticService.useStaticClass()
+  }
+````

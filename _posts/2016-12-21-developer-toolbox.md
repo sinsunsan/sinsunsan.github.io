@@ -46,3 +46,8 @@ The official description is :
 > ngrok exposes local networked services behinds NATs and firewalls to the
   public internet over a secure tunnel. Share local websites, build/test
   webhook consumers and self-host personal services.
+
+* App cleaner     
+[https://freemacsoft.net/appcleaner/](https://freemacsoft.net/appcleaner/)
+
+When chrome get mad with its settings for example the famous dev tools zoom that you are unable to reset. Just reinstall Chrome. But in order to delete properly and do get rid of the settings that annoy, this simple free app will do the job. Select the app(s) you want to truly delete and click on the search button to launch to search for dependency files, they click on delete. 

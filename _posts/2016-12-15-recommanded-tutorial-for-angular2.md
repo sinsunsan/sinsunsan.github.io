@@ -19,6 +19,11 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * Guide to forms in angular 2    
 [http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 
+* Angular forms beyond the basics   
+[http://restlet.com/blog/2016/02/17/implementing-angular2-forms-beyond-basics-part-2/](http://restlet.com/blog/2016/02/17/implementing-angular2-forms-beyond-basics-part-2/)
+Some more advanced form topics like automatically adding class for bootstrap or async validation...
+
+
 ### Reactive forms or model driven fields
 
 * Using Angular2 model driven forms    
@@ -38,6 +43,8 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 [https://toddmotto.com/component-events-event-emitter-output-angular-2](https://toddmotto.com/component-events-event-emitter-output-angular-2)
 * Change detection in Angular 2
 [http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html](http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
+* How to replicate $scope.$emit with global events ? More technics that official ways
+[http://stackoverflow.com/questions/34700438/global-events-in-angular-2](http://stackoverflow.com/questions/34700438/global-events-in-angular-2)
 
 ## Components
 
@@ -51,6 +58,11 @@ A way to organize component to differentiate presentational component highly reu
 ## Components @input
 
 * How to define a inner child component property on-change to allow pass observable as input.   [http://almerosteyn.com/2016/03/immutable-component-input-from-observable](http://almerosteyn.com/2016/03/immutable-component-input-from-observable)
+
+## Directives
+
+* Structural (ngIf...or custom) or attributes (ngClass... or custom) directives      
+[https://angular-2-training-book.rangle.io/handout/advanced-angular/directives/](https://angular-2-training-book.rangle.io/handout/advanced-angular/directives/)
 
 ## Observables / RxJS
 
@@ -85,6 +97,8 @@ RxJs is the  implementation of Observable used by angular which is being develop
 Organize your code in a modular way. Import a module instead of importing a dozen of files (javascript modules). Despite of the use of ES6 modules in angular, angular  modules @ngModules are still useful to bundle a feature or a shared utility together.
 
 * [https://scotch.io/bar-talk/getting-to-know-angular-2s-module-ngmodule](https://scotch.io/bar-talk/getting-to-know-angular-2s-module-ngmodule)
+
+* The ng module FAQ is a good place to better understand the ngModules API fine tuning     [https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable)
 
 ## Decorator / Annotation syntax [Typescript]
 
