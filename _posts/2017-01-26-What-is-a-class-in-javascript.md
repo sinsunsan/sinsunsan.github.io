@@ -1,5 +1,6 @@
 ---
-published: true
+published: false
+layout: post
 title: What is a class in angular & in javascript
 ---
 
