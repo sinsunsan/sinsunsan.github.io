@@ -14,6 +14,10 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * 132+ Video tutorial on specific pratical cases
 [https://egghead.io/technologies/angular2](https://egghead.io/technologies/angular2)
 
+## Ressources and tutorials list
+
+* Awesome Angular       [https://github.com/AngularClass/awesome-angular](https://github.com/AngularClass/awesome-angular2#ahead-of-time-compilation)
+
 ## Forms
 
 * Guide to forms in angular 2    
@@ -39,6 +43,7 @@ Some more advanced form topics like automatically adding class for bootstrap or 
 [https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
 
 ## Events / Change detection
+
 * Event and @output decorator     
 [https://toddmotto.com/component-events-event-emitter-output-angular-2](https://toddmotto.com/component-events-event-emitter-output-angular-2)
 * Change detection in Angular 2
@@ -58,6 +63,18 @@ A way to organize component to differentiate presentational component highly reu
 ## Components @input
 
 * How to define a inner child component property on-change to allow pass observable as input.   [http://almerosteyn.com/2016/03/immutable-component-input-from-observable](http://almerosteyn.com/2016/03/immutable-component-input-from-observable)
+
+## Component ngInit vs constructor
+
+* Difference between constructor and ngOnInit     
+ [http://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit](http://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit)
+
+## Dynamic component / Component inheritance...
+
+* dynamically creating component in angular 2 [http://blog.rangle.io/dynamically-creating-components-with-angular-2/](http://blog.rangle.io/dynamically-creating-components-with-angular-2/)
+
+* Component inheritance introduced in 2.3     
+[https://scotch.io/tutorials/component-inheritance-in-angular-2](https://scotch.io/tutorials/component-inheritance-in-angular-2)
 
 ## Directives
 
@@ -79,6 +96,8 @@ RxJs is the  implementation of Observable used by angular which is being develop
 
  [http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/](http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 
+* Building a data store with observable
+[http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/](http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
 
 ## ngFor, ngIf, ...
 
