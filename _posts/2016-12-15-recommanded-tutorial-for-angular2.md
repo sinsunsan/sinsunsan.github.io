@@ -164,3 +164,7 @@ import { OptionService }      from '../../../services/api/option.service';
 * Detailed post that explained the principle of firebase, why it is a good solution for BaaS application and allow to develop faster. Then it describe the integration in Angular2 with the angular fire library [http://blog.angular-university.io/angular-2-firebase](http://blog.angular-university.io/angular-2-firebase/)
 * The official docs ? [https://angularfire2.com/api/](https://angularfire2.com/api/)
 * The doc in the project [https://github.com/angular/angularfire2/tree/master/docs](https://github.com/angular/angularfire2/tree/master/docs)
+
+## AOT Ahead of Time Compilation
+
+* Demystifying AOT : Nice slides that present AOT as an easy thing ... [http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30)

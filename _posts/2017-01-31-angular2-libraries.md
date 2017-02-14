@@ -29,6 +29,10 @@ The doc the [different available pipes](https://fknop.gitbooks.io/angular-pipes)
 
 [https://github.com/laco0416/ng-dynamic](https://github.com/laco0416/ng-dynamic)
 
+## Infinite scroll
+
+* **Angular 2 infinite scroll**    [https://github.com/orizens/angular2-infinite-scroll](https://github.com/orizens/angular2-infinite-scroll)  
+
 
 ## Drag & Drop
 
@@ -36,3 +40,7 @@ The doc the [different available pipes](https://fknop.gitbooks.io/angular-pipes)
 
 * Ng-dnd : angular native library
 [https://github.com/akserg/ng2-dnd](https://github.com/akserg/ng2-dnd)
+
+## Documentation
+
+* **Angular doc** : Online documentation from github repo    [http://angulardoc.io/main](http://angulardoc.io/main)

@@ -55,6 +55,28 @@ It's port with promise powered by blue bird
 
 [http://bluebirdjs.com/](http://bluebirdjs.com/)
 
+### Caching
+
+* **Node Cache manager**  
+This library seems to be the more complete.
+The advantage of this caching library is that it decoupled caching storage from caching configuration so it is possible to cache in redis, memory, file system....
+[https://github.com/BryanDonovan/node-cache-manager](https://github.com/BryanDonovan/node-cache-manager)  
+
+* **Memory cache (also node-cache in github)**
+This library seems to be the more popular thanks to its simplicity
+Example implementation in that [tuto](https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs)
+[https://github.com/ptarjan/node-cache](https://github.com/ptarjan/node-cache)
+
+* **Express Redis cache**   
+Example implementation in that [tuto](https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs)     
+[https://github.com/rv-kip/express-redis-cache](https://github.com/rv-kip/express-redis-cache)
+
+* **Node Caching**     
+[https://github.com/mape/node-caching](https://github.com/mape/node-caching)
+
+* **Node cache**
+[https://github.com/mpneuried/nodecache](https://github.com/mpneuried/nodecache)
+
 ### Uploading
 
 * **Multer** Node.js middleware for handling `multipart/form-data`. > handle image upload more easily    

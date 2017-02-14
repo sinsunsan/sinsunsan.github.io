@@ -37,6 +37,14 @@ The module system for example has played an important role in the ES6 modules ad
 
 [https://www.joyent.com/node-js/production/design/errors](https://www.joyent.com/node-js/production/design/errors)
 
+## Performance
+
+* How to get node backend faster    
+[https://engineering.gosquared.com/making-dashboard-faster](https://engineering.gosquared.com/making-dashboard-faster)
+
+* Simple server side cache for express js (using memory-cache)
+[https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs/](https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs/)
+
 ## Debug
 
 The node  debugger that use chrome debugger is available in latest version of node
