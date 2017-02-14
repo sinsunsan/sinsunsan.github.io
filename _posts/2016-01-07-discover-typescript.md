@@ -10,7 +10,7 @@ published: true
 * An open source book on typescript
 [https://basarat.gitbooks.io/typescript](https://basarat.gitbooks.io/typescript)
 
-* Example of a d.ts file 
+### Example of a d.ts file
 
 [https://github.com/limonte/sweetalert2/blob/master/sweetalert2.d.ts](https://github.com/limonte/sweetalert2/blob/master/sweetalert2.d.ts)
 
@@ -27,4 +27,4 @@ We identify the syntax for funtion parameters :
 * **title** is the first argument and should be a string 
 * **message** is the second argument and should be a string, it is an optional parameter it don't produce an error if not provided. 
 * **type** is optional and is not using a standard type but a custom type SweetAlertType that is defined elsewhere 
-* **: Promise<any>** referered to what the function should return. It should return a Promise with a collection / array of element of any types
+* **`: Promise<any>`** referered to what the function should return. It should return a Promise with a collection / array of element of any types
