@@ -16,9 +16,9 @@ published: true
 
 Definition of the main function of sweealert 2 ( a library to display nice alert confirm modal
 
-````
+```
 function swal(title: string, message?: string, type?: SweetAlertType): Promise<any>;
-````
+```
 
 The function parameters are defined by not the content of the function which is not the purpose of the d.ts file is here to documentate the types of js files of existing libraries not written directly in typescript. 
 
@@ -29,9 +29,9 @@ We identify the syntax for function parameters :
 * **type** is optional and is not using a standard type but a custom type SweetAlertType that is defined elsewhere 
 * **`: Promise<any>`** refer to what the function should return. It should return a Promise with a collection / array of element of any types
 
-Then we follow with the definition of an interface. Interface ies the definition of an empty object that serve as a model to constrain object with real data in it. It serve as a guide for developer that in the code use an implementation of this same object. It serve to define what we called custom types, types are not the standard string, bolean....
+Then we follow with the definition of an interface. Interface ies the definition of an empty object that serve as a model to constrain object with real data in it. It serve as a guide for developer that in the code use an implementation of this same object. It serve to define what we called custom types, types are not the standard string, boolean....
 
-````
+```
  export interface SweetAlertOptions {
         /**
          * The title of the modal, as HTML.
@@ -48,7 +48,7 @@ Then we follow with the definition of an interface. Interface ies the definition
         
         // More fields definition
    }
- ````
+ ```
  
  An other syntax is alternative types
  ` width?: number|string;`    
@@ -60,4 +60,8 @@ Then we follow with the definition of an interface. Interface ies the definition
 it defined a function with the new ES6 syntax called fat arrow syntax => 
 So this function assigned to optional `preconfirm` property need an argument `inputValue` of any type 
 that return a promise with a collection of element of any type.
+
+All this types declaration is wrapped in a 
+`declare module "sweetalert2" {`  
+that allow to map the declaration with module name `sweetalert2`that is defined in the main sweetalert2 js file
 
