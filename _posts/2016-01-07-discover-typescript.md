@@ -31,24 +31,22 @@ We identify the syntax for function parameters :
 
 Then we follow with the definition of an interface. Interface ies the definition of an empty object that serve as a model to constrain object with real data in it. It serve as a guide for developer that in the code use an implementation of this same object. It serve to define what we called custom types, types are not the standard string, boolean....
 
-```
- export interface SweetAlertOptions {
-        /**
-         * The title of the modal, as HTML.
-         * It can either be added to the object under the key "title" or passed as the first parameter of the function.
-         * Default: null
-         */
-        title?: string;
+       export interface SweetAlertOptions {
+              /**
+               * The title of the modal, as HTML.
+               * It can either be added to the object under the key "title" or passed as the first parameter of the function.
+               * Default: null
+               */
+              title?: string;
 
-        /**
-         * The title of the modal, as text. Useful to avoid HTML injection.
-         * Default: null
-         */
-        titleText?: string;
-        
-        // More fields definition
-   }
- ```
+              /**
+               * The title of the modal, as text. Useful to avoid HTML injection.
+               * Default: null
+               */
+              titleText?: string;
+
+              // More fields definition
+         }
  
  An other syntax is alternative types
  ` width?: number|string;`    
@@ -64,4 +62,3 @@ that return a promise with a collection of element of any type.
 All this types declaration is wrapped in a 
 `declare module "sweetalert2" {`  
 that allow to map the declaration with module name `sweetalert2`that is defined in the main sweetalert2 js file
-
