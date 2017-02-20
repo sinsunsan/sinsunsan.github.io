@@ -10,6 +10,11 @@ published: false
 and its angular integration     
 [https://github.com/gangachris/ng-validators](https://github.com/gangachris/ng-validators)
 
+### UI
+
+* **Smart alert** : nice alert, confirm libraries
+[https://limonte.github.io/sweetalert2/](https://limonte.github.io/sweetalert2/)
+
 ### Best practice
 
 * **Javascript standard**    [https://github.com/feross/standard#why-should-i-use-javascript-standard-style](https://github.com/feross/standard#why-should-i-use-javascript-standard-style)

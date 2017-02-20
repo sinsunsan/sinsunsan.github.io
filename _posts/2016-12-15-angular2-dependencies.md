@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Angular 2 external dependencies
 ---
-Angular 2 is built on external dependencies. 
+Angular 2 is built on external dependencies.
 That can be confusing at first but let's look at them closely as underneath the angular 2 framework, their will be at the commands. If there is a bug, their role need to be understood.
 
 ```js
@@ -20,5 +20,7 @@ That can be confusing at first but let's look at them closely as underneath the 
 ### Reflect Metadata
 
 ### Rxjs
+
+* [Github book on RXJS](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/index.html)
 
 ### zone.js

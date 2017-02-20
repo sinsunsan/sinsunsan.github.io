@@ -8,7 +8,7 @@ Typescript is a subset of javascript. That mean that all javascript ES5, 6 ... i
 
 Like ES6 and all new javascript brand, it need to be compiled to current javascript so that actual browsers can interpret it.
 
-### Ressources
+### Resources
 
 * Type script official documentation
 [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
@@ -27,11 +27,6 @@ In our sweetalert2 example
 `"types": "sweetalert2.d.ts",` the following key is enough to tell typescript that the type definition file is at the root of the library in a file named **sweetalert2.d.ts**.
 
 ### Example of a d.ts file
-
-
-
-
-
 
 [https://github.com/limonte/sweetalert2/blob/master/sweetalert2.d.ts](https://github.com/limonte/sweetalert2/blob/master/sweetalert2.d.ts)
 

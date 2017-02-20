@@ -15,7 +15,12 @@ published: false
 
 * **Angular pipes** : Shared pipes (filters) libraries. Standard  angular pipe are very limited but pipes are very similar project, so a library of pipes makes a lot of sense
 [https://github.com/fknop/angular-pipes](https://github.com/fknop/angular-pipes)
+
 The doc the [different available pipes](https://fknop.gitbooks.io/angular-pipes) it is available here or there on [how to define pipes in your modules and components](https://github.com/a8m/ng-pipes)
+
+* **angular-linky** : angular wrapper on a js library that transform in links emails, urls, phone numbers...
+
+[https://github.com/dzonatan/angular-linky](https://github.com/dzonatan/angular-linky)
 
 ## Data
 
