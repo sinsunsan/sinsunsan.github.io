@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal angular
+title: Universal angular global view
 published: true
 ---
 ### Why
