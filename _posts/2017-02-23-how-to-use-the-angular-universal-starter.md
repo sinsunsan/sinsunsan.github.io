@@ -51,13 +51,12 @@ In this folder are the files to be reused in your application.
 
 ### Files to handle CSR (Client Side Rendering)
 
-**To be configured or customized**
+_To be configured or customized_
 
 * **browser.module.ts** Main angular @ngmodule for client side will replace your current MainModule or rootModule.
 
-***
 
-**To keep as if of minimally customized**
+_To keep as if of minimally customized_
 
 * **__workaround.browser.ts** : Patch of angular core (useful till angular v4) for CSR (Client Side Rendering) called  by client.ts
 
@@ -70,14 +69,14 @@ With a specific one. So this 3 lines are important :
 
 ````js
 import { platformUniversalDynamic } from 'angular2-universal/browser';
-````
 
-````js
+// ...  More code
+
 export const platformRef = platformUniversalDynamic();
-````
 
-````js
 platformRef.bootstrapModule(MainModule);
+
+// ...  More code
 ````
 
 * **__workaround.node.ts** : Patch of angular core (useful till angular v4) for SSR (Server Side Rendering)
@@ -102,10 +101,12 @@ You should do the same
 
 [scr/+app folder on github](https://github.com/angular/universal-starter/tree/master/src/%2Bapp)
 
-The files and sub-directories represent an example app with different cases you may encounter.
+The files and sub-directories in this folder represent an example app with different cases you may encounter (lazy loading, loading data from an api..)
 
 This is just an example app and you probably won't need it.
 
 An exception could be a cache service
 
-In [universal-starter/src/+app/shared/](https://github.com/angular/universal-starter/tree/master/src/%2Bapp/shared) You may reuse some file to make the optional but recommended cache system
+In [universal-starter/src/+app/shared/](https://github.com/angular/universal-starter/tree/master/src/%2Bapp/shared)
+
+You may reuse some file to make the optional but recommended cache system functional in your app too.
