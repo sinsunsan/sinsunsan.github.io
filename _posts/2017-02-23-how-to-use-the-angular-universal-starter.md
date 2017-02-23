@@ -110,3 +110,28 @@ An exception could be a cache service
 In [universal-starter/src/+app/shared/](https://github.com/angular/universal-starter/tree/master/src/%2Bapp/shared)
 
 You may reuse some file to make the optional but recommended cache system functional in your app too.
+
+### package.json of the universal starter
+
+Specific parts to be added for universal rendering
+```js
+{
+
+// Equivalent o platform browser but for the server
+"@angular/platform-server": "~2.1.2",
+
+// Deal with initialization
+"@angularclass/bootloader": "~1.0.1",
+"@angularclass/idle-preload": "~1.0.4",
+
+// Rendering engine for express that know angular 2
+"angular2-express-engine": "~2.1.0-rc.1",
+"angular2-platform-node": "~2.1.0-rc.1",
+
+// main library for angular 2 universal
+"angular2-universal": "~2.1.0-rc.1",
+
+// Some polyfill for the angular or node part
+"angular2-universal-polyfills": "~2.1.0-rc.1"
+}
+```
