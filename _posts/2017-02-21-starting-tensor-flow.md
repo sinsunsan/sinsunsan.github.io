@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting with tensorflow
-published: true
+published: false
 ---
 
 [https://www.tensorflow.org/versions/r0.10/get_started/os_setup#docker_installation](https://www.tensorflow.org/versions/r0.10/get_started/os_setup#docker_installation)

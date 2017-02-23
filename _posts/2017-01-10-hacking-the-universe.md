@@ -33,4 +33,4 @@ By discretizing the space it self, we get rid of Infinity that prevent us from u
 
 #### Ressources
 
-* [La géométrie et le quantique 1/2](https://www.college-de-france.fr/site/alain-connes/course-2017-01-05-14h30.htm) In french by the  famous mathematician Alain Cones https://en.wikipedia.org/wiki/Alexander_Grothendieck 
+* [La géométrie et le quantique 1/2](https://www.college-de-france.fr/site/alain-connes/course-2017-01-05-14h30.htm) In french by the  famous mathematician Alain Cones
