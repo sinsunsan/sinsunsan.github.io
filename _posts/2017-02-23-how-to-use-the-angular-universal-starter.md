@@ -7,50 +7,39 @@ published: true
 Angular Universal allow to do server side rendering of the angular code.
 Waiting front end code generate the page.
 
-It allow that even if a user act on the page (click on items, change page...), the changes occurring in the server rendered side is replayed in the client rendered page.
+It allow that even if a user act on the page (click on items, change page...), the changes occurring in the server rendered side are replayed in the client rendered page.
 
 So the end user will not see anything except it will be faster, Whereas google will see all the pages as though it were a normal user.
 
 Look at this article to [have a more global view on angular universal](http://dev.sebastienlucas.com/universal-angular/).
 
 
-### Clone the angular universal starter
+## Clone the angular universal starter
 
 * Universal angular starter    
 [https://github.com/angular/universal-starter](https://github.com/angular/universal-starter)
 
-### What file do what?
+## What file do what?
 
 Here is the schema that I borrow from this [good article](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84) by Wassim Chegham on Medium, that explain the role of each file.
 
 
 ![Files structure explained](../images/universal-files.png)
 
-### Some vocabulary to start
+## Some vocabulary to start
 
 For convenience let's use the following acronyms.
 
-* SSR : Server side rendering
-* CSR : Client side rendering
+* **SSR** : Server side rendering
+* **CSR** : Client side rendering
 
-### Explanation of the role of each file in angular starter
+## Explanation of the role of each file in angular starter
 
-#### Files in the [src](https://github.com/angular/universal-starter/tree/master/src) folder
+### Files in the src folder
 
-Go to the subfolder **src** in [universal-starter/src/](https://github.com/angular/universal-starter/tree/master/src)
+* [src folder code on github](https://github.com/angular/universal-starter/tree/master/src)
 
 In this folder are the files to be reused in your application.
-
-### Files in the [scr/+app]((https://github.com/angular/universal-starter/tree/master/src/%2Bapp) folder
-
-
-The files and sub-directories represent an example app with different cases you may encounter.
-
-This is just an example app and you probably won't need it.
-
-An exception could be a cache service
-
-In [universal-starter/src/+app/shared/](https://github.com/angular/universal-starter/tree/master/src/%2Bapp/shared) You may reuse some file to make the optional but recommended cache system
 
 #### Files to handle SSR (Server Side Rendering)
 
@@ -94,8 +83,6 @@ platformRef.bootstrapModule(MainModule);
 
 In this file is an example of a definition of a main @ngmodule that you should use or replicate if you want to be universal angular compatible.
 
-* angular2-meta.ts
-
 
 #### Files used by both
 
@@ -109,3 +96,15 @@ You should do the same
 
 
 * **angular2-meta.ts** [File code](https://github.com/angular/universal-starter/blob/master/src/angular2-meta.ts). Related to the way meta tags (the tags at the top of HEAD section of the html documented is handled)
+
+### Files in the src/app folder
+
+[scr/+app folder on github]((https://github.com/angular/universal-starter/tree/master/src/%2Bapp)
+
+The files and sub-directories represent an example app with different cases you may encounter.
+
+This is just an example app and you probably won't need it.
+
+An exception could be a cache service
+
+In [universal-starter/src/+app/shared/](https://github.com/angular/universal-starter/tree/master/src/%2Bapp/shared) You may reuse some file to make the optional but recommended cache system
