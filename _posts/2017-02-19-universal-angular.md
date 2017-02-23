@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Universal angular global view
+title: Universal angular 2 Introduction
 published: true
 ---
+
+We have written a more [step by step tuto to start with angular universal starter](http://dev.sebastienlucas.com/how-to-use-the-angular-universal-starter/).
+
+But let's start with an introduction of what it is.
+
 ## Why
 
 * SEO Friendly
@@ -55,10 +60,6 @@ Explain a static prerendering technic (using gulp prerender) and at the end prob
 
 * What to do with jquery library ? How jquery libs wrapper should be ? that touch the DOM ?
 
-
-## How to start from the angular universal starter
-
-We have written a more [step by step tuto to start with angular universal starter](http://dev.sebastienlucas.com/how-to-use-the-angular-universal-starter/).
 
 ## What **not** to do in angular 2 to be universal loader compatible
 

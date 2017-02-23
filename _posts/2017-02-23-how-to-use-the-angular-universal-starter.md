@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Practical guide to use universal starter
+title: Practical guide to use angular 2 universal starter
 published: true
 ---
 
