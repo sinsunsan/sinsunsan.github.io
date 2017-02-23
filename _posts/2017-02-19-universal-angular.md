@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal angular 2 Introduction
+title: Angular 2 Universal Introduction (server side rendering)
 published: true
 ---
 
