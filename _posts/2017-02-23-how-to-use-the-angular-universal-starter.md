@@ -100,7 +100,7 @@ You should do the same
 
 ### Files in the src/app folder
 
-[scr/+app folder on github]((https://github.com/angular/universal-starter/tree/master/src/%2Bapp)
+[scr/+app folder on github](https://github.com/angular/universal-starter/tree/master/src/%2Bapp)
 
 The files and sub-directories represent an example app with different cases you may encounter.
 
