@@ -22,31 +22,31 @@ More details of  loading process step by step :
 
 ## Ressources
 
-* Universal angular starter    
+* **Universal angular starter**
 
 [https://github.com/angular/universal-starter](https://github.com/angular/universal-starter)
-* Server side rendering in angular 2 with angular universal (scotch.io)
+* **Server side rendering in angular 2 with angular universal (scotch.io)**
 
 [https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal](https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal)
-* A more cleaned up official tutorial  
+
+* **A more cleaned up official tutorial**
 
 [https://universal.angular.io/quickstart/](https://universal.angular.io/quickstart/)
 
-* Tutorial form angular academy    
+* **Tutorial form angular academy**  
 
 Explain a static prerendering technic (using gulp prerender) and at the end problem of authenticated prerendering and how to get the connected user info.
 
 [http://blog.angular-university.io/angular-2-universal-meet-the-internet-of-the-future-seo-friendly-single-page-web-apps/](http://blog.angular-university.io/angular-2-universal-meet-the-internet-of-the-future-seo-friendly-single-page-web-apps/)
 
-* Another tuto on universal on medium : good  illustration
+* **Another tuto on universal on medium : good  illustration**
 
 [https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.h5ngcepfb](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.h5ngcepfb)
 
 
-* A Fork of angular CLI that is compatible with universal
+* **A Fork of angular CLI that is compatible with universal**
 
 [https://github.com/devCrossNet/universal-cli](https://github.com/devCrossNet/universal-cli)
-
 
 ## Unsolved questions
 
