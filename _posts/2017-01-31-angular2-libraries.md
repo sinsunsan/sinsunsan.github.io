@@ -39,6 +39,10 @@ The doc the [different available pipes](https://fknop.gitbooks.io/angular-pipes)
 * **Angular 2 infinite scroll**    [https://github.com/orizens/angular2-infinite-scroll](https://github.com/orizens/angular2-infinite-scroll)  
 
 
+* **ng2-page-scroll** Scroll in the page
+[https://github.com/Nolanus/ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll)
+
+
 ## Drag & Drop
 
 * Dragula : the most popular but as a wrapper to a vanilla js lib [https://github.com/valor-software/ng2-dragula](https://github.com/valor-software/ng2-dragula)

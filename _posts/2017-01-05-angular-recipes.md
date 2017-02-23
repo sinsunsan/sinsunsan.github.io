@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular recipes
+title: Angular 2 recipes / Tips & tricks
 published: true
 ---
 Tips & tricks for tricky but useful things in angular 2. The type of problems that are too small  to deserve a full blog post, and that you do not know how to name to search for.
@@ -84,4 +84,41 @@ export class UiUploadUploadcareComponent {
     // of StaticService  class without the this keyword
     StaticService.useStaticClass()
   }
+````
+
+
+### Simplify module definition with the spread operator
+
+* [Doc of spread operator](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
+````js
+@NgModule({
+  imports: [
+    ...MODULES
+  ],
+  declarations: [
+    ...PIPES,
+    ...COMPONENTS
+  ],
+  exports: [
+    ...MODULES,
+    ...PIPES,
+    ...COMPONENTS
+  ]
+})
+````
+
+### Export of modules to be compatible with lazy loading, AOT and universal angular
+
+````js
+export class SharedModule {
+  static forRoot(): ModuleWithProviders {
+    return {
+      ngModule: SharedModule,
+      providers: [
+        ...PROVIDERS
+      ]
+    };
+  }
+}
 ````
