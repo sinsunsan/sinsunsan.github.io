@@ -82,8 +82,8 @@ If  you use inline css or html already this step is not necessary, but if you pr
 
 ## How to test that the server rendering is correct ?
 
-* See the source of the page : The source of the page is supposed to be the unmodified content retrieved from the server, wheras chrome debug explorer show the code produced from that by angular
+* See the source of the page : The source of the page is supposed to be the unmodified content retrieved from the server, whereas chrome debug explorer show the code produced from that by angular
 * Disable javascript to have only the  server rendering :
 
-This solution was proposed by []@MarkPieszak](https://github.com/angular/universal-starter/issues/372#issuecomment-281711218)
+This solution was proposed by [@MarkPieszak](https://github.com/angular/universal-starter/issues/372#issuecomment-281711218)
 > One super easy way to test SSR is to go to your Chrome devtools, settings, and click the Disable JavaScript checkbox. Then try refreshing / clicking around your app. No client-side at all, everything came from the server! :)
