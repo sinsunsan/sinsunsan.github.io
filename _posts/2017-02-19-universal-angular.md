@@ -3,13 +3,13 @@ layout: post
 title: Universal angular global view
 published: true
 ---
-### Why
+## Why
 
 * SEO Friendly
 * Social  media friendly (link posted in facebook, twitter...)
 * Faster for the end users
 
-### How  it works
+## How  it works
 
 * The site is rendered entirely in the backend with the good state
 * It records the events the user may have triggered (click, hover..., change menu... )
@@ -20,7 +20,7 @@ More details of  loading process step by step :
 
 [https://github.com/angular/universal/blob/master/DOCUMENTATION.md#-how-does-it-work](https://github.com/angular/universal/blob/master/DOCUMENTATION.md#-how-does-it-work)
 
-### Ressources
+## Ressources
 
 * Universal angular starter    
 
@@ -48,7 +48,7 @@ Explain a static prerendering technic (using gulp prerender) and at the end prob
 [https://github.com/devCrossNet/universal-cli](https://github.com/devCrossNet/universal-cli)
 
 
-### Unsolved questions
+## Unsolved questions
 
 * How to deal with front router parameter in backend ?
 `{ path: 'page/:pageId', component: pageComponent },`
@@ -56,11 +56,11 @@ Explain a static prerendering technic (using gulp prerender) and at the end prob
 * What to do with jquery library ? How jquery libs wrapper should be ? that touch the DOM ?
 
 
-### How to start from the angular universal starter
+## How to start from the angular universal starter
 
 We have written a more [step by step tuto to start with angular universal starter](http://dev.sebastienlucas.com/how-to-use-the-angular-universal-starter/).
 
-### What **not** to do in angular 2 to be universal loader compatible
+## What **not** to do in angular 2 to be universal loader compatible
 
 * Not manipulate DOM directly nor with jquery
 `document.domMethod() or $('dom-element')`
@@ -69,7 +69,7 @@ Instead use the following angular methods
     * [Renderer](https://angular.io/docs/js/latest/api/core/index/Renderer-class.html)
     * [ViewContainerRef](https://angular.io/docs/ts/latest/api/core/index/ViewContainerRef-class.html)
 
-### Libraries needed
+## Libraries needed
 
 * Template url and styles url need to be inlined and packed in the angular component :
 > To use `templateUrl` or `styleUrls` you must use **`angular2-template-loader`** in your TS loaders.
@@ -79,7 +79,7 @@ If  you use inline css or html already this step is not necessary, but if you pr
 [https://github.com/TheLarkInn/angular2-template-loader](https://github.com/TheLarkInn/angular2-template-loader)
 
 
-### How to test that the server rendering is correct ?
+## How to test that the server rendering is correct ?
 
 * See the source of the page : The source of the page is supposed to be the unmodified content retrieved from the server, wheras chrome debug explorer show the code produced from that by angular
 * Disable javascript to have only the  server rendering :
