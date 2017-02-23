@@ -37,11 +37,11 @@ For convenience let's use the following acronyms.
 
 ### Files in the src folder
 
-* [src folder code on github](https://github.com/angular/universal-starter/tree/master/src)
+[src folder code on github](https://github.com/angular/universal-starter/tree/master/src)
 
 In this folder are the files to be reused in your application.
 
-#### Files to handle SSR (Server Side Rendering)
+### Files to handle SSR (Server Side Rendering)
 
 * **node.module.ts** :
 * **server.aot.ts** :
@@ -49,13 +49,15 @@ In this folder are the files to be reused in your application.
 * **server.ts** :
 
 
-#### Files to handle CSR (Client Side Rendering)
+### Files to handle CSR (Client Side Rendering)
 
-* To be configured or customized
+**To be configured or customized**
 
 * **browser.module.ts** Main angular @ngmodule for client side will replace your current MainModule or rootModule.
 
-* To keep as if of minimally customized
+***
+
+**To keep as if of minimally customized**
 
 * **__workaround.browser.ts** : Patch of angular core (useful till angular v4) for CSR (Client Side Rendering) called  by client.ts
 
@@ -83,8 +85,7 @@ platformRef.bootstrapModule(MainModule);
 
 In this file is an example of a definition of a main @ngmodule that you should use or replicate if you want to be universal angular compatible.
 
-
-#### Files used by both
+### Files used by both
 
 * **index.html**
 
