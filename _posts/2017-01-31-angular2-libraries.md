@@ -42,6 +42,11 @@ The doc the [different available pipes](https://fknop.gitbooks.io/angular-pipes)
 * **ng2-page-scroll** Scroll in the page
 [https://github.com/Nolanus/ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll)
 
+## Layout
+
+* Flex  layout : Angular team  implementation of flexbox
+
+[https://github.com/angular/flex-layout](https://github.com/angular/flex-layout)
 
 ## Drag & Drop
 

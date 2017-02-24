@@ -4,6 +4,12 @@ title: AOT : Ahead of Time Compilation / Why you should use it
 published: true
 ---
 
+AOT is a way to speed up angular loading by precompiling it in advance.
+
+Nice slides by [@manekinekko](https://twitter.com/manekinekko) that explain the concept.
+
+<iframe src="//slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ### Ressources
 
 * [The official tutorial](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)

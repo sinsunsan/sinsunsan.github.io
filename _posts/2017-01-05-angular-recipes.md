@@ -40,9 +40,9 @@ So with a ternary syntax :
 
 We do the trick.
 
-```
+````
 ui-gallery-image([image]="(imagesFB | async) ? (imagesFB | async)[0] : null")
-```
+````
 
 ### Instanciation of class or static method
 
@@ -54,6 +54,7 @@ To defined a property or method
 * **static** allow to use a class without instantiating it
 Instantiate a class, is creating a local copy of it. For example if we are in a component, that mean that we are using an instance of a class.
 An instance is creating by passing it to the component constructor like this.
+
 ````js
 import { UploadService }         from '../../../services/api/upload.service'
 
@@ -68,6 +69,7 @@ export class UiUploadUploadcareComponent {
     this.uploadService.upload()
   }
 ````
+
 But by using static we do not need, and we cannot actually create a local instance
 
 ````js

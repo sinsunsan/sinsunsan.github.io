@@ -14,6 +14,13 @@ So the end user will not see anything except it will be faster, Whereas google w
 Look at this article to [have a more global view on angular universal](http://dev.sebastienlucas.com/universal-angular/).
 
 
+### Look at other starter of examples
+
+I've stumbed upon other starter that we find in the universal angular repository itself. They seem much simpleer that universal starter so per aps it is a good idea to test them
+
+* [Hello World starter](https://github.com/angular/universal/tree/master/examples/hello-world)
+* [Other examples](https://github.com/angular/universal/tree/master/examples)
+
 ## Clone the angular universal starter
 
 * Universal angular starter    
@@ -221,15 +228,45 @@ This error message should show "Error in SSR, serving for direct CSR" It means t
 
 * **Error: This method is not implemented in Parse5DomAdapter: getCookie**
 
-This error seem to be caused by http service. Angular material is overriding http service, and depending of the position of the declaration of angular universal module in the @ngmodule it can be not the last version.
+This error seem to be caused by http service. Angular universal is overriding http service, and depending of the position of the declaration of angular universal module in the @ngmodule it can be not the last version.
+
+So look at the error stack, if you find something that is related to http call, try to comment the module, that do that first to check.
+
 At least it is what is explained in this [issue](https://github.com/angular/universal/issues/536#issuecomment-247762794)
+
+[Why http module is being overridden in universal module by MarkPieszak](https://github.com/angular/universal/issues/536#issuecomment-268810295)
+> Well it depends on which Modules you're using, usually it can be first, but depending on if other Modules are overriding Http as well, sometimes you need to re-position it. I can't remember why Material is using Http, but in Universal we override it because we need to keep track of all requests, so we can determine when the App is stable, to then serialize it.
+
+* **ReferenceError: document is not defined**
+
+You probably have imported **UniversalModule** several times in your code.
+
 
 * **Only "Error in SSR, serving for direct CSR" with no more detail**
 
 Go to your browser load the page, I should see an error in the console. I assume that it is the same error that occured in the backend.
 
+### isBrowser or isNode
+
+This two utility functions allow each part to know if they are browser side or server side.
+
+```js
+import { isBrowser, isNode } from 'angular2-universal';
+
+export class myComponent {
+
+  if (isBrowser()) {
+    // Only client side stuff
+    // document.
+    // window.
+  } else {
+    // simpler display but no error
+  }
+}
+```
 
 ### Package json scripts and explanation
+
 ```js
 "scripts": {
     "watch": "webpack --watch",

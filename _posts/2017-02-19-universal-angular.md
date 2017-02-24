@@ -34,9 +34,26 @@ The code will be integrated in platform-server.
 * When the front end is loaded (in an hidden div), the events are replayed from the info stored by the backend
 * Then it handle the rest of the request...
 
-More details of  loading process step by step :
 
-[https://github.com/angular/universal/blob/master/DOCUMENTATION.md#-how-does-it-work](https://github.com/angular/universal/blob/master/DOCUMENTATION.md#-how-does-it-work)
+### The angular universal repository
+
+![The angular universal repository]({{site.baseurl}}/images/universal-directory.png)
+
+In the modules directory of universal angular, we see different way to use the prerendering :
+
+_Static prerendering using Gulp, grunt or webpack_
+* **webpack-prerender** :
+* **grunt-prerender** :
+* **gulp-prerender**
+
+_Render engines for node js server_
+* **hapi-engine**
+* **express-engine**
+
+_Main modules_
+* **universal** Main module
+* **universal-polyfill** Polyfills
+* **platform-node** in reference to platform-browser, [platform-server](https://github.com/angular/angular/tree/master/modules/%40angular/platform-server) of angular core
 
 ## Ressources
 
@@ -51,7 +68,7 @@ More details of  loading process step by step :
 
 [https://universal.angular.io/quickstart/](https://universal.angular.io/quickstart/)
 
-* **Tutorial form angular academy**  
+* **Tutorial from angular academy**  
 
 Explain a static prerendering technic (using gulp prerender) and at the end problem of authenticated prerendering and how to get the connected user info.
 
