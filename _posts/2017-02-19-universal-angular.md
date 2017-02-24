@@ -8,6 +8,19 @@ We have written a more [step by step tuto to start with angular universal starte
 
 But let's start with an introduction of what it is.
 
+Here is the best description of what angular universal is :
+
+<iframe src="//slides.com/wassimchegham/angular2-universal/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+### The future of universal angular
+
+Universal angular will be merged in angular v4 for the api part,the tools remaining  in angular universal library
+
+The code will be integrated in platform-server.
+
+ Follow this [issue](https://github.com/angular/angular/issues/13822) to have updates.
+
 ## Why
 
 * SEO Friendly
@@ -44,10 +57,16 @@ Explain a static prerendering technic (using gulp prerender) and at the end prob
 
 [http://blog.angular-university.io/angular-2-universal-meet-the-internet-of-the-future-seo-friendly-single-page-web-apps/](http://blog.angular-university.io/angular-2-universal-meet-the-internet-of-the-future-seo-friendly-single-page-web-apps/)
 
-* **Another tuto on universal on medium : good  illustration**
+* **Another tutorial on universal on medium : good  illustration**
 
 [https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.h5ngcepfb](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.h5ngcepfb)
 
+
+* **Analysing the angular 2 universal starter kit**    
+
+A tutorial with many code snippet not as documented as we wished but interesting to read.
+
+http://www.javascripttuts.com/analysing-the-angular-2-universal-starter-kit/
 
 * **A Fork of angular CLI that is compatible with universal**
 

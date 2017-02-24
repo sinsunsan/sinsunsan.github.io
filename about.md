@@ -5,9 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Hello, 
+Hello,
 
-I am Sébastien Lucas, a french self taught web developer. 
+I am Sébastien Lucas, a french self taught web developer.
 I am currently building web sites and applications using Angular as a front end and Node as the backend.
 
 If you are interested to work with me, here is my updated [Web developer Resume](http://bit.ly/slucas-web).
@@ -16,7 +16,7 @@ If you are interested to work with me, here is my updated [Web developer Resume]
 
 ### 2017-... : NOW Period (Angular 2 & more)
 
-Current Explorations : 
+Current Explorations :
 
 * Angular 2 : A lot of changes to learn Typescript, ES6...
 * Node, micro services...
@@ -66,7 +66,14 @@ My main project : [Sébastien Lucas - Photography](http://www.sebastienlucas.com
 ### 1986 - 1995 : Code prehistory period
 
 * In 1986 I developed my first game using a Amstrad CPC 6128. The scenario of the game was a plane launching missiles on boats. The missiles were ASCII symbols!
-* In 1977 I was born the year Apple Inc. get incorporated, Voyager probe started its journey and Centre Pompidou museum erected in Paris
+* In 1977 I was born
+
+### 1977 What happened  ?
+
+* this year Apple Inc. get incorporated
+* Voyager probe started its journey
+* Centre Pompidou museum erected in Paris
+* [Make](https://en.wikipedia.org/wiki/Make_(software)) utility in unix system was born.
 
 ![First mac computer]({{site.baseurl}}/images/mac.jpg)
 
@@ -74,17 +81,17 @@ My main project : [Sébastien Lucas - Photography](http://www.sebastienlucas.com
 
 ### My main project : Collaborative architecture design
 
-My main project is to make architecture design a collaborative process. 
-Empower architects and architecture lovers to design with the community, sharing elements of projects with their team or under open source licences with the community. 
+My main project is to make architecture design a collaborative process.
+Empower architects and architecture lovers to design with the community, sharing elements of projects with their team or under open source licences with the community.
 
-I have been working on 3 projects to realize this goal : 
+I have been working on 3 projects to realize this goal :
 
 * From 2016 [Bricks, a web app to design together with BIM and Agile workflow](http://bricksapp.io)
 * From 2014 [Openbricks, a platform to share and explore open elements of architecture](http://www.openbricks.io)
 * From 2010 [Archiref, a platform to find visual inspiration for your architecture projects](http://www.archiref.com)
 
 
-### Other projects I have contributed to 
+### Other projects I have contributed to
 
 * 2016 [Arsultima, a web app to organize your art collection](http://www.arsultima.com/)
 * 2015 [Holaspirit, a web app to set up Holacracy inside your organization](https://www.holaspirit.com/)
@@ -93,5 +100,5 @@ I have been working on 3 projects to realize this goal :
 
 ### Contact me
 
-I will be always happy to discuss with you about your projects. 
+I will be always happy to discuss with you about your projects.
 [Drop me a mail](mailto:lucas.sebastien@gmail.com) or [follow me in Twitter](https://twitter.com/sebastien_lucas)

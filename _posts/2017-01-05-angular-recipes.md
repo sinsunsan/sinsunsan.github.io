@@ -111,6 +111,34 @@ export class UiUploadUploadcareComponent {
 ### Export of modules to be compatible with lazy loading, AOT and universal angular
 
 ````js
+
+const PIPES = [
+  // put pipes here
+];
+
+const COMPONENTS = [
+  // put shared components here
+];
+
+const PROVIDERS = [
+  ModelService,
+  ApiService
+]
+
+@NgModule({
+  imports: [
+    ...MODULES
+  ],
+  declarations: [
+    ...PIPES,
+    ...COMPONENTS
+  ],
+  exports: [
+    ...MODULES,
+    ...PIPES,
+    ...COMPONENTS
+  ]
+})
 export class SharedModule {
   static forRoot(): ModuleWithProviders {
     return {
