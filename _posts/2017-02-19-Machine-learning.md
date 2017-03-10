@@ -4,6 +4,10 @@ title: Machine learning
 published: true
 ---
 
+* Présentation au collège de France de Yann Le Cun, spécialiste français du marchine learning qui travaille pour le lab de Facebook sur l'intelligence artificielle [L'apprentissage profond : une révolution en intelligence artificielle](https://www.college-de-france.fr/site/yann-lecun/inaugural-lecture-2016-02-04-18h00.htm)
+
+Ainsi que ses [cours](https://www.college-de-france.fr/site/yann-lecun/course-2016-02-26-11h00.htm);
+
 * Neural Networks and Deep Learning by Michael Nielsen
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
@@ -39,3 +43,8 @@ Library to transform a sketch in its photo realistic equivalent based on the tra
 The port in tensor flow   
 [https://github.com/affinelayer/pix2pix-tensorflow]
 (https://github.com/affinelayer/pix2pix-tensorflow)
+
+
+### Datasets
+
+* [SVHN: Street View House Numbers](http://ufldl.stanford.edu/housenumbers)visual database of street signs 600 000 images...

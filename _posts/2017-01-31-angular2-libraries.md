@@ -22,6 +22,12 @@ The doc the [different available pipes](https://fknop.gitbooks.io/angular-pipes)
 
 [https://github.com/dzonatan/angular-linky](https://github.com/dzonatan/angular-linky)
 
+* **Angular 2 Mardown** Convert markdown to html
+
+Angular 2 markdown make also the auto-linking, you can  see all markdown styles in their [demo](https://dimpu.github.io/angular2-markdown/home).
+
+[https://github.com/dimpu/angular2-markdown](https://github.com/dimpu/angular2-markdown)
+
 ## Data
 
 * **JS-DATA** Data store for js  (front and back)

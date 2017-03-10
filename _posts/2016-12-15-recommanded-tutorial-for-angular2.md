@@ -69,12 +69,27 @@ A way to organize component to differentiate presentational component highly reu
 * Difference between constructor and ngOnInit     
  [http://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit](http://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit)
 
-## Dynamic component / Component inheritance...
+## Dynamic component / Component inheritance / Communication between components...
 
 * dynamically creating component in angular 2 [http://blog.rangle.io/dynamically-creating-components-with-angular-2/](http://blog.rangle.io/dynamically-creating-components-with-angular-2/)
 
 * Component inheritance introduced in 2.3     
 [https://scotch.io/tutorials/component-inheritance-in-angular-2](https://scotch.io/tutorials/component-inheritance-in-angular-2)
+
+* Different ways for communication between components :
+
+    * With input with a setter
+    * With input via ngChanges detection
+    * With @viewchild that allow to manipulate child methods
+    * With a service and observable subject
+
+[https://angular.io/docs/ts/latest/cookbook/component-communication.html](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
+
+### DOM
+
+* How to use the angular 2 renderer service to manipulate the DOM in a way all platforms (server, browser, mobile.. can accept)
+
+[https://netbasal.com/angular-2-explore-the-renderer-service-e43ef673b26c#.mah8emsrl](https://netbasal.com/angular-2-explore-the-renderer-service-e43ef673b26c#.mah8emsrl)
 
 ## Directives
 

@@ -20,6 +20,67 @@ The Elvis operator is only available for the . not for other dereference operato
 data?.record ? data.record['name/first'] : null
 ```
 
+
+### Select an element of the DOM
+
+
+Well explained [here](http://stackoverflow.com/a/38944920/1453811)
+
+**Use ViewChild with #localvariable as shown here,**
+
+
+```html
+<textarea  #someVar  id="tasknote"
+                  name="tasknote"
+                  [(ngModel)]="taskNote"
+                  placeholder="{{ notePlaceholder }}"
+                  style="background-color: pink"
+                  (blur)="updateNote() ; noteEditMode = false " (click)="noteEditMode = false"> {{ todo.note }}
+
+</textarea>
+```
+In component,
+```js
+//OLD Way
+import {ElementRef} from '@angular/core';
+
+@ViewChild('someVar') el:ElementRef;
+
+ngAfterViewInit()
+{
+   this.el.nativeElement.focus();
+
+}
+```
+
+New API with renderer....
+
+```js
+//NEW Way
+import {ElementRef} from '@angular/core';
+
+    @ViewChild('someVar') el:ElementRef;
+
+
+constructor(private rd: Renderer) {}
+
+  ngAfterViewInit() {
+    this.rd.invokeElementMethod(this.el.nativeElement,'focus');
+  }
+```
+
+### Prevent error when module are failing to be imported
+
+Module handling in JS is a headache. Sometimes it just don't works.
+But you still need to use a js lib the old way (with a script in the index.html).
+
+You can fool typescript to allow you to use the missing library (that will exist at run time).
+
+
+```js
+declare var braintree:any;
+```
+
 ### Object property binding & async pipe with bracket syntax
 
 Yes but how to use a bracket syntax with async syntax.
