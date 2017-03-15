@@ -11,4 +11,8 @@ published: true
 [http://stackoverflow.com/questions/28714298/how-to-chain-and-share-prior-results-with-promises](http://stackoverflow.com/questions/28714298/how-to-chain-and-share-prior-results-with-promises)
 
 
-## Design patterns
+## Ajax
+
+* How to use the native Xhr (ajax) API
+
+[https://blog.garstasio.com/you-dont-need-jquery/ajax/](https://blog.garstasio.com/you-dont-need-jquery/ajax/)

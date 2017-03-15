@@ -91,11 +91,21 @@ A way to organize component to differentiate presentational component highly reu
 
 [https://netbasal.com/angular-2-explore-the-renderer-service-e43ef673b26c#.mah8emsrl](https://netbasal.com/angular-2-explore-the-renderer-service-e43ef673b26c#.mah8emsrl)
 
+* How to use window like with the good old $window angular 1
+
+In this tuto, you learn how to do a wrapper of window to inject in with DI only if usable (in the browser)
+
+[https://juristr.com/blog/2016/09/ng2-get-window-ref/](https://juristr.com/blog/2016/09/ng2-get-window-ref/)
+
 ## Directives
 
 * Structural (ngIf...or custom) or attributes (ngClass... or custom) directives      
 [https://angular-2-training-book.rangle.io/handout/advanced-angular/directives/](https://angular-2-training-book.rangle.io/handout/advanced-angular/directives/)
 
+
+* **ng-show / ng-hide in angular 2** : the angular 2 solution is to bind to hidden prop but there is some issue so read  this article to decide which practice to use
+
+[http://www.talkingdotnet.com/dont-use-hidden-attribute-angularjs-2](http://www.talkingdotnet.com/dont-use-hidden-attribute-angularjs-2/)
 ## Observables / RxJS
 
 Angular 2 adopted this new concept of observable which basically is a more advanced form of promise.

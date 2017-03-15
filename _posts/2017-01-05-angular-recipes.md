@@ -213,3 +213,9 @@ export class SharedModule {
   }
 }
 ````
+
+### Navigate to a defined page in the component or service
+
+``
+this.router.navigate([], { queryParams: {step : this.order.step}, relativeTo: this.route });
+```

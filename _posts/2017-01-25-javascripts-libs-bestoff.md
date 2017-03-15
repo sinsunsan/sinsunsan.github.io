@@ -15,6 +15,11 @@ and its angular integration
 * **Smart alert** : nice alert, confirm libraries
 [https://limonte.github.io/sweetalert2/](https://limonte.github.io/sweetalert2/)
 
+### Ajax
+
+* **Fetch** : a polyfill on fetch new API to do ajax query
+
+[https://github.com/github/fetch](https://github.com/github/fetch)
 ### Best practice
 
 * **Javascript standard**    [https://github.com/feross/standard#why-should-i-use-javascript-standard-style](https://github.com/feross/standard#why-should-i-use-javascript-standard-style)

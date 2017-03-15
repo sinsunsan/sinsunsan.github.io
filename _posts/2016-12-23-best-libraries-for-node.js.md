@@ -47,6 +47,7 @@ can pipe the result to other requests or to a file stream...
 
 It's port with promise powered by blue bird
 [https://github.com/request/request-promise](https://github.com/request/request-promise)
+
 ### Async & Promises
 
 * **Async** : Aynschronous call (a sort of lodash for asynchronous operation)     [http://caolan.github.io/async/docs.html#](http://caolan.github.io/async/docs.html#)
@@ -85,3 +86,19 @@ Example implementation in that [tuto](https://goenning.net/2016/02/10/simple-ser
 ### Image manipulation
 
 * **Jimp** : Image processing in javascript without any external dependencies     [https://github.com/oliver-moran/jimp](https://github.com/oliver-moran/jimp)
+
+
+### Export
+
+* **Node excel Export** : Export to excel    
+[https://github.com/functionscope/Node-Excel-Export](https://github.com/functionscope/Node-Excel-Export)
+
+* **node Excel Export** : Lees popular but the config seems more complete... and the doc is better
+
+[https://github.com/andreyan-andreev/node-excel-export](https://github.com/andreyan-andreev/node-excel-export)
+
+* **json2xls** Transform a json to a xls with no settings at all (using "excel-export": "~0.3.11" in the background)
+[https://github.com/rikkertkoppes/json2xls/commits/master](https://github.com/rikkertkoppes/json2xls)
+
+* **js-xls** a js framework to parse xls, and more generally spreadsheet formats...
+[https://github.com/SheetJS/js-xlsx](https://github.com/SheetJS/js-xlsx)
