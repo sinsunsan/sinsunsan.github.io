@@ -217,5 +217,16 @@ export class SharedModule {
 ### Navigate to a defined page in the component or service
 
 ````js
+
+import { Router }                    from '@angular/router';
+
+// Component definition
+
+constructor(
+    private router: Router,
+  ) {}
+
+// Inside a component method
+
 this.router.navigate([], { queryParams: {step : this.order.step}, relativeTo: this.route });
 ````

@@ -45,6 +45,10 @@ The port in tensor flow
 (https://github.com/affinelayer/pix2pix-tensorflow)
 
 
+### Machine learning tutorials
+
+* [https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a#.aq62gjg9a](https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a#.aq62gjg9a)
+
 ### Datasets
 
 * [SVHN: Street View House Numbers](http://ufldl.stanford.edu/housenumbers)visual database of street signs 600 000 images...

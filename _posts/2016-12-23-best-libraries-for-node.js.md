@@ -80,15 +80,34 @@ Example implementation in that [tuto](https://goenning.net/2016/02/10/simple-ser
 
 ### Uploading
 
-* **Multer** Node.js middleware for handling `multipart/form-data`. > handle image upload more easily    
+* **Multer** Node.js middleware for handling `multipart/form-data`. > handle image upload more easily. Multer is based on busboy.
+
 [https://github.com/expressjs/multer](https://github.com/expressjs/multer)
+
+* **busboy** File multi part upload parser
+
+[https://github.com/mscdex/busboy](https://github.com/mscdex/busboy)
+
+* **gridfs-stream** Mongodb file streamer to save with gridFS
+
+[https://github.com/aheckmann/gridfs-stream](https://github.com/aheckmann/gridfs-stream)
+
+* **node-formidable** Parser for form and upload    
+[https://github.com/felixge/node-formidable](https://github.com/felixge/node-formidable)
 
 ### Image manipulation
 
 * **Jimp** : Image processing in javascript without any external dependencies     [https://github.com/oliver-moran/jimp](https://github.com/oliver-moran/jimp)
 
+* **Graphic magic** : Image resizing...
 
-### Export
+[http://aheckmann.github.io/gm/](http://aheckmann.github.io/gm/)
+
+### Export, parser
+
+* **XLS Parser**  XlS Parser
+
+[https://github.com/mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx)
 
 * **Node excel Export** : Export to excel    
 [https://github.com/functionscope/Node-Excel-Export](https://github.com/functionscope/Node-Excel-Export)

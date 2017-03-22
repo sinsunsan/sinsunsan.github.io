@@ -8,6 +8,10 @@ The module system for example has played an important role in the ES6 modules ad
 
 ## Modules
 
+* **OS module** : operation system related function
+
+[https://nodejs.org/api/os.html#os_os_tmpdir](https://nodejs.org/api/os.html#os_os_tmpdir)
+
 ## Express
 
 ## Http call
@@ -70,3 +74,13 @@ Debugger attached.
 You will probably use many open source library in your project.
 Why not opening a dedicated tab or window in your text editor to browse the code.
 It could be very instructive to how to organize code in node.js.
+
+
+### Stream
+
+Read and write files with fs
+```js
+var src = fs.createReadStream(req.files.path);
+var target_path = '.tmp/' + req.file.originalname + '.xls';
+var dest = fs.createWriteStream(target_path);
+```

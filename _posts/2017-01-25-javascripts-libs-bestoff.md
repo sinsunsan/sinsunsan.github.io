@@ -23,3 +23,10 @@ and its angular integration
 ### Best practice
 
 * **Javascript standard**    [https://github.com/feross/standard#why-should-i-use-javascript-standard-style](https://github.com/feross/standard#why-should-i-use-javascript-standard-style)
+
+
+### Polyfill
+
+* **Filesaver** SaveAS API Polyfill
+
+[https://github.com/eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js)

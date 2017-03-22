@@ -3,6 +3,25 @@ layout: post
 title: angular 2 selected libraries
 published: false
 ---
+
+
+### Complete UI library
+
+* **angular material 2**
+
+[https://github.com/angular/material2](https://github.com/angular/material2)
+
+* **semantic ui**
+
+[https://semantic-ui.com/](https://semantic-ui.com/)
+Plus it's angular 2 library
+[ng-semantic.herokuapp.com](ng-semantic.herokuapp.com)
+
+* **primeng** a collection of widget and library
+
+[https://www.primefaces.org/primeng/#/fileupload](https://www.primefaces.org/primeng/#/fileupload)
+
+
 ## Events
 
 * **ng-radio** a message bus for angular to replace missing $cope.$emit and allow sibling components to talk and more generally global casting of  a message. Use RxJs [https://github.com/govorov/ng-radio](https://github.com/govorov/ng-radio)
@@ -27,6 +46,10 @@ The doc the [different available pipes](https://fknop.gitbooks.io/angular-pipes)
 Angular 2 markdown make also the auto-linking, you can  see all markdown styles in their [demo](https://dimpu.github.io/angular2-markdown/home).
 
 [https://github.com/dimpu/angular2-markdown](https://github.com/dimpu/angular2-markdown)
+
+* **Moment date pipes**
+
+[https://github.com/urish/angular2-moment](https://github.com/urish/angular2-moment)
 
 ## Data
 
@@ -64,3 +87,18 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ## Documentation
 
 * **Angular doc** : Online documentation from github repo    [http://angulardoc.io/main](http://angulardoc.io/main)
+
+
+## Observable
+
+* **Using RXJS n angular**
+
+[https://auth0.com/blog/making-use-of-rxjs-angular/](https://auth0.com/blog/making-use-of-rxjs-angular/)
+
+* **Hot and cold observable**
+
+[https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339#.pf8m2ewlp](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339#.pf8m2ewlp)
+
+* **Observable and subjects**
+
+[http://stackoverflow.com/questions/39494058/angular-2-behavior-subject-vs-observable](http://stackoverflow.com/questions/39494058/angular-2-behavior-subject-vs-observable)
