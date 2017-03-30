@@ -230,3 +230,21 @@ constructor(
 
 this.router.navigate([], { queryParams: {step : this.order.step}, relativeTo: this.route });
 ````
+
+### Do somethings after 2 or more promises resolve
+
+Usage of Rxjs Observable.combineLatest to do something and combine the results of
+the 2 or more promises resolved.
+
+
+````js
+import { Observable } from 'rxjs'
+
+Observable.combineLatest(
+      this.translationService.getTranslation("reset_title"),
+      this.translationService.getTranslation("reset_desc")
+    )
+    .subscribe(results => {
+      // DO something
+    })
+````

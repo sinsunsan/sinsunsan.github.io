@@ -16,3 +16,10 @@ published: true
 * How to use the native Xhr (ajax) API
 
 [https://blog.garstasio.com/you-dont-need-jquery/ajax/](https://blog.garstasio.com/you-dont-need-jquery/ajax/)
+
+## Design pattern
+
+* List and examples of design patterns in javascript  
+
+
+[https://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript)

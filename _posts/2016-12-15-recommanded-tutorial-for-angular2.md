@@ -14,6 +14,12 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * 132+ Video tutorial on specific pratical cases
 [https://egghead.io/technologies/angular2](https://egghead.io/technologies/angular2)
 
+
+### Data binding
+
+* Custom text area, input... data binding
+
+[http://lishman.io/angular-2-input-binding](http://lishman.io/angular-2-input-binding)
 ## Ressources and tutorials list
 
 * Awesome Angular       [https://github.com/AngularClass/awesome-angular](https://github.com/AngularClass/awesome-angular2#ahead-of-time-compilation)
@@ -193,3 +199,9 @@ import { OptionService }      from '../../../services/api/option.service';
 ## AOT Ahead of Time Compilation
 
 * Demystifying AOT : Nice slides that present AOT as an easy thing ... [http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30)
+
+
+### New release
+
+* What is new in angular 4
+ [http://blog.ninja-squad.com/2017/03/24/what-is-new-angular-4](http://blog.ninja-squad.com/2017/03/24/what-is-new-angular-4/)

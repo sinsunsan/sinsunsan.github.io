@@ -121,3 +121,15 @@ Example implementation in that [tuto](https://goenning.net/2016/02/10/simple-ser
 
 * **js-xls** a js framework to parse xls, and more generally spreadsheet formats...
 [https://github.com/SheetJS/js-xlsx](https://github.com/SheetJS/js-xlsx)
+
+
+### Error handling
+
+* **pretty-error** Display errors && error stack in a more elegant way     
+[https://github.com/AriaMinaei/pretty-error](https://github.com/AriaMinaei/pretty-error)
+
+### Templates
+
+* **consolidate** Consolidate template engines...to have a  single API for all !
+
+[https://github.com/tj/consolidate.js/](https://github.com/tj/consolidate.js/)
