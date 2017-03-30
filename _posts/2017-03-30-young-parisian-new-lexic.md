@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le léxique des jeunes parisiens
+title: Le lexique des jeunes parisiens
 published: true
 ---
 
