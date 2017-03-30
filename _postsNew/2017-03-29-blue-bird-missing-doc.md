@@ -6,7 +6,7 @@ published: true
 
 
 Blue bird is a great library of promise for front end (angular) and backend (node).
-<!-- But its documentation is definitely not good.
+But its documentation is definitely not good.
 Let's list and explain shorty the difference between each useful functions this library provide.
 
 
@@ -173,4 +173,4 @@ timeout(500, () => {
     console.log('still not done')
   }
 })
-```` -->
+````
