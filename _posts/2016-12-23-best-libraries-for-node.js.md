@@ -133,3 +133,14 @@ Example implementation in that [tuto](https://goenning.net/2016/02/10/simple-ser
 * **consolidate** Consolidate template engines...to have a  single API for all !
 
 [https://github.com/tj/consolidate.js/](https://github.com/tj/consolidate.js/)
+
+
+### Mongoose plugins
+
+* **mongoose simple random** add findOneRandom && findRandom to get random document
+
+ [https://github.com/larryprice/mongoose-simple-random](https://github.com/larryprice/mongoose-simple-random)
+
+* **mongoose-autopopulate**
+
+* **mongoose-deep-populate**

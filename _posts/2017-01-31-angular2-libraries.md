@@ -4,6 +4,7 @@ title: angular 2 selected libraries
 published: false
 ---
 
+Angular 2 libraries are less numerous than angular 1 equivalents, but they are growing fast. The good point is that you do not loose to much time finding the right one, as it used to be the case with angular 1. And as angular 2 is much clearer, they are generally easier to understand with less code, no dependency to jQuery...
 
 ### Complete UI library
 
@@ -20,6 +21,10 @@ Plus it's angular 2 library
 * **primeng** a collection of widget and library
 
 [https://www.primefaces.org/primeng/#/fileupload](https://www.primefaces.org/primeng/#/fileupload)
+
+* **ng bootstrap** a famous UI library in angular 1
+
+[https://valor-software.com/ng2-bootstrap](https://valor-software.com/ng2-bootstrap)
 
 
 ## Events

@@ -10,6 +10,10 @@ published: true
 
 [http://stackoverflow.com/questions/28714298/how-to-chain-and-share-prior-results-with-promises](http://stackoverflow.com/questions/28714298/how-to-chain-and-share-prior-results-with-promises)
 
+## ES6
+
+* Spread operator examples
+[https://rainsoft.io/how-three-dots-changed-javascript/](https://rainsoft.io/how-three-dots-changed-javascript/)
 
 ## Ajax
 

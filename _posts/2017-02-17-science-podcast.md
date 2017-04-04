@@ -35,3 +35,16 @@ Ses défauts :
 * Ses temps de lecture adapté au stockage d'archivage et non de travail
 
 [https://www.franceculture.fr/emissions/la-methode-scientifique/adn-un-brin-de-memoire](https://www.franceculture.fr/emissions/la-methode-scientifique/adn-un-brin-de-memoire)
+
+
+
+* **Pourquoi le stress perturbe la prise de décision**
+
+[https://www.franceculture.fr/conferences/ecole-normale-superieure/pourquoi-le-stress-perturbe-la-prise-de-decision](https://www.franceculture.fr/conferences/ecole-normale-superieure/pourquoi-le-stress-perturbe-la-prise-de-decision)
+
+
+* Mons bon en meta cognition (on sais pas si nos décisions ont été bonnes)
+* En situation de stress > moins bon apprentissage.
+* Moins bonne mémoire de travail
+* Plus de prise de risque
+* Moins bonne apréhension des itentions des autres (théorie de l'esprit)
