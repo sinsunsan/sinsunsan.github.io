@@ -6,7 +6,51 @@ published: false
 
 Angular 2 libraries are less numerous than angular 1 equivalents, but they are growing fast. The good point is that you do not loose to much time finding the right one, as it used to be the case with angular 1. And as angular 2 is much clearer, they are generally easier to understand with less code, no dependency to jQuery...
 
-### Complete UI library
+
+### List of angular 2 resources
+
+* **Awesome Angular**       [https://github.com/AngularClass/awesome-angular](https://github.com/AngularClass/awesome-angular2#ahead-of-time-compilation)
+
+
+* **Awesome angular components** List of angular 2 components
+
+[https://github.com/brillout/awesome-angular-components](https://github.com/brillout/awesome-angular-components)
+
+### Font & icon
+
+* **angular2-fontawesome** Font awesome wrapper,  make the icon a component or a directive and make font awesome options customisable
+
+[https://github.com/travelist/angular2-fontawesome](https://github.com/travelist/angular2-fontawesome)
+
+
+### Layout
+
+* **flex layout** api on top of flexbox to automatize flex code and take account of breakpoint ...
+Use directives to styles the page. Is independent of Angular material.
+
+In their [flexbox api](https://github.com/angular/flex-layout/wiki/API-Documentation#containers)
+
+There are
+* container directives
+* Child elements in a container directives
+* Special directives (responsive utility...)
+
+Code look like that
+````pug
+div(fxFlex fxLayout='row')
+    div(fxFlex="20%")
+      p Code
+    div(fxFlex="30%")
+      p Start Date
+    div(fxFlex="30%")
+      p End Date
+    div(fxFlex="20%")
+      p Status
+````
+
+And is then interpreted at run time to adapt to screen size.
+
+###  Angular 2 UI components library
 
 * **angular material 2**
 
@@ -26,6 +70,13 @@ Plus it's angular 2 library
 
 [https://valor-software.com/ng2-bootstrap](https://valor-software.com/ng2-bootstrap)
 
+* **dev extreme** Specialized in data viz, tables, filtering...
+
+[https://github.com/DevExpress/devextreme-angular#demos](https://github.com/DevExpress/devextreme-angular#demos)
+
+* **Fuel UI** On top of bootstrap 4
+
+[http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
 
 ## Events
 
@@ -56,11 +107,23 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 [https://github.com/urish/angular2-moment](https://github.com/urish/angular2-moment)
 
+
+## Logging
+
+* **ngLogger** a logger service for angular : allow to disable loging to group log....
+
+[https://github.com/noemi-salaun/ng-logger](https://github.com/noemi-salaun/ng-logger)
+
 ## Data
 
 * **JS-DATA** Data store for js  (front and back)
 [Angular 2 example](https://github.com/js-data/js-data-examples/blob/master/client/angular2/src/store.ts)
 [Using observable](http://www.js-data.io/v3.0/docs/jsdata-observables)
+
+
+* **Angular + Redux** Integration of redux data store with angular 2
+
+[https://github.com/angular-redux/store](https://github.com/angular-redux/store)
 
 ## Dynamic component....
 

@@ -11,14 +11,24 @@ Thanks to a positive thinking typical of startup approach.
 
 Let's explore the positive and negative points on which our near future and even the survival of humanity is binded.
 
-### Positive, a new world may arise
+## Positive, a new world may arise
 
 * **Application des batteries pour l'intégration des énergies renouvelables, les services au système électrique et les centrales hybrides**
 
 [https://www.college-de-france.fr/site/jean-marie-tarascon/seminar-2017-03-13-17h30.htm](https://www.college-de-france.fr/site/jean-marie-tarascon/seminar-2017-03-13-17h30.htm)
 
+* **Manger des animaux est-ce naturel ?**
 
-### Negative, denonciation of the old world
+Pendant des siècles les hommes ont mangé beaucoups moins de viandes qu'actuellement dans les pays riches ou uniquement des végétaux. Les changements d'alimentation qui menacent les équilibres mondiaux (l'élevage de la viande demandant beaucoup plus d'eau et d'énergie), nous invite à repenser le végétarianisme.
+
+3 arguments pour être végétariens:
+* pour des raisons écologiques : limiter la pression sur l'environnement
+* pour la santé
+* pour ne pas faire souffrir les animaux.
+
+[https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel](https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel)
+
+## Negative, denonciation of the old world
 
 * **Just 90 companies are to blame for most climate change !**
 

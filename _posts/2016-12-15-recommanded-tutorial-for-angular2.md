@@ -20,9 +20,7 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 * Custom text area, input... data binding
 
 [http://lishman.io/angular-2-input-binding](http://lishman.io/angular-2-input-binding)
-## Ressources and tutorials list
 
-* Awesome Angular       [https://github.com/AngularClass/awesome-angular](https://github.com/AngularClass/awesome-angular2#ahead-of-time-compilation)
 
 ## Forms
 
