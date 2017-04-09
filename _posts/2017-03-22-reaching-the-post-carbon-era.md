@@ -28,11 +28,11 @@ Pendant des siècles les hommes ont mangé beaucoups moins de viandes qu'actuell
 
 [https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel](https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel)
 
-## Negative, denonciation of the old world
+## Negative, denunciation of the old world
 
 * **Just 90 companies are to blame for most climate change !**
 
 
-<img src="images/carbon-companies.png" title="Diagram of the contribution of major oil companies to most of carbon emission since last century">
+<img src="../images/carbon-companies.png" title="Diagram of the contribution of major oil companies to most of carbon emission since last century">
 
 [http://www.sciencemag.org/news/2016/08/just-90-companies-are-blame-most-climate-change-carbon-accountant-says](http://www.sciencemag.org/news/2016/08/just-90-companies-are-blame-most-climate-change-carbon-accountant-says)
