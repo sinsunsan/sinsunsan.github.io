@@ -142,7 +142,7 @@ Promise.all([
       console.log("return of promise1 " , result[0]);
       console.log("return of promise2 " , result[2]);
   });
-  ````
+````
 
   * [Global rejection error hook](http://bluebirdjs.com/docs/api/error-management-configuration.html#global-rejection-events)
 
@@ -158,9 +158,9 @@ Allow to do something globally when error occured
   process.on("rejectionHandled", function(promise) {
       // See Promise.onUnhandledRejectionHandled for parameter documentation
   });
-````js
+````
 
-* **[isFullfilled](http://bluebirdjs.com/docs/api/isfulfilled.html)
+* **[isFullfilled]**(http://bluebirdjs.com/docs/api/isfulfilled.html)
 
 test if the promise is fullfilled
 

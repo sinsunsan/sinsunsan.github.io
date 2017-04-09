@@ -8,26 +8,26 @@ published: true
 
 Melanchon veut risquer un frexit sous pretexte d'intransigeance. Vu sa difficulté pour s'entendre avec quelqun d'autre que lui même on peut douter du succès de sa négociation et craindre un éclatement de l'europe provoquée par la France.
 
+### Une sortie de l'OTAN inquiétante
 
-### Une relance kenesienne incertaine  
-
-Melanchon est populiste. Dans le sens ou ils soutient des politiques économiques irréalistes dans l'état actuel de l'endettement de la france. Parier sur une relance kenesienne présentée de maniere naïve est à la fois facile à dire et son efficacité est loin d'etre prouvée. Nous pensons que Les deux approches de rigueur et d'interventionisme public doivent pouvoir être utilisées sans parti pris et dans le cas de Melanchon ce n'est pas le cas.
-
-### Une barrière contre Le Pen trop faible
-
-Au deuxième tour si il y arrive Melanchon court le risque de perdre contre Marine Lepen, car il est beaucoup trop à gauche et va decourager ou rebutter les électeurs de droite pourtant essentiels à convaincre contre le front national pour défendre ainsi la france contre ce péril.
+Sortir de l'OTAN et militer pour la France forte est un grave risque pour la france. Reflétant le caractère megalo de Melanchon cette invective lyrique a quitter l'OTAN au moment même où l'organisation, qui nous defend notament contre la russie est menacée par la politique isolationiste de Trump et où les risques geo-politiques sont au maximum, est juste incensé. Si la proposition de Melanchon s'accompagnait d'une augmentation drastique du budget militaire pour compenser la sortie de l'alliance, cela aurait une logique. Mais ce n'est pas le cas. Melanchon defend le pacifisme naïf, qui fait fit des rapports de puissances et des risques geopolitiques.
 
 ### Recours au referendum perilleux
 
 Il milite en présentant cela de maniere naif (rendre le pouvoir au peuple) pour une utilisation accrue ou même presque systématique du referendum. Quand on voit ce que les referendums donnent, comme le brexit, en simplifiant à outrance les decisions politiques pour convaincre le plus grand nombre, on peut craindre cette généralisation promise.
 
-### Changer pour changer
+### Changer pour changer : un réthorique des extrèmes
 
 6eme république pourquoi faire ? Dans une rethorique de démolition classique de l'extrème gauche (ou droite) demander un changement de régime est une facilité, une perte de temps et une destabilisation qui n'a pas de sens. On est d'accord que le systeme a des défauts notamment de part sa lourdeur son manque de representativité... mais reclamer d'emblée une revolution sans même étudier des évolutions semble inutile, dangereux et renforce le caractère populiste de ce candidat.
 
-### Une sortie de l'OTAN
+### Une relance keynesienne incertaine  
 
-Sortir de l'OTAN et militer pour la France forte est un grave risque pour la france. Reflétant le caractère megalo de Melanchon cette invective lyrique a quitter l'OTAN au moment même où l'organisation, qui nous defend notament contre la russie est menacée par la politique isolationiste de Trump et où les risques geo-politiques sont au maximum, est juste incensé. Si la proposition de Melanchon s'accompagnait d'une augmentation drastique du budget militaire pour compenser la sortie de l'alliance, cela aurait une logique. Mais ce n'est pas le cas. Melanchon defend le pacifisme naïf, qui fait fit des rapports de puissances et des risques geopolitiques.
+Melanchon est populiste. Dans le sens ou ils soutient des politiques économiques irréalistes dans l'état actuel de l'endettement de la france. Parier sur une relance keynesienne présentée de maniere naïve est à la fois facile à dire et son efficacité est loin d'etre prouvée. Nous pensons que Les deux approches de rigueur et d'interventionisme public doivent pouvoir être utilisées sans parti pris et dans le cas de Melanchon ce n'est pas le cas.
+
+### Une barrière contre Le Pen trop faible
+
+Au deuxième tour si il y arrive Melanchon court le risque de perdre contre Marine Lepen, car il est beaucoup trop à gauche et va decourager ou rebutter les électeurs de droite pourtant essentiels à convaincre contre le front national pour défendre ainsi la france contre ce péril.
+
 
 ### Un volontarisme écologiste qui est son seul point positif
 
