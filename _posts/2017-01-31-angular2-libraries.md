@@ -50,6 +50,12 @@ div(fxFlex fxLayout='row')
 
 And is then interpreted at run time to adapt to screen size.
 
+### Parallax
+
+* **Ang2 parallax**
+
+[https://github.com/allenRoyston/ang2-parallax](https://github.com/allenRoyston/ang2-parallax)
+
 ###  Angular 2 UI components library
 
 * **angular material 2**

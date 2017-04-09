@@ -4,7 +4,6 @@ title: Le lexique des jeunes parisiens
 published: true
 ---
 
-
 * Elle est **stylée** cette vidéo
 
 . elle est top la vidéo
@@ -22,5 +21,6 @@ published: true
 
 * Ce sera **frais**
 
+. super
 . sexy
 . attrayant

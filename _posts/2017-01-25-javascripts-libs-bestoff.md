@@ -20,10 +20,17 @@ and its angular integration
 * **Fetch** : a polyfill on fetch new API to do ajax query
 
 [https://github.com/github/fetch](https://github.com/github/fetch)
+
 ### Best practice
 
 * **Javascript standard**    [https://github.com/feross/standard#why-should-i-use-javascript-standard-style](https://github.com/feross/standard#why-should-i-use-javascript-standard-style)
 
+
+### Html 5 video
+
+* **html5-demo** A collection of hack and example to how to use html 5 videos
+
+[https://github.com/remy/html5demos](https://github.com/remy/html5demos)
 
 ### Polyfill
 
