@@ -18,11 +18,11 @@ Il milite en présentant cela de maniere naïf (rendre le pouvoir au peuple) pou
 
 ### Changer pour changer : un réthorique des extrèmes
 
-6eme république pourquoi faire ? Dans une rethorique de démolition classique de l'extrème gauche (ou droite) demander un changement de régime est une facilité, une perte de temps et une destabilisation qui n'a pas de sens. On est d'accord que le systeme a des défauts notamment de part sa lourdeur son manque de representativité... mais réclamer d'emblée une révolution sans même étudier des évolutions semble inutile, dangereux et renforce le caractère populiste de ce candidat.
+6eme république pourquoi faire ? Dans une rethorique de démolition classique de l'extrème gauche (ou droite) demander un changement de régime est une facilité, une perte de temps et une destabilisation qui n'a pas de sens. On est d'accord que le système a des défauts notamment de part sa lourdeur son manque de representativité... mais réclamer d'emblée une révolution sans même étudier des évolutions semble inutile, dangereux et renforce le caractère populiste de ce candidat.
 
 ### Une relance keynesienne incertaine  
 
-Melanchon est populiste. Dans le sens ou ils soutient des politiques économiques irréalistes dans l'état actuel de l'endettement de la france. Parier sur une relance keynesienne présentée de maniere naïve est à la fois facile à dire et son efficacité est loin d'etre prouvée. Nous pensons que Les deux approches de rigueur et d'interventionisme public doivent pouvoir être utilisées sans parti pris et dans le cas de Melanchon ce n'est pas le cas.
+Melanchon est populiste. Dans le sens où il soutient des politiques économiques irréalistes dans l'état actuel de l'endettement de la france. Parier sur une relance keynesienne présentée de maniere naïve est à la fois facile à dire et son efficacité est loin d'etre prouvée. Nous pensons que les deux approches de rigueur et d'interventionisme public doivent pouvoir être utilisées sans parti pris et dans le cas de Melanchon ce n'est pas le cas.
 
 ### Une barrière contre Le Pen trop faible
 
