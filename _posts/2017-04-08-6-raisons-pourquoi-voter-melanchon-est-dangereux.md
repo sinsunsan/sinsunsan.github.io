@@ -26,7 +26,7 @@ Melanchon est populiste. Dans le sens ou ils soutient des politiques économique
 
 ### Une barrière contre Le Pen trop faible
 
-Au deuxième tour, si il y arrive Melanchon court le risque de perdre contre Marine Lepen, car il est beaucoup trop à gauche et va decourager ou rebutter les électeurs de droite pourtant essentiels à convaincre contre le front national pour défendre ainsi la france contre ce péril.
+Au deuxième tour, si il y arrive Melanchon court le risque de perdre contre Marine Lepen, car il est beaucoup trop à gauche et va decourager ou rebuter les électeurs de droite pourtant essentiels à convaincre contre le front national pour défendre ainsi la france contre ce péril.
 
 
 ### Un volontarisme écologiste qui est son seul point positif
