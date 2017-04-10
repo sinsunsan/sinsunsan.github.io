@@ -10,7 +10,7 @@ Melanchon veut risquer un frexit, une sortie de l'Europe de la France, sous pret
 
 ### Une sortie de l'OTAN inquiétante
 
-Sortir de l'OTAN et militer pour la France forte est un grave risque pour la France. Reflétant le caractère megalo de Melanchon cette invective lyrique a quitter l'OTAN au moment même où l'organisation, qui nous défend notament contre la russie est menacée par la politique isolationiste de Trump et où les risques geo-politiques sont au maximum, est juste incensé. Si la proposition de Melanchon s'accompagnait d'une augmentation drastique du budget militaire pour compenser la sortie de l'alliance, cela aurait une logique. Mais ce n'est pas le cas. Melanchon defend le pacifisme naïf, qui fait fit des rapports de puissances et des risques geopolitiques.
+Sortir de l'OTAN et militer pour la France forte est un grave risque pour la France. Reflétant le caractère megalo de Melanchon cette invective lyrique a quitter l'OTAN au moment même où l'organisation, qui nous défend notament contre la russie est menacée par la politique isolationiste de Trump et où les risques geo-politiques sont au maximum, est juste incensé. Si la proposition de Melanchon s'accompagnait d'une augmentation drastique du budget militaire pour compenser la sortie de l'alliance, cela aurait une logique. Mais ce n'est pas le cas. Melanchon defend le pacifisme naïf, qui fait fi des rapports de puissances et des risques geopolitiques.
 
 ### Recours au referendum perilleux
 
