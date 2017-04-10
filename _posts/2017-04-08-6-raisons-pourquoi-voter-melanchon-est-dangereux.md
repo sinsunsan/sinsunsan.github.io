@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 6 raisons pourquoi voter pour Melanchon est dangereux
+title: 6 raisons pourquoi voter pour Melenchon est dangereux
 published: true
 ---
 
 ### Frexit en ligne de mire et éclatement de l'europe
 
-Melanchon veut risquer un frexit, une sortie de l'Europe de la France, sous pretexte d'intransigeance. Vu sa difficulté pour s'entendre avec quelqu'un d'autre que lui même on peut douter du succès de sa négociation et craindre un éclatement de l'europe provoquée par la France.
+Melenchon veut risquer un frexit, une sortie de l'Europe de la France, sous pretexte d'intransigeance. Vu sa difficulté pour s'entendre avec quelqu'un d'autre que lui même on peut douter du succès de sa négociation et craindre un éclatement de l'europe provoquée par la France.
 
 ### Une sortie de l'OTAN inquiétante
 
-Sortir de l'OTAN et militer pour la France forte est un grave risque pour la France. Reflétant le caractère megalo de Melanchon cette invective lyrique a quitter l'OTAN au moment même où l'organisation, qui nous défend notament contre la russie est menacée par la politique isolationiste de Trump et où les risques geo-politiques sont au maximum, est juste incensé. Si la proposition de Melanchon s'accompagnait d'une augmentation drastique du budget militaire pour compenser la sortie de l'alliance, cela aurait une logique. Mais ce n'est pas le cas. Melanchon defend le pacifisme naïf, qui fait fi des rapports de puissances et des risques geopolitiques.
+Sortir de l'OTAN et militer pour la France forte est un grave risque pour la France. Reflétant le caractère megalo de Melenchon cette invective lyrique a quitter l'OTAN au moment même où l'organisation, qui nous défend notament contre la russie est menacée par la politique isolationiste de Trump et où les risques geo-politiques sont au maximum, est juste incensé. Si la proposition de Melenchon s'accompagnait d'une augmentation drastique du budget militaire pour compenser la sortie de l'alliance, cela aurait une logique. Mais ce n'est pas le cas. Melenchon defend le pacifisme naïf, qui fait fi des rapports de puissances et des risques geopolitiques.
 
 ### Recours au referendum perilleux
 
@@ -22,13 +22,13 @@ Il milite en présentant cela de maniere naïf (rendre le pouvoir au peuple) pou
 
 ### Une relance keynesienne incertaine  
 
-Melanchon est populiste. Dans le sens où il soutient des politiques économiques irréalistes dans l'état actuel de l'endettement de la france. Parier sur une relance keynesienne présentée de maniere naïve est à la fois facile à dire et son efficacité est loin d'etre prouvée. Nous pensons que les deux approches de rigueur et d'interventionisme public doivent pouvoir être utilisées sans parti pris et dans le cas de Melanchon ce n'est pas le cas.
+Melenchon est populiste. Dans le sens où il soutient des politiques économiques irréalistes dans l'état actuel de l'endettement de la france. Parier sur une relance keynesienne présentée de maniere naïve est à la fois facile à dire et son efficacité est loin d'etre prouvée. Nous pensons que les deux approches de rigueur et d'interventionisme public doivent pouvoir être utilisées sans parti pris et dans le cas de Melenchon ce n'est pas le cas.
 
 ### Une barrière contre Le Pen trop faible
 
-Au deuxième tour, si il y arrive Melanchon court le risque de perdre contre Marine Lepen, car il est beaucoup trop à gauche et va decourager ou rebuter les électeurs de droite pourtant essentiels à convaincre contre le front national pour défendre ainsi la france contre ce péril.
+Au deuxième tour, si il y arrive Melenchon court le risque de perdre contre Marine Lepen, car il est beaucoup trop à gauche et va decourager ou rebuter les électeurs de droite pourtant essentiels à convaincre contre le front national pour défendre ainsi la france contre ce péril.
 
 
 ### Un volontarisme écologiste qui est son seul point positif
 
-Le point positif et le seul à notre avis est son volontarisme sur les sujets écologiques à l'instar de Benoit Hamont, mais les risques que font peser les 6 premiers points ne compensent pas ces quelques bonnes idées, que tous les candidats d'ailleurs devraient avoir.
+Le point positif et le seul à notre avis est son volontarisme sur les sujets écologiques à l'instar de Benoit Hamon, mais les risques que font peser les 6 premiers points ne compensent pas ces quelques bonnes idées, que tous les candidats d'ailleurs devraient avoir.
