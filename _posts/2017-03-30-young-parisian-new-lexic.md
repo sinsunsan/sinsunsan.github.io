@@ -27,7 +27,6 @@ published: true
 
 ### Frais
 
-
 * C'est **frais** cette page.
 
 * super

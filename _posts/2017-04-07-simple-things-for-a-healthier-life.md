@@ -6,8 +6,8 @@ published: true
 
 ### Alimentation
 
-* 1 repas sur deux végétarien
-* Ne jamais (rarement) prendre de gateaux ou dessert de boulangerie
+* 1 repas sur deux végétariens
+* Ne jamais (rarement) prendre de gateaux ou desserts de boulangerie
 * 3 jours par semaine sans alcool
-* 15 d'exercice tous les matins
+* 15  minutes d'exercice tous les matins
 * sport 1x par semaine

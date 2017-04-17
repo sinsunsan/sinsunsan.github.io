@@ -28,6 +28,14 @@ Pendant des siècles les hommes ont mangé beaucoups moins de viandes qu'actuell
 
 [https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel](https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel)
 
+
+* **Harvesting water in the desert**
+
+With only solar energy, this invention allow to concentrate the water in the air even in a desert and produce drinking water! Giving the enormous problem of water in the world that will be amplified as the global warmth increase, this discovery could save many lives.
+
+
+[http://www.independent.co.uk/news/science/solar-water-harvester-thin-air-deserts-mof-metal-organic-framework-omar-yaghi-a7683451.html](http://www.independent.co.uk/news/science/solar-water-harvester-thin-air-deserts-mof-metal-organic-framework-omar-yaghi-a7683451.html)
+
 ## Negative, denunciation of the old world
 
 * **Just 90 companies are to blame for most climate change !**
