@@ -6,7 +6,7 @@ published: true
 
 Will human survive to current environmental crisis? Despite a continuous litany of bad news, old fashioned politicians. People that want to saw the branch they are sitting on.
 
-There is also a huge movement for a switch that can be as fast as the danger approach.
+There is also a huge movement for a switch that can be as fast as the danger get closer and closer.
 Thanks to a positive thinking typical of startup approach.
 
 Let's explore the positive and negative points on which our near future and even the survival of humanity is binded.
@@ -22,6 +22,7 @@ Let's explore the positive and negative points on which our near future and even
 Pendant des siècles les hommes ont mangé beaucoups moins de viandes qu'actuellement dans les pays riches ou uniquement des végétaux. Les changements d'alimentation qui menacent les équilibres mondiaux (l'élevage de la viande demandant beaucoup plus d'eau et d'énergie), nous invite à repenser le végétarianisme.
 
 3 arguments pour être végétariens:
+
 * pour des raisons écologiques : limiter la pression sur l'environnement
 * pour la santé
 * pour ne pas faire souffrir les animaux.
@@ -31,7 +32,9 @@ Pendant des siècles les hommes ont mangé beaucoups moins de viandes qu'actuell
 
 * **Harvesting water in the desert**
 
-With only solar energy, this invention allow to concentrate the water in the air even in a desert and produce drinking water! Giving the enormous problem of water in the world that will be amplified as the global warmth increase, this discovery could save many lives.
+<img src="../images/carbon-waterharvester.jpg" title="Harvesting water in the desert">
+
+With only solar energy, this invention allow to concentrate the water in the air even in a desert and produce drinking water! Giving the enormous problem of water in the world that will be amplified as the global warming increase, this discovery could save many lives.
 
 
 [http://www.independent.co.uk/news/science/solar-water-harvester-thin-air-deserts-mof-metal-organic-framework-omar-yaghi-a7683451.html](http://www.independent.co.uk/news/science/solar-water-harvester-thin-air-deserts-mof-metal-organic-framework-omar-yaghi-a7683451.html)
