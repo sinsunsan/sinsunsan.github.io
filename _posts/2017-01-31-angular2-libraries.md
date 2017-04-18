@@ -145,6 +145,10 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 * **ng2-page-scroll** Scroll in the page
 [https://github.com/Nolanus/ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll)
 
+* **Angular Perfect Scrollbar** Wrapper for perfect scroll bar, a lib to customise the scrollbars
+
+[https://github.com/zefoy/ngx-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar)
+
 ## Layout
 
 * Flex  layout : Angular team  implementation of flexbox

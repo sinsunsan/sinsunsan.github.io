@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New feature in CSS
+title: New features in CSS or features you have missed
 published: true
 ---
 
@@ -11,6 +11,65 @@ CSS is still evoluting.
 * Post processor
 * CSS 4
 
+Also the number of possibilities in css is high. And probably as me, you have missed some handy or cool stuff css3 or more have brought to css.
+
+* **object fit**
+
+Object fit allow to simulate cover property of background images
+It is good to make framing of an image or video inside an object...
+
+
+[The IA Fall back](https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3)
+
+* **blend modes**
+
+Blend mode are photoshop like fusion mode (multiply, transfer...) that allow to have an opacity without flattening everything
+
+[https://medium.com/@bennettfeely/css-blend-modes-could-be-the-next-big-thing-in-web-design-6b51bf53743a](https://medium.com/@bennettfeely/css-blend-modes-could-be-the-next-big-thing-in-web-design-6b51bf53743a)
+
+More in depth tuto
+[https://css-tricks.com/basics-css-blend-modes/](https://css-tricks.com/basics-css-blend-modes/)
+
+<a href="http://bennettfeely.com/gradients/">
+  <img src="../images/css-blend-mode.png" title="examples of mix blend mode">
+</a>
+
+
+Example for a video with a gradient with mix-blend-mode
+
+[Original tuto](http://thenewcode.com/1020/HTML5-Video-Effects-with-CSS-Blend-Modes)
+
+The html :
+```html
+<figure>
+	<video>
+		<source src="lina.webm">
+		<source src="lina.mp4">
+	</video>
+</figure>
+```
+
+The CSS :
+```css
+figure {
+	background: linear-gradient(90deg,#00f 50%,transparent 50.1%);
+}
+figure video {
+  /* Mind we use mix-blend-mode as video is a normal html element
+  not a background */
+  mix-blend-mode: overlay;
+}
+```
+
+* Example with letter overlap
+
+[http://codepen.io/chriscoyier/pen/mvbpJ](http://codepen.io/chriscoyier/pen/mvbpJ)
+
+* **Viemport units vh vw**
+
+Allow to size depending of the screen size, ideal for full width
+
+[http://www.tipue.com/blog/css3-vw-vh](http://www.tipue.com/blog/css3-vw-vh/)
 
 ### **Post css**
 
