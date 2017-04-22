@@ -15,7 +15,9 @@ Le premier tour des présidentielles c'est demain, il est temps de faire votre c
 
 Si comme moi vous aimez faire un tableau pour toute décision importante, je vous propose ce petit tableau de notes pondérées pour faire votre choix à l'aide de votre cerveau droit.
 
-<iframe src="https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%"></iframe>
+<div style="width:720px;">
+<iframe src="https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="display: block; width: 100%;></iframe>
+</div>
 
 ### Tableau d'aide au choix en téléchargement
 
@@ -25,12 +27,12 @@ Evidemment vous pouvez avoir d'autres idées de catégorisation, mais en tout ca
 
 Pour utiliser ce tableau,
 
-* 1/ [télécharger le tableau vierge et son exemple](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280).
-* 2/ Remplir la colonne pondération :
+* <strong style="font-size: 20px; font-weight: bold">1/</strong> [télécharger le tableau vierge et son exemple](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280).
+* <strong style="font-size: 20px; font-weight: bold">2/</strong> Remplir la colonne pondération :
 avec des valeurs de +100 à -100. Les thèmes doivents avoir une pondération positive (de 0 à 100), les jokers peuvent avoir une pondération positive ou négative (de -100 à + 100).
-* 3/ Remplir les colonnes jaunes de chaque candidates même ceux qu'on aime pas avec des notes de 0 à 10.
-* 4/ Regarde le resultat, celui qui a le plus de point devrait être celui pour qui vous aller voter en suivant les conseils de votre cerveau droit (indépendemment de toutes orientation politique).
-* 5/ Publie le résultat sur les réseaux sociaux !
+* <strong style="font-size: 20px; font-weight: bold">3/</strong> Remplir les colonnes jaunes de chaque candidates même ceux qu'on aime pas avec des notes de 0 à 10.
+* <strong style="font-size: 20px; font-weight: bold">4/</strong> Regarde le resultat, celui qui a le plus de point devrait être celui pour qui vous aller voter en suivant les conseils de votre cerveau droit (indépendemment de toutes orientation politique).
+* <strong style="font-size: 20px; font-weight: bold">5/</strong> Publie le résultat sur les réseaux sociaux !
 
 
 
