@@ -24,6 +24,8 @@ Ce [petit tableau google](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8
 
 Evidemment vous pouvez avoir d'autres idées de catégorisation, mais en tout cas c'est ce qui m'est venu à l'esprit, sans potasser les programmes des candidats. Vous pouvez rajouter des lignes pour le rendre plus proche de vos centres d'interêts.
 
+<img src="../images/tableau-presi-detaillee.png" title="tableau de choix des candidats">
+
 ### Pour utiliser ce tableau :
 
 * <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">1/</strong> [télécharger le tableau vierge et son exemple](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280).
