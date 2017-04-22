@@ -13,7 +13,7 @@ Le premier tour des présidentielles c'est demain, il est temps de faire votre c
 
 5 candidats se distinguent dans les sondages, dont 4 pourraient aller au deuxième tour. C'est inédit et malgré l'angoisse que cela peut engendrer, cela donne un interêt certain au vote. Comme dans un film américain, ou on ne sait pas si cela va finir en "happy end" ou en "ils sont tous morts à la fin".
 
-Si comme moi vous aimez faire un tableau pour toute décision importante, je vous propose ce [petit tableau pour noter les candidats](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false) et faire votre choix aidé de votre cerveau droit.
+Si comme moi vous aimez faire un tableau pour toute décision importante, je vous propose ce [petit tableau pour noter les candidats](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280) et faire votre choix aidé de votre cerveau droit.
 
 <div style="width:720px; height: 600px;">
 <iframe src="https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="display: block; width: 100%; height: 100%;"></iframe>
