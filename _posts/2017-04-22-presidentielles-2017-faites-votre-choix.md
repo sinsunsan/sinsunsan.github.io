@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Présidentielles 2017 / un tableau google spreadsheet pour choisir votre candidat !
+title: Présidentielles 2017 / un tableau google pour choisir votre candidat !
 published: true
 ---
 
