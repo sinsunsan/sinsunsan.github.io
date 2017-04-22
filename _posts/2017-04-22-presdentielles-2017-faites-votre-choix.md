@@ -4,7 +4,7 @@ title: Présidentielles 2017 - Faites votre choix à l'aide de votre cerveau dro
 published: true
 ---
 
-<img src="../images/cerveau-droite-gauche.jpg" title="voter avec votre cerveau droite">
+<img src="../images/cerveau-droite-gauche1.jpg" title="voter avec votre cerveau droite">
 
 
 ### Voter avec son cerveau droit
