@@ -4,7 +4,7 @@ title: Présidentielles 2017 - Faites votre choix à l'aide de votre cerveau dro
 published: true
 ---
 
-<img src="../images/cerveau-droite-gauche1.jpg" title="voter avec votre cerveau droite">
+<img src="../images/cerveau-droite-gauche1.jpg" title="voter avec votre cerveau droit">
 
 
 ### Voter avec son cerveau droit
@@ -14,6 +14,8 @@ Le premier tour des présidentielles c'est demain, il est temps de faire votre c
 5 candidats se distinguent dans les sondages, dont 4 pourraient aller au deuxième tour. C'est inédit et malgré l'angoisse que cela peut engendrer, cela donne un interêt certain au vote. Comme dans un film américain, ou on ne sait pas si cela va finir en "happy end" ou en "ils sont tous morts à la fin".
 
 Si comme moi vous aimez faire un tableau pour toute décision importante, je vous propose ce petit tableau de notes pondérées pour faire votre choix à l'aide de votre cerveau droit.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%"></iframe>
 
 ### Tableau d'aide au choix en téléchargement
 
@@ -30,6 +32,6 @@ avec des valeurs de +100 à -100. Les thèmes doivents avoir une pondération po
 * 4/ Regarde le resultat, celui qui a le plus de point devrait être celui pour qui vous aller voter en suivant les conseils de votre cerveau droit (indépendemment de toutes orientation politique).
 * 5/ Publie le résultat sur les réseaux sociaux !
 
-<iframe src="https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 ### [Télécharger Le tableau pour choisir son candidat](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280)
