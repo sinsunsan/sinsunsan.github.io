@@ -13,7 +13,20 @@ CSS is still evoluting.
 
 Also the number of possibilities in css is high. And probably as me, you have missed some handy or cool stuff css3 or more have brought to css.
 
-* **object fit**
+
+### **transition**
+
+* **Understand transition**
+
+[Nice visualisation to choose a transition timing function or design custom bezier function](http://www.the-art-of-web.com/css/timing-function/)
+
+* **Cubic bezier generator**
+
+[http://cubic-bezier.com/#.95,.23,.83,.67](http://cubic-bezier.com/#.95,.23,.83,.67)
+
+<img src="../images/css-cubic-bezier.png" title="cubic bezier generator">
+
+### **object fit**
 
 Object fit allow to simulate cover property of background images
 It is good to make framing of an image or video inside an object...
@@ -21,7 +34,7 @@ It is good to make framing of an image or video inside an object...
 
 [The IA Fall back](https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3)
 
-* **blend modes**
+### **blend modes**
 
 Blend mode are photoshop like fusion mode (multiply, transfer...) that allow to have an opacity without flattening everything
 
@@ -65,11 +78,22 @@ figure video {
 
 [http://codepen.io/chriscoyier/pen/mvbpJ](http://codepen.io/chriscoyier/pen/mvbpJ)
 
-* **Viemport units vh vw**
+### **Viemport units vh vw**
 
 Allow to size depending of the screen size, ideal for full width
 
 [http://www.tipue.com/blog/css3-vw-vh](http://www.tipue.com/blog/css3-vw-vh/)
+
+
+### **always and ever a problem : vertical align**
+
+Flexbox based solutions
+
+
+
+Classical solutions :
+
+[http://vanseodesign.com/css/vertical-centering/](http://vanseodesign.com/css/vertical-centering/)
 
 ### **Post css**
 
