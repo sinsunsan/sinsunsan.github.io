@@ -28,7 +28,7 @@ Evidemment vous pouvez avoir d'autres idées de catégorisation, mais en tout ca
 
 ### Pour utiliser ce tableau :
 
-* <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">1/</strong> [télécharger le tableau vierge et son exemple](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280).
+* <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">1/</strong> [télécharge le tableau vierge et son example](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280).
 * <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">2/</strong> Rempli la colonne pondération :
 avec des valeurs de +10 à -10. Les thèmes doivents avoir une pondération positive (de 0 à 10), les jokers peuvent avoir une pondération positive ou négative (de -10 à + 10).
 * <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">3/</strong> Rempli les colonnes jaunes de chaque candidat avec des notes de 0 à 10.
