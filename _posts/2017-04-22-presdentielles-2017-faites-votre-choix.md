@@ -15,8 +15,8 @@ Le premier tour des présidentielles c'est demain, il est temps de faire votre c
 
 Si comme moi vous aimez faire un tableau pour toute décision importante, je vous propose ce petit tableau de notes pondérées pour faire votre choix à l'aide de votre cerveau droit.
 
-<div style="width:720px;">
-<iframe src="https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="display: block; width: 100%;></iframe>
+<div style="width:720px; height: 600px;">
+<iframe src="https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="display: block; width: 100%; height: 100%;></iframe>
 </div>
 
 ### Tableau d'aide au choix en téléchargement
