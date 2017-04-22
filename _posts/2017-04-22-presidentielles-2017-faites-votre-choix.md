@@ -32,7 +32,7 @@ Evidemment vous pouvez avoir d'autres idées de catégorisation, mais en tout ca
 avec des valeurs de +100 à -100. Les thèmes doivents avoir une pondération positive (de 0 à 100), les jokers peuvent avoir une pondération positive ou négative (de -100 à + 100).
 * <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">3/</strong> Remplir les colonnes jaunes de chaque candidats même ceux qu'on aime pas avec des notes de 0 à 10.
 * <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">4/</strong> Regarde le resultat, celui qui a le plus de points devrait être celui pour qui vous aller voter demain en suivant les conseils de votre cerveau droit.
-* <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">5/</strong>Publie le résultat sur les réseaux sociaux et faisant une copie d'écran et lien vers cet article !
+* <strong style="font-size: 25px; font-weight: bold margin-top: 20px;">5/</strong>Publie le résultat sur les réseaux sociaux avec un lien vers cet article !
 
 
 
