@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Présidentielles 2017 - Faites votre choix à l'aide de votre cerveau droit! / Tableau de décision à télécharger
+title: Présidentielles 2017 / Choisissez votre candidat avec votre cerveau droit !
 published: true
 ---
 
@@ -27,12 +27,12 @@ Evidemment vous pouvez avoir d'autres idées de catégorisation, mais en tout ca
 
 Pour utiliser ce tableau,
 
-* <strong style="font-size: 20px; font-weight: bold">1/</strong> [télécharger le tableau vierge et son exemple](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280).
-* <strong style="font-size: 20px; font-weight: bold">2/</strong> Remplir la colonne pondération :
+* <strong style="font-size: 30px; font-weight: bold margin-top: 20px;">1/</strong> [télécharger le tableau vierge et son exemple](https://docs.google.com/spreadsheets/d/1avymKG7vyfZQl8s51nZjbOAR0Z4nttZPxDtMkeXkqKo/edit#gid=1896097280).
+* <strong style="font-size: 30px; font-weight: bold margin-top: 20px;">2/</strong> Remplir la colonne pondération :
 avec des valeurs de +100 à -100. Les thèmes doivents avoir une pondération positive (de 0 à 100), les jokers peuvent avoir une pondération positive ou négative (de -100 à + 100).
-* <strong style="font-size: 20px; font-weight: bold">3/</strong> Remplir les colonnes jaunes de chaque candidates même ceux qu'on aime pas avec des notes de 0 à 10.
-* <strong style="font-size: 20px; font-weight: bold">4/</strong> Regarde le resultat, celui qui a le plus de point devrait être celui pour qui vous aller voter en suivant les conseils de votre cerveau droit (indépendemment de toutes orientation politique).
-* <strong style="font-size: 20px; font-weight: bold">5/</strong> Publie le résultat sur les réseaux sociaux !
+* <strong style="font-size: 30px; font-weight: bold margin-top: 20px;">3/</strong> Remplir les colonnes jaunes de chaque candidates même ceux qu'on aime pas avec des notes de 0 à 10.
+* <strong style="font-size: 30px; font-weight: bold margin-top: 20px;">4/</strong> Regarde le resultat, celui qui a le plus de point devrait être celui pour qui vous aller voter en suivant les conseils de votre cerveau droit (indépendemment de toutes orientation politique).
+* <strong style="font-size: 30px; font-weight: bold margin-top: 20px;">5/</strong> Publie le résultat sur les réseaux sociaux !
 
 
 
