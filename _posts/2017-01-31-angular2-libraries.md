@@ -166,6 +166,11 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 * **Angular doc** : Online documentation from github repo    [http://angulardoc.io/main](http://angulardoc.io/main)
 
+## translation and internationalization
+
+* **ngx-translate** : the library for internationalization in angular 
+
+[https://github.com/ngx-translate/core](https://github.com/ngx-translate/core)
 
 ## Observable
 

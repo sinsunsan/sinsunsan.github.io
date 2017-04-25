@@ -39,6 +39,15 @@ With only solar energy, this invention allow to concentrate the water in the air
 
 [http://www.independent.co.uk/news/science/solar-water-harvester-thin-air-deserts-mof-metal-organic-framework-omar-yaghi-a7683451.html](http://www.independent.co.uk/news/science/solar-water-harvester-thin-air-deserts-mof-metal-organic-framework-omar-yaghi-a7683451.html)
 
+* **Measure the world**
+
+<img  src="../images/carbon-data.png" title="world data in realtime">
+
+Quantification of our living data to improve our health, make more sport, walk more seems us more natural thanks to more device that track our behaviors.
+Data allow to be understand the quantity that drive the world and make clear possibilities of actions. So now let's imagine the world as a human body, with many factor that evolute in real time,  and that you can "see" moving. The population growing, the CO2 being e
+
+[http://www.worldometers.info/fr/](http://www.worldometers.info/fr/)
+
 ## Negative, denunciation of the old world
 
 * **Just 90 companies are to blame for most climate change !**

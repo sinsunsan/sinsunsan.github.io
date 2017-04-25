@@ -13,6 +13,7 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 [Learn angular 2](http://learnangular2.com)
 * 132+ Video tutorial on specific pratical cases
 [https://egghead.io/technologies/angular2](https://egghead.io/technologies/angular2)
+* nicely focused tutorials on a medium hoste dev site [https://netbasal.com/tagged/angular2](https://netbasal.com/tagged/angular2)
 
 
 ### Data binding
@@ -31,6 +32,9 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 [http://restlet.com/blog/2016/02/17/implementing-angular2-forms-beyond-basics-part-2/](http://restlet.com/blog/2016/02/17/implementing-angular2-forms-beyond-basics-part-2/)
 Some more advanced form topics like automatically adding class for bootstrap or async validation...
 
+* Edit forms value programatically : setValue and patchValue 
+
+[https://toddmotto.com/angular-2-form-controls-patch-value-set-value](https://toddmotto.com/angular-2-form-controls-patch-value-set-value)
 
 ### Reactive forms or model driven fields
 
