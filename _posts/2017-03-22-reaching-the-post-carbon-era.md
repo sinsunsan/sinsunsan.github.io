@@ -30,6 +30,10 @@ Pendant des siècles les hommes ont mangé beaucoups moins de viandes qu'actuell
 [https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel](https://www.franceculture.fr/emissions/les-discussions-du-soir-avec-rene-frydman/manger-des-animaux-est-ce-naturel)
 
 
+* **A Worm to "eat" the plastic**
+
+[http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic](http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic)
+
 * **Harvesting water in the desert**
 
 <img src="../images/carbon-waterharvester.jpg" title="Harvesting water in the desert">

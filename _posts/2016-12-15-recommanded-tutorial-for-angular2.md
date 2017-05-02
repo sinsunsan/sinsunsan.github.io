@@ -32,7 +32,7 @@ Here is a curated list of some good tutorials we used to learn the version 2 of 
 [http://restlet.com/blog/2016/02/17/implementing-angular2-forms-beyond-basics-part-2/](http://restlet.com/blog/2016/02/17/implementing-angular2-forms-beyond-basics-part-2/)
 Some more advanced form topics like automatically adding class for bootstrap or async validation...
 
-* Edit forms value programatically : setValue and patchValue 
+* Edit forms value programatically : setValue and patchValue
 
 [https://toddmotto.com/angular-2-form-controls-patch-value-set-value](https://toddmotto.com/angular-2-form-controls-patch-value-set-value)
 
@@ -132,6 +132,9 @@ RxJs is the  implementation of Observable used by angular which is being develop
 * Building a data store with observable
 [http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/](http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
 
+* The Doc of observables transform operator
+[http://reactivex.io/documentation/operators.html#transforming](http://reactivex.io/documentation/operators.html#transforming)
+
 ## ngFor, ngIf, ...
 
 
@@ -152,6 +155,16 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 * The ng module FAQ is a good place to better understand the ngModules API fine tuning     [https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable)
 
+
+* the official doc on ngModule : A must read
+
+
+[https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html)
+
+* the official style guide module section
+
+[https://angular.io/styleguide#!#application-structure-and-angular-modules](https://angular.io/styleguide#!#application-structure-and-angular-modules)
+
 ## Decorator / Annotation syntax [Typescript]
 
 * Difference between decorator and annotation [http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
@@ -168,6 +181,9 @@ Organize your code in a modular way. Import a module instead of importing a doze
 ## Router
 
 * In depth practical article on the new  angular 2 router     [https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router](https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router)
+
+* How to use guards to prevent access to some pages
+[http://www.sparkbit.pl/angular-2-route-guards-real-life-example/](http://www.sparkbit.pl/angular-2-route-guards-real-life-example/)
 
 ## ES 6
 
@@ -202,6 +218,12 @@ import { OptionService }      from '../../../services/api/option.service';
 
 * Demystifying AOT : Nice slides that present AOT as an easy thing ... [http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30)
 
+
+### Angular CLI
+
+* The ultimate guide of angular CLI
+
+[https://www.sitepoint.com/ultimate-angular-cli-reference/](https://www.sitepoint.com/ultimate-angular-cli-reference/)
 
 ### New release
 
