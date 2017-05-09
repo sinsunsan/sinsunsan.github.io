@@ -156,10 +156,9 @@ Organize your code in a modular way. Import a module instead of importing a doze
 * The ng module FAQ is a good place to better understand the ngModules API fine tuning     [https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable)
 
 
-* the official doc on ngModule : A must read
+* The angular university tutorial on ngModule
 
-
-[https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html)
+[http://blog.angular-university.io/angular2-ngmodule/](http://blog.angular-university.io/angular2-ngmodule/)
 
 * the official style guide module section
 
@@ -184,6 +183,9 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 * How to use guards to prevent access to some pages
 [http://www.sparkbit.pl/angular-2-route-guards-real-life-example/](http://www.sparkbit.pl/angular-2-route-guards-real-life-example/)
+
+# Named router oulet (same as UI router)
+[http://onehungrymind.com/named-router-outlets-in-angular-2/](http://onehungrymind.com/named-router-outlets-in-angular-2/)
 
 ## ES 6
 

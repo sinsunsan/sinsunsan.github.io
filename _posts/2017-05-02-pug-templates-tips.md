@@ -4,7 +4,9 @@ title: Pug templates tips
 published: true
 ---
 
-## Tips and tricks
+Pug templating recipes and debug tricks.
+
+## Recipes
 
 ### Compile  pug file locally in command line
 
