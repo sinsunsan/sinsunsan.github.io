@@ -1,7 +1,7 @@
 ---
 layout: post
 title: angular 2 selected libraries
-published: false
+published: true
 ---
 
 Angular 2 libraries are less numerous than angular 1 equivalents, but they are growing fast. The good point is that you do not loose to much time finding the right one, as it used to be the case with angular 1. And as angular 2 is much clearer, they are generally easier to understand with less code, no dependency to jQuery...
@@ -120,6 +120,12 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 [https://github.com/noemi-salaun/ng-logger](https://github.com/noemi-salaun/ng-logger)
 
+## Forms
+
+* credit card validation 
+
+[https://github.com/nogorilla/angular-cc-library](https://github.com/nogorilla/angular-cc-library)
+
 ## Data
 
 * **JS-DATA** Data store for js  (front and back)
@@ -168,7 +174,7 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 ## translation and internationalization
 
-* **ngx-translate** : the library for internationalization in angular 
+* **ngx-translate** : the library for internationalization in angular
 
 [https://github.com/ngx-translate/core](https://github.com/ngx-translate/core)
 

@@ -248,3 +248,54 @@ Observable.combineLatest(
       // DO something
     })
 ````
+
+
+### Redirect to the same path changing only the last path parameter
+
+The trick  is to use relative path syntax of angular 2 router
+
+````js
+
+// change orderId only while we are at order/22 for example
+// but keeping all parameters
+this.router.navigate(['../', this.order._id], { queryParams: this.params, relativeTo: this.route });
+
+// For this  path (defined in routing configuration)
+{ path: 'order/:orderId', component: SROrderPage },
+````
+
+
+### watching queryparams and params changes
+
+* **queryparams**  are optional `?step=2&lang=fr` so step and lang
+* **params** are in the path `/project/:projectId` so project Id in that cas
+
+For both we use the Activated route service, so we  place in our constructor
+
+````js
+constructor(
+    private route: ActivatedRoute) {}
+````
+
+then we set a watcher in our ngInit()
+````js
+ngOnInit() {
+      this.route
+      .params
+      .subscribe(routeParams => {
+        // trigger when route params change
+        // routeParams = { projectId: 22 }
+      });
+
+      this.route
+      .queryParams
+      .subscribe(queryParams => {
+        // trigger when route params change
+        // project/22?lang=fr
+        // queryParams = { lang: 'fr '}
+      });
+
+  }
+````
+
+Fore query params read this [good tuto](https://angular-2-training-book.rangle.io/handout/routing/query_params.html) for more info
