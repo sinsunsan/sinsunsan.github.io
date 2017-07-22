@@ -12,6 +12,14 @@ I am currently building web sites and applications using Angular as a front end 
 
 If you are interested to work with me, here is my updated [Web developer Resume](http://bit.ly/slucas-web).
 
+I was born in 1977, the year challenger prone was launched to space and the beginning of the generation called [XENNIAL](http://didyouknowfacts.com/theres-now-a-name-for-the-micro-generation-born-between-1977-1983/). 
+
+Xennials generation group people : 
+
+* born between 1977 - 1983 (or when the original Star Wars trilogy was released)
+* that experienced an analogue childhood and a digital adulthood 
+* that possess both Gen X cyncism and Millenial optimism 
+
 ## My story with code
 
 ### 2017-... : NOW Period (Angular 2 & more)
@@ -72,7 +80,7 @@ My main project : [Sébastien Lucas - Photography](http://www.sebastienlucas.com
 
 * this year Apple Inc. get incorporated
 * Voyager probe started its journey
-* Centre Pompidou museum erected in Paris
+* Centre Pompidou museum was erected in Paris
 * [Make](https://en.wikipedia.org/wiki/Make_(software)) utility in unix system was born.
 
 ![First mac computer]({{site.baseurl}}/images/mac.jpg)

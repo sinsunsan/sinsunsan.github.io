@@ -55,3 +55,8 @@ Others I do not use :
 * possibly
 * supposedly
 * perchance
+
+### Misc faux amis
+
+* **Payement** > **payment** (paiement in french) movement = move + ent / payment = pay + ment
+* **entreprise** > **enterprise** (remember strat Trek entreprise space shuttle !)

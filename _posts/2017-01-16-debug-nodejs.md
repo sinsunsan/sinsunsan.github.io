@@ -11,3 +11,8 @@ You require a module that when  inspecting its value end to be an empty object. 
 
 It is a circular dependency problem, the required module have required in any way the module that try to require it...
 So double check your modules architecture.
+
+### update node  to latest version 
+
+Here a simple and eficient way for ubuntu servers 
+[https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version)

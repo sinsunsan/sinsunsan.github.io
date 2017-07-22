@@ -117,3 +117,7 @@ Set automatically browser prefix for you
 * **post css web pack plugin**
 
 [https://github.com/postcss/postcss-loader](https://github.com/postcss/postcss-loader)
+
+* **Flexbox nice tutorial**
+
+[http://cssreference.io/flexbox/](http://cssreference.io/flexbox/)

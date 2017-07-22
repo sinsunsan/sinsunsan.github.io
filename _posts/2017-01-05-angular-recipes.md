@@ -250,6 +250,14 @@ Observable.combineLatest(
 ````
 
 
+### Redirect to the same path but changing one query params
+
+The trick is [] to tell same page.
+
+````js
+this.router.navigate([], { relativeTo: this.route, queryParams: { step: this.steps[0] } });
+````
+
 ### Redirect to the same path changing only the last path parameter
 
 The trick  is to use relative path syntax of angular 2 router

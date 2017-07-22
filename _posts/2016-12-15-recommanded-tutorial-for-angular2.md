@@ -196,12 +196,12 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 * Detailed explanation about how the modules resolution works for the typescript compiler. How typescript find a module when we write something like :   
 
-```js
+````js
 // Relative import
 import { Component, Input }   from '@angular/core';
 // Non relative  import
 import { OptionService }      from '../../../services/api/option.service';
-```    
+````    
 
 [https://www.typescriptlang.org/docs/handbook/module-resolution.html](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
 
@@ -221,6 +221,11 @@ import { OptionService }      from '../../../services/api/option.service';
 * Demystifying AOT : Nice slides that present AOT as an easy thing ... [http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit#/30)
 
 
+### Integration of external library / Jquery 
+
+* Wrap any jQuery plugin with Angular 2 component — case study.
+ [https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
+
 ### Angular CLI
 
 * The ultimate guide of angular CLI
@@ -231,3 +236,8 @@ import { OptionService }      from '../../../services/api/option.service';
 
 * What is new in angular 4
  [http://blog.ninja-squad.com/2017/03/24/what-is-new-angular-4](http://blog.ninja-squad.com/2017/03/24/what-is-new-angular-4/)
+
+
+ ### Stripe integration 
+
+* a bit old but clear [http://blog.mgechev.com/2016/07/05/using-stripe-payment-with-angular-2/]( http://blog.mgechev.com/2016/07/05/using-stripe-payment-with-angular-2/)
