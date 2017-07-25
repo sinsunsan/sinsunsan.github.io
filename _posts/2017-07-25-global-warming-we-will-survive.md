@@ -4,7 +4,7 @@ title: Global warming / the humanity will survive [happy end]
 published: true
 ---
 
-<img src="../images/global-warming-solutions.jpg", title="global warning solutions">
+<img src="../images/global-warming-solutions.jpg">
 
 This article is a in progress compilation of links to documentate the efforts and solutions to slow down and finally may be stop the global warming and its devasting effects. 
 
