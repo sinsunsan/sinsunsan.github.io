@@ -191,3 +191,9 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 * **Observable and subjects**
 
 [http://stackoverflow.com/questions/39494058/angular-2-behavior-subject-vs-observable](http://stackoverflow.com/questions/39494058/angular-2-behavior-subject-vs-observable)
+
+## Debug
+
+* **pretty json** A nice json pipes with syntax highlighting
+
+
