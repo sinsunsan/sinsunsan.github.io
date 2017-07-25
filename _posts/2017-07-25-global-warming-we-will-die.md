@@ -4,7 +4,7 @@ title: Global warming / the humanity will die [sad end]
 published: true
 ---
 
-This article is a in progress compilation of links to demonstrate why global warming will probably be the last errors of the not so long history of humanity and make earth inhabitable.
+This article is a in progress compilation of links to demonstrate why global warming will probably be the last error of the not so long history of humanity and make earth inhabitable.
 
 But do not lose all esperances, we may prevent that sad end by putting in pratice existing solutions, changing the way we all behave and imagine new solutions that we try to compile in the sibling article: [Global Warming : the humanity will survive](http://dev.sebastienlucas.com/global-warming-we-will-survive)
 
