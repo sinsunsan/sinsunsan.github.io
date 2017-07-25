@@ -4,9 +4,11 @@ title: Global warming / the humanity will die [sad end]
 published: true
 ---
 
-This article is a in progress compilation of events that will probably lead to humanity death due to global warming. 
+This article is a in progress compilation of links to demonstrate why global warming will probably be the last errors of the not so long history of humanity and make earth inhabitable.
 
-But do not forget to read the sibling article : [Global Warming : the humanity will survive](http://dev.sebastienlucas.com/global-warming-we-will-survive)
+But do not lose all esperances, we may prevent that sad end by putting in pratice existing solutions, changing the way we all behave and imagine new solutions that we try to compile in the sibling article: [Global Warming : the humanity will survive](http://dev.sebastienlucas.com/global-warming-we-will-survive)
+
+<hr/>
 
 <ul>
   <li>
@@ -21,7 +23,7 @@ But do not forget to read the sibling article : [Global Warming : the humanity w
 
 * [The Uninhabitable Earth](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html") a list of many dangers that climate change will bring for humans that make us doubt if humanity will at the end survive...
 
-<a href="http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html"><img src="global-warming-inhabitable-earth.jpg"></a>
+<a href="http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html"><img src="../images/global-warming-inhabitable-earth.jpg"></a>
 
 <h3 id="sea-rise">Sea rise</h3>
 

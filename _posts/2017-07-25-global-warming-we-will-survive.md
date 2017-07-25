@@ -4,9 +4,21 @@ title: Global warming / the humanity will survive [happy end]
 published: true
 ---
 
-This article is a in progress compilation of innovations and progress in the effort to stop the global warming and its devasting effects. 
+This article is a in progress compilation of links to documentate the efforts and solutions to slow down and finally may be stop the global warming and its devasting effects. 
 
-If we do reach our goals, you can read its sibling article : [Global Warning : the humanity will die](http://dev.sebastienlucas.com/global-warming-we-will-die)
+If we fail though, you can read the sibling article : [Global Warning : the humanity will die](http://dev.sebastienlucas.com/global-warming-we-will-die)
+
+
+<ul>
+  <!-- <li>
+    <a href="#global">Global</a>
+  </li> -->
+  <li>
+   <a href="#photovoltaic">Photovoltaïc</a>
+  </li>
+</ul> 
+
+<h3 id="photovoltaic">Photovoltaïc</h3>
 
 * [A giant photovoltaic central in China in the shape of a panda](https://twitter.com/brutofficiel/status/889840668389986305)
 
