@@ -6,16 +6,20 @@ published: true
 
 This article is a in progress compilation of events that will probably lead to humanity death due to global warming. 
 
-But do not forget to read the sibling article : [Global Warming : the humanity will survive](http://dev.sebastienlucas.com/global-warming-we-will-die)
+But do not forget to read the sibling article : [Global Warming : the humanity will survive](http://dev.sebastienlucas.com/global-warming-we-will-survive)
 
 <ul>
- <li>
-   <a href="#global">Global</a>
+  <li>
+    <a href="#global">Global</a>
+  </li>
+  <li>
    <a href="#sea-rise">Sea rise</a>
-
+  </li>
+</ul> 
+ 
 <h3 id="global">Global</h3>
 
-* [The Uninhabitable Earth](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html"><img src="global-warming-inhabitable-earth.jpg) a list of all dangers that climate change will bring for humans that make us doubt if humanity will at the end survive...
+* [The Uninhabitable Earth](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html") a list of many dangers that climate change will bring for humans that make us doubt if humanity will at the end survive...
 
 <a href="http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html"><img src="global-warming-inhabitable-earth.jpg"></a>
 
