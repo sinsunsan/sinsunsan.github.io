@@ -6,13 +6,10 @@ published: true
 
 This article is a in progress compilation of links to documentate the efforts and solutions to slow down and finally may be stop the global warming and its devasting effects. 
 
-If we fail though, you can read the sibling article : [Global Warning : the humanity will die](http://dev.sebastienlucas.com/global-warming-we-will-die)
+If we fail though, you can read our sibling article : [Global Warning : the humanity will die](http://dev.sebastienlucas.com/global-warming-we-will-die)
 
 
 <ul>
-  <!-- <li>
-    <a href="#global">Global</a>
-  </li> -->
   <li>
    <a href="#photovoltaic">Photovoltaïc</a>
   </li>
