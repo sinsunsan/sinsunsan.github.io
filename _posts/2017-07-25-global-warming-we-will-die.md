@@ -4,7 +4,7 @@ title: Global warming / the humanity will die [sad end]
 published: true
 ---
 
-<a href="http://dev.sebastienlucas.com/global-warming-we-will-die/" title="global warning consequence"><img src="../images/global-warming-ile-de-sein.jpg"></a>
+<img src="../images/global-warming-ile-de-sein.jpg", title="global warning dangers">
 
 This article is a in progress compilation of links to demonstrate why global warming will probably be the last error of the not so long history of humanity and make earth inhabitable.
 
