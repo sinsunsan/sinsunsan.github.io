@@ -6,7 +6,7 @@ published: true
 
 This article is a in progress compilation of events that will probably lead to humanity death due to global warming. 
 
-But do not forget to read the sibling article : (http://www.google.com)[global warming : the humanity will survive]
+But do not forget to read the sibling article : (Global Warming : the humanity will survive)[http://dev.sebastienlucas.com/global-warming-we-will-die/]
 
 ### Sea rise and land overwhelmed
 

@@ -6,7 +6,7 @@ published: true
 
 This article is a in progress compilation of innovations and progress in the effort to stop the global warming and its devasting effects. 
 
-If we do reach our goals, you can read its sibling article : (http://www.google.com)[global warning : the humanity will die]
+If we do reach our goals, you can read its sibling article : (Global Warning : the humanity will die)[http://dev.sebastienlucas.com/global-warming-we-will-die/]
 
 * [A giant photovoltaic central in China in the shape of a panda](https://twitter.com/brutofficiel/status/889840668389986305)
 
