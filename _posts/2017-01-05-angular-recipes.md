@@ -306,4 +306,67 @@ ngOnInit() {
   }
 ````
 
-Fore query params read this [good tuto](https://angular-2-training-book.rangle.io/handout/routing/query_params.html) for more info
+For query params read this [good tuto](https://angular-2-training-book.rangle.io/handout/routing/query_params.html) for more info
+
+### Execute a js library outside of the scope of angular 
+
+Angular run inside an execution context so is not accesible in the global scope of the page. But some libraries  like jquery exist in the global scope of the page. 
+
+So here is an example on [how to run a jquery library from an angular component](https://github.com/devmark/ngx-slick/blob/master/src/slick.component.ts).
+
+Import of the NgZone module
+
+````js 
+import {
+    Component, Input, Output, EventEmitter, NgZone, forwardRef, AfterViewInit,
+    OnDestroy, Directive, ElementRef, Host
+} from '@angular/core';
+````
+
+Definition in the component constructor
+
+````js
+constructor(private el: ElementRef, private zone: NgZone) {
+````
+Use of 
+this.zone.runOutsideAngular(() => {
+
+  to switch execution zone
+
+ ````js
+   /**
+     * init slick
+     */
+    initSlick() {
+        const self = this;
+
+        this.zone.runOutsideAngular(() => {
+            this.$instance = $(this.el.nativeElement).slick(this.config);
+            this.initialized = true;
+
+            this.$instance.on('afterChange', (event, slick, currentSlide) => {
+                self.zone.run(() => {
+                    self.afterChange.emit({event, slick, currentSlide});
+                });
+            });
+
+            this.$instance.on('beforeChange', (event, slick, currentSlide, nextSlide) => {
+                self.zone.run(() => {
+                    self.beforeChange.emit({event, slick, currentSlide, nextSlide});
+                });
+            });
+
+            this.$instance.on('breakpoint', (event, slick, breakpoint) => {
+                self.zone.run(() => {
+                    self.breakpoint.emit({event, slick, breakpoint});
+                });
+            });
+
+            this.$instance.on('destroy', (event, slick) => {
+                self.zone.run(() => {
+                    self.destroy.emit({event, slick});
+                });
+            });
+        });
+    }
+````

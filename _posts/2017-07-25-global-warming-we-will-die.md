@@ -33,5 +33,9 @@ But do not lose all esperances, we may prevent that sad end by putting in pratic
 
 <a href="https://www.franceculture.fr/emissions/lheure-du-documentaire/lheure-du-documentaire-lundi-24-juillet-2017" title="ile de sein and global warming"><img src="../images/global-warming-ile-de-sein.jpg"></a>
 
+* [Visual representation of temperature variation since 1900](https://twitter.com/Guglielminetti/status/892351408250531840)
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Animation du chercheur <a href="https://twitter.com/anttilip">@anttilip</a> pour illustrer le changement de température dans divers pays depuis 1900. <a href="https://t.co/KAQgn0Netf">pic.twitter.com/KAQgn0Netf</a></p>&mdash; Bruno Guglielminetti (@Guglielminetti) <a href="https://twitter.com/Guglielminetti/status/892351408250531840">1 août 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

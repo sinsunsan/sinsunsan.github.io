@@ -37,3 +37,7 @@ and its angular integration
 * **Filesaver** SaveAS API Polyfill
 
 [https://github.com/eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js)
+
+### Api Documentation 
+
+* A popular static documentation system [https://github.com/lord/slate](https://github.com/lord/slate)

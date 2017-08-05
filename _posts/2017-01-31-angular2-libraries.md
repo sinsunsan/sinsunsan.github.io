@@ -84,6 +84,11 @@ Plus it's angular 2 library
 
 [http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
 
+
+### Carousel 
+
+* [Ngx Slick](https://github.com/devmark/ngx-slick/tree/master/src) wrapper from [slick jquery plugin](http://kenwheeler.github.io/slick/)
+
 ## Events
 
 * **ng-radio** a message bus for angular to replace missing $cope.$emit and allow sibling components to talk and more generally global casting of  a message. Use RxJs [https://github.com/govorov/ng-radio](https://github.com/govorov/ng-radio)
@@ -195,5 +200,9 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ## Debug
 
 * **pretty json** A nice json pipes with syntax highlighting
+
+## Styling 
+
+* **[Advanced styling for angular v4](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635)
 
 

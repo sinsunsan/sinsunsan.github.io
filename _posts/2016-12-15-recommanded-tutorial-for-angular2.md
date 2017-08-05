@@ -241,3 +241,12 @@ import { OptionService }      from '../../../services/api/option.service';
  ### Stripe integration 
 
 * a bit old but clear [http://blog.mgechev.com/2016/07/05/using-stripe-payment-with-angular-2/]( http://blog.mgechev.com/2016/07/05/using-stripe-payment-with-angular-2/)
+
+
+### test 
+
+* [automated test with angular 2](http://www.gistia.com/guide-end-end-testing-angular-2) 
+
+### Webpack build 
+
+* [Importing css with webpack angular starter](https://stackoverflow.com/questions/40071845/how-to-import-css-from-node-modules-in-webpack-angular2-app)
