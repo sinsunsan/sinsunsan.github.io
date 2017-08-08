@@ -1,10 +1,8 @@
-
 ---
 layout: post
 title: UI / UX Ressources
 published: true
 ---
-
 
 * [Collect UI](http://collectui.com/challenges/product-tour) examples of UI categorized in 100+ categories to get ideas
 
