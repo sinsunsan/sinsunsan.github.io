@@ -370,3 +370,57 @@ this.zone.runOutsideAngular(() => {
         });
     }
 ````
+
+
+### Add even, odd and last class to ngFor 
+
+````pug
+div(
+    *ngFor="let item of item; let last = last; let odd = odd; let even = even; let index = index;",
+    [ngClass]="{'odd': odd,'even': even,'last': last}", 
+    class="item item-{{ index }}")
+````
+will result in 
+````html
+<div class="item odd item-1">
+First item
+</div>
+<div class="item even item-2">
+Second item
+</div>
+<div class="item odd last item-2">
+Third item
+</div>
+````
+
+### Dynamic templates
+
+In angular 2 your can use dynamic templates 
+called by name 
+Primeng library make heavy use of it, you can see as an illustration 
+[templates definitions here](https://github.com/primefaces/primeng/blob/master/src/app/components/common/shared.ts)
+
+
+### Injection parent component in child component 
+
+Example and explanations in the [slick-carousel integration](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998) tutorial
+
+* **@ContentChildren()** allow  to have a reference to a child component in the parent component 
+* **@Host()** allow  to have a reference to a parent component in the child component 
+
+````ts
+@Directive({
+  selector: '[slick-carousel-item]',
+})
+export class SlickCarouselItem {
+  constructor(private el: ElementRef, @Host() private carousel: SlickCarouselComponent) {
+  }
+  ngAfterViewInit() {
+    this.carousel.addSlide(this);
+  }
+  ngOnDestroy() {
+    this.carousel.removeSlide(this);
+  }
+}
+````
+

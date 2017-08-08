@@ -11,3 +11,5 @@ Often you want to make declinaison of the nearly the same component, having sepa
 ### Master component using @input 
 
 ### Master component using component inheritance
+
+### Master component using ng-template

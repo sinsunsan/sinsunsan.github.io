@@ -63,10 +63,13 @@ Some more advanced form topics like automatically adding class for bootstrap or 
 
 * Children view    
 [http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders]()
-
 * Dump / Smart component architecture :
 A way to organize component to differentiate presentational component highly reusable and intelligent component that actually handle the logic and specific stuff
 [https://teropa.info/blog/2016/02/22/dumb-components-and-visual-feedback-in-angular-apps.html]()
+
+#### viewChildren 
+
+* [View children, view child and query list](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e) 
 
 ## Components @input
 
@@ -147,6 +150,9 @@ RxJs is the  implementation of Observable used by angular which is being develop
 
 [http://blog.angular-university.io/angular-2-ngfor/](http://blog.angular-university.io/angular-2-ngfor/)
 
+
+* [ng-template and odd, even, last variable in ngFor](https://toddmotto.com/angular-ngfor-template-element#accessing-first-last-odd-even)
+
 ## Modules
 
 Organize your code in a modular way. Import a module instead of importing a dozen of files (javascript modules). Despite of the use of ES6 modules in angular, angular  modules @ngModules are still useful to bundle a feature or a shared utility together.
@@ -223,8 +229,7 @@ import { OptionService }      from '../../../services/api/option.service';
 
 ### Integration of external library / Jquery 
 
-* Wrap any jQuery plugin with Angular 2 component — case study.
- [https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
+* [Wrap any jQuery plugin with Angular 2 component — case study.](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
 
 ### Angular CLI
 
@@ -250,3 +255,7 @@ import { OptionService }      from '../../../services/api/option.service';
 ### Webpack build 
 
 * [Importing css with webpack angular starter](https://stackoverflow.com/questions/40071845/how-to-import-css-from-node-modules-in-webpack-angular2-app)
+
+### Zones & ngZone 
+
+* [runing something outside angular zone so that we skip angular change detection](https://blog.thoughtram.io/angular/2017/02/21)using-zones-in-angular-for-better-performance.html)
