@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global warming / the humanity will survive [happy end]
+title: Global warming / Humanity will survive [happy end]
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global warming / the humanity will die [sad end]
+title: Global warming / Humanity will die [sad end]
 published: true
 ---
 
