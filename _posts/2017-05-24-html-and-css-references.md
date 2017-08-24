@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Css and HTMl references
+title: Css and HTML references
 published: true
 ---
 
