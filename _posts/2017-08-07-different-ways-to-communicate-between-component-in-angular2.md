@@ -1,7 +1,7 @@
 ---
 layout: post
 title: X ways to communicate between component in angular 2
-published: true
+published: false
 ---
 
 ### @input @output 

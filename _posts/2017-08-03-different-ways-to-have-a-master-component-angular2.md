@@ -1,7 +1,7 @@
 ---
 layout: post
 title: X ways to have a master component in angular 2
-published: true
+published: false
 ---
 
 Often you want to make declinaison of the nearly the same component, having separated component for clarity, ability to edit it later... but not having to duplicate the code.
