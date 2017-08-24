@@ -6,6 +6,10 @@ published: true
 
 UI evolve with the sites and apps that use it. As in other fields, examples are key to understand and test new concepts, but as we daily use User Interface we often do not notice all details. So collection fragment of UI and categorize them is a good pratice to be able to use them when needed.
 
+### Resources
+
+* [Building a design system](https://www.youtube.com/watch?v=fELHlAVFaaU) 1hour video on how to pratically build a consisten design system
+
 ### UI inspirations
 
 * [Collect UI](http://collectui.com/challenges/product-tour) examples of UI categorized in 100+ categories to get ideas

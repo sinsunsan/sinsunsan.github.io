@@ -23,3 +23,10 @@ If we fail though, you can read our sibling article : [Global Warning : the huma
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">La Chine compte sur ce panda géant pour réduire ses émissions de CO2 (oui, vous avez bien lu). <a href="https://t.co/nBd4SO59pB">pic.twitter.com/nBd4SO59pB</a></p>&mdash; Brut FR (@brutofficiel) <a href="https://twitter.com/brutofficiel/status/889840668389986305">25 juillet 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+* [6 pays cherchent à être indépendant energetiquement et completement décarbonnées](http://www.lejournalinternational.info/six-pays-qui-cherchent-lindependance-energetique/)
+
+L'Islande, la Norvège, L'éthiopie, Le Costa Rica, L'urugay et le Brésil sont les pays les plus avancées dans la conversion vers une énérgie complétement décarbonnée.
+
+

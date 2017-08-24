@@ -4,7 +4,6 @@ title: Css and HTMl references
 published: true
 ---
 
-
 ### References and guides
 
 This 2 guides are really awesome because very visual : 

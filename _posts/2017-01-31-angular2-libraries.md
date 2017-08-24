@@ -203,6 +203,13 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 ## Styling 
 
-* **[Advanced styling for angular v4](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635)
+* [Advanced styling for angular v4](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635)
 
 
+## Table 
+
+* [NgX-datatable](https://github.com/swimlane/ngx-datatable) complete big or small table
+
+## Charts 
+
+* [ng2-charts](http://valor-software.com/ng2-charts/#doughnutChart) Integration of charts js for angular 
