@@ -78,9 +78,11 @@ My main project : [Sébastien Lucas - Photography](http://www.sebastienlucas.com
 
 ### 1977 What happened  ?
 
-* this year Apple Inc. get incorporated
-* Voyager probe started its journey
-* Centre Pompidou museum was erected in Paris
+* This year Apple Inc. get incorporated
+* Voyager I & II probes started their journey : They are now the farther object that mankind created and launched to space
+![Voyage Golden Record]({{site.baseurl}}/images/voyager.jpg)
+* Centre Pompidou museum by Architects Renzo Piano and Richard Rogers was erected in Paris
+![Centre pompidou inauguration]({{site.baseurl}}/images/centre-pompidou.jpg)
 * [Make](https://en.wikipedia.org/wiki/Make_(software)) utility in unix system was born.
 
 ![First mac computer]({{site.baseurl}}/images/mac.jpg)

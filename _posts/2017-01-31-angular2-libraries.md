@@ -68,6 +68,9 @@ And is then interpreted at run time to adapt to screen size.
 Plus it's angular 2 library
 [ng-semantic.herokuapp.com](ng-semantic.herokuapp.com)
 
+
+[https://github.com/edcarroll/ng2-semantic-ui](https://github.com/edcarroll/ng2-semantic-ui) An alternative that is independant from the original jquerylibrary
+
 * **primeng** a collection of widget and library
 
 [https://www.primefaces.org/primeng/#/fileupload](https://www.primefaces.org/primeng/#/fileupload)
