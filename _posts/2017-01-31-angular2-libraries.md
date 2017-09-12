@@ -58,35 +58,7 @@ And is then interpreted at run time to adapt to screen size.
 
 ###  Angular 2 UI components library
 
-* **angular material 2**
-
-[https://github.com/angular/material2](https://github.com/angular/material2)
-
-* **semantic ui**
-
-[https://semantic-ui.com/](https://semantic-ui.com/)
-Plus it's angular 2 library
-[ng-semantic.herokuapp.com](ng-semantic.herokuapp.com)
-
-
-[https://github.com/edcarroll/ng2-semantic-ui](https://github.com/edcarroll/ng2-semantic-ui) An alternative that is independant from the original jquerylibrary
-
-* **primeng** a collection of widget and library
-
-[https://www.primefaces.org/primeng/#/fileupload](https://www.primefaces.org/primeng/#/fileupload)
-
-* **ng bootstrap** a famous UI library in angular 1
-
-[https://valor-software.com/ng2-bootstrap](https://valor-software.com/ng2-bootstrap)
-
-* **dev extreme** Specialized in data viz, tables, filtering...
-
-[https://github.com/DevExpress/devextreme-angular#demos](https://github.com/DevExpress/devextreme-angular#demos)
-
-* **Fuel UI** On top of bootstrap 4
-
-[http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
-
+We have put our [the angular 2 & 4 UI components libraries](/angular-2-4-ui-components-libraries) list in a separate article
 
 ### Carousel 
 
@@ -134,6 +106,8 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 [https://github.com/nogorilla/angular-cc-library](https://github.com/nogorilla/angular-cc-library)
 
+* [ng2 validation](https://github.com/yuyang041060120/ng2-validation) / Add many form  validator to default one
+
 ## Data
 
 * **JS-DATA** Data store for js  (front and back)
@@ -154,7 +128,6 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ## Infinite scroll
 
 * **Angular 2 infinite scroll**    [https://github.com/orizens/angular2-infinite-scroll](https://github.com/orizens/angular2-infinite-scroll)  
-
 
 * **ng2-page-scroll** Scroll in the page
 [https://github.com/Nolanus/ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll)
@@ -216,3 +189,15 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ## Charts 
 
 * [ng2-charts](http://valor-software.com/ng2-charts/#doughnutChart) Integration of charts js for angular 
+
+## Local + session storage / Cookie management
+
+* [angular2-localstorage](https://github.com/marcj/angular2-localstorage) a decorator to retrieve local storage data directly in component 
+
+* [local storage + session storage](https://github.com/PillowPillow/ng2-webstorage)
+
+* [Cookie management](https://github.com/salemdar/ngx-cookie)
+
+## Errors 
+
+* [Global errror handling](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)

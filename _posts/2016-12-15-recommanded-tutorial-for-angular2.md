@@ -259,3 +259,13 @@ import { OptionService }      from '../../../services/api/option.service';
 ### Zones & ngZone 
 
 * [runing something outside angular zone so that we skip angular change detection](https://blog.thoughtram.io/angular/2017/02/21)using-zones-in-angular-for-better-performance.html)
+
+
+### Progressive web app 
+
+* [Progressive web app](https://houssein.me/progressive-angular-applications)
+
+
+### Responsive
+
+* [Responsive directive to display / hide and more](https://github.com/ManuCutillas/ng2-responsive)

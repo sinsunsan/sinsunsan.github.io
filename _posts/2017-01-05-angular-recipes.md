@@ -217,13 +217,13 @@ export class SharedModule {
 ### Navigate to a defined page in the component or service
 
 ````js
-
-import { Router }                    from '@angular/router';
+import { ActivatedRoute, Router }           from '@angular/router';
 
 // Component definition
 
 constructor(
     private router: Router,
+    private route: ActivatedRoute,
   ) {}
 
 // Inside a component method

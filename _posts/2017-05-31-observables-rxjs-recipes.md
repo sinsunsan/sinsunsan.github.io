@@ -14,7 +14,6 @@ So you have 2 or more async observables, the Observable.combineLatest is called 
 
 * [official doc](http://reactivex.io/documentation/operators/combinelatest.html)
 
-
 ### [Subject] Behavior subject
 
 A variable  that is changed using next() and "watched" using subscribe
@@ -29,3 +28,10 @@ Allow to change the  value of each emited items before  it is sent to function s
 * **When to use ?** : After api query when we generally want to convert to Json, control with libraries like [TypedJson](https://github.com/JohnWeisz/TypedJSON)...
 
 * [ official doc on map operator](http://reactivex.io/documentation/operators/map.html)
+
+### [Operator] flatmap
+
+* [Difference between map & flapmap](https://namitamalik.github.io/Map-vs-FlatMap/)
+
+Mind that in js the name is not flatmap ! 
+Look at [flatmap official doc](http://reactivex.io/documentation/operators/)flatmap.html

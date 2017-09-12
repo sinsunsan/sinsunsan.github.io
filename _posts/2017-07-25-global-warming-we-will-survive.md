@@ -29,4 +29,10 @@ If we fail though, you can read our sibling article : [Global Warning : the huma
 
 L'Islande, la Norvège, L'éthiopie, Le Costa Rica, L'urugay et le Brésil sont les pays les plus avancées dans la conversion vers une énérgie complétement décarbonnée.
 
+* [Dominique Bourg nous parle de la perception des risques et de l'évolution de la prise en compte du changement climatique.](https://www.franceculture.fr/emissions/matieres-penser-avec-dominique-rousset/penser-le-futur-en-democratie)
+
+Dominique Bourg a dirigé l'ouvrage collectif : (le dictionnaire de la pensée écologique)[https://www.puf.com/content/Dictionnaire_de_la_pens%C3%A9e_%C3%A9cologique].
+
+* [Pirogues recyclées en bouteilles en plastique au cameroun](http://www.lemonde.fr/afrique/article/2017/09/10/au-cameroun-des-pirogues-en-bouteilles-en-plastique-recyclees_5183663_3212.html)
+
 

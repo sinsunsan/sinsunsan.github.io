@@ -79,7 +79,7 @@ My main project : [Sébastien Lucas - Photography](http://www.sebastienlucas.com
 ### 1977 What happened  ?
 
 * This year Apple Inc. get incorporated
-* Voyager I & II probes started their journey : They are now the farther object that mankind created and launched to space
+* [Voyager I & II](https://voyager.jpl.nasa.gov/mission/status/) probes started their journey. They are now the farthest human made objects in space.
 ![Voyage Golden Record]({{site.baseurl}}/images/voyager.jpg)
 * Centre Pompidou museum by Architects Renzo Piano and Richard Rogers was erected in Paris
 ![Centre pompidou inauguration]({{site.baseurl}}/images/centre-pompidou.jpg)
