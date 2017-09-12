@@ -25,3 +25,9 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+// When a list of option add a space it create a paragrapher
+// For readibility it should be idented like the bullet point
+ul + p {
+  padding-left: 30px;
+}
