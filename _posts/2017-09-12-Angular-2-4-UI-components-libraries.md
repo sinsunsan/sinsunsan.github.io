@@ -4,7 +4,12 @@ title: angular 2 & 4 UI components libraries
 published: true
 ---
 
+### List of components available per library 
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shreoz9hTpNQfjAo2?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+### List of libraries
 
 * **angular material 2** : The official material  library, good quality components but some are missing
 
@@ -40,6 +45,3 @@ Plus it's angular 2 library
 
 [http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
 
-### List of components available per library 
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr7jWZvhsnXEWmRh?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
