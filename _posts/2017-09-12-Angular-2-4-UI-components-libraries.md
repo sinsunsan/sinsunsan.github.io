@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 * **angular material 2** : The official material  library, good quality components but some are missing
 
 [https://github.com/angular/material2](https://github.com/angular/material2)
@@ -38,3 +39,7 @@ Plus it's angular 2 library
 * **Fuel UI** On top of bootstrap 4
 
 [http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
+
+### List of components available per library 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr7jWZvhsnXEWmRh?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
