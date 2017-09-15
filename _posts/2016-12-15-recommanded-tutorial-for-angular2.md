@@ -231,6 +231,8 @@ import { OptionService }      from '../../../services/api/option.service';
 
 * [Wrap any jQuery plugin with Angular 2 component — case study.](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
 
+* [USe jquery inside your angular 2-4 component](http://deanmalone.net/post/using-jquery-from-angular2/)
+
 ### Angular CLI
 
 * The ultimate guide of angular CLI
