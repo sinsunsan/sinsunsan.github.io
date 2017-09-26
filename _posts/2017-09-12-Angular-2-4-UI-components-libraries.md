@@ -1,6 +1,6 @@
 ---
 layout: post
-title: angular 2 & 4 UI components libraries
+title: angular 2-4 UI components libraries
 published: true
 ---
 
