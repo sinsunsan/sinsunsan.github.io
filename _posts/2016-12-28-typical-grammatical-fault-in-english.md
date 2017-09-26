@@ -60,3 +60,7 @@ Others I do not use :
 
 * **Payement** > **payment** (paiement in french) movement = move + ent / payment = pay + ment
 * **entreprise** > **enterprise** (remember strat Trek entreprise space shuttle !)
+
+Do not use passive form in english like it is so common in french.
+
+* **ce module permet de faire la recommandation** > this module enable recommandation plutot que "allow to do"

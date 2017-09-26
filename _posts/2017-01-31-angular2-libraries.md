@@ -132,6 +132,11 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 * **ng2-page-scroll** Scroll in the page
 [https://github.com/Nolanus/ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll)
 
+* **ng2-scroll-to** Have the advantage of allowing to scroll inside an element. No service to though
+[https://github.com/drusso85/ng2-scroll-to](https://github.com/drusso85/ng2-scroll-to) 
+
+* **ng2-scroll-to-el** [https://github.com/MarcinMichalik/ng-scrollTo](https://github.com/MarcinMichalik/ng-scrollTo)
+
 * **Angular Perfect Scrollbar** Wrapper for perfect scroll bar, a lib to customise the scrollbars
 
 [https://github.com/zefoy/ngx-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar)
