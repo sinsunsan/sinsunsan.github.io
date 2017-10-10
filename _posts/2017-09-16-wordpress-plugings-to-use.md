@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wordpress plugins  to use 
+title: Wordpress plugins to use
 published: true
 ---
 

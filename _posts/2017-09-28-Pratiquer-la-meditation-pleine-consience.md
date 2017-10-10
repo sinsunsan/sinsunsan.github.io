@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Pratiquer la meditation pleine conscience 
+title: Pratiquer la meditation pleine conscience
 published: true
 ---
-
 
 ### Conférences ou émissions 
 
