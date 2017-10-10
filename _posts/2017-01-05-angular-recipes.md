@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular 2 recipes / Tips & tricks
+title: Angular 2 recipes / Tips and tricks
 published: true
 ---
 Tips & tricks for tricky but useful things in angular 2. The type of problems that are too small  to deserve a full blog post, and that you do not know how to name to search for.

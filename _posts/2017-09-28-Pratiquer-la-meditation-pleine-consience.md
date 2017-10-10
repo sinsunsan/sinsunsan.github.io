@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pratiquer la méditation pleine conscience 
+title: Pratiquer la meditation pleine conscience 
 published: true
 ---
 
