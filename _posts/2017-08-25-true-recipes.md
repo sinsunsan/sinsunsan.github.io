@@ -98,4 +98,15 @@ mais pas trop car la cuisson va continuer au four
 * préparer les choux farcis en mettant un bout de poisson, du boulgour et une cuillère de sauce au navet (recette ci-dessus) Utiliser 2-3 feuilles par rouleaux que vous pouvez fermer avec un cure dent mais pas obligé. 
 * Faire cuire au four 20-3°0 minutes en recouvrant des grandes feuilles vertes que vous pouvez garder pour la présentation du plat. 
 
-### Sauce de lamelles de choux à la tomate et au vinaige
+### Sauce de lamelles de choux à la tomate et au vinaigre
+
+
+#### Ingredients 
+
+* Choux vert 
+* Vinaigre japonais
+* Tomate
+* Epice : curcuma, cumin....
+
+###  Pas à pas 
+

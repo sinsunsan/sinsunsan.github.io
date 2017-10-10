@@ -17,5 +17,5 @@ We feed this article as we use those css snippet
 
 
 * Sticky  footer 
-* 
+
 [https://css-tricks.com/couple-takes-sticky-footer/](https://css-tricks.com/couple-takes-sticky-footer/)

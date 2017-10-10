@@ -41,3 +41,12 @@ It can display the state of variable in each component.
 copy(JSON.stringify(changes.widgetData.currentValue, null, 2))
 ````
 It copy the result of JSON.stringify with the option to set correct identation 2.
+
+
+### Access file by filename to add break point 
+
+In chrome debugger go to sources tab and type 
+CMD + P (same short cut that in sublime text)
+it open a list of files 
+
+<img src="../images/chrome-debugger-file-list.png" alt="chrome file list debugger">
