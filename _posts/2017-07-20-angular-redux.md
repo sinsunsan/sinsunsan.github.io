@@ -111,8 +111,7 @@ import * as fromLayout from '../core/reducers/layout';
 
 * Selector could be defined as the query 
 * reducer the table 
-* the store the database 
-from the [comment](https://github.com/ngrx/platform/blob/master/example-app/app/books/reducers/books.ts#L86)
+* the store the database as explained [comment of example app book reducer](https://github.com/ngrx/platform/blob/master/example-app/app/books/reducers/books.ts#L86)
 
 
 ````
