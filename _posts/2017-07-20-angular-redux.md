@@ -113,6 +113,8 @@ import * as fromLayout from '../core/reducers/layout';
 * reducer the table 
 * the store the database 
 from the [comment](https://github.com/ngrx/platform/blob/master/example-app/app/books/reducers/books.ts#L86)
+
+
 ````
 /**
  * Because the data structure is defined within the reducer it is optimal to
@@ -124,5 +126,5 @@ from the [comment](https://github.com/ngrx/platform/blob/master/example-app/app/
  */
 
 export const getSelectedId = (state: State) => state.selectedBookId;
-```
+````
 
