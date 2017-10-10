@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: The tutorials I've read to learn Angular 2
+title: The tutorials I've read to learn Angular 2-4
 ---
 Here is a curated list of some good tutorials we used to learn the version 2 of angular.
 
@@ -152,6 +152,12 @@ RxJs is the  implementation of Observable used by angular which is being develop
 
 
 * [ng-template and odd, even, last variable in ngFor](https://toddmotto.com/angular-ngfor-template-element#accessing-first-last-odd-even)
+
+
+### Redux  inspired rxjs store 
+
+* [https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course) Good introduction to the reactive architecture
+
 
 ## Modules
 

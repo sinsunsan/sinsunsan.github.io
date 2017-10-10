@@ -121,3 +121,7 @@ Set automatically browser prefix for you
 * **Flexbox nice tutorial**
 
 [http://cssreference.io/flexbox/](http://cssreference.io/flexbox/)
+
+* **Hide outline in an accessible way** 
+* 
+[https://jmperezperez.com/outline-focus-ring-a11y/](https://jmperezperez.com/outline-focus-ring-a11y/)

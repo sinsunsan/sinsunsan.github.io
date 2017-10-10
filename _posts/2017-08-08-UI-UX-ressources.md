@@ -16,6 +16,13 @@ UI evolve with the sites and apps that use it. As in other fields, examples are 
 * [Compare design patterns](http://ui-patterns.com/patterns/FatFooter/examples)
 * [Patterns for mobile apps](http://pttrns.com)
 
+
+
+### Tools 
+
+* [Fonts converter](https://transfonter.org/) Convert TTF fonts or other to web fonts (eot, woff...), generate also the good css and create a family
+* [Fonts 2u](https://fr.fonts2u.com/) Download  fonts for desktop
+
 ### Rules & Books
 
 * [Free ebooks on UI design](https://desket.co/collections/ebook)

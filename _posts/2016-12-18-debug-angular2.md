@@ -33,3 +33,11 @@ Using html PRE tag allow to display the json with line break.
 
 Augury is a more complete debug utility for chrome.
 It can display the state of variable in each component.
+
+
+### Print json object and paste in a text editor 
+
+````
+copy(JSON.stringify(changes.widgetData.currentValue, null, 2))
+````
+It copy the result of JSON.stringify with the option to set correct identation 2.

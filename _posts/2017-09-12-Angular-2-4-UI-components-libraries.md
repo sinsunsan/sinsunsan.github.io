@@ -45,3 +45,6 @@ Plus it's angular 2 library
 
 [http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
 
+### Specific library 
+
+* **ng2-sticky** Allow a div to be sticky and stay at the same place in the screen independantly of the scroll [https://github.com/makseo/ng2-sticky](https://github.com/makseo/ng2-sticky)

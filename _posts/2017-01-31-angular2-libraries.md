@@ -206,3 +206,7 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ## Errors 
 
 * [Global errror handling](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
+
+## Ng-template
+
+* [Ng-template](https://toddmotto.com/angular-ngfor-template-element#ng-template-element)
