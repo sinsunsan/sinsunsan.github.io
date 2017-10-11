@@ -3,6 +3,7 @@ layout: post
 title: ES6 syntax best parts
 published: true
 ---
+
 ### Where to find info about ES6 new syntax and features
 
 * [Exploring ES6 online book](http://exploringjs.com/es6)
