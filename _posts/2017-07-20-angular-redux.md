@@ -93,7 +93,7 @@ Another [explanation](http://www.wisdomofjim.com/blog/setting-up-ngrx-in-an-angu
 * **action**: an action triggered by the user like clicking on a button, changing view that impact the global state. Action can be loading of data, for example The data have just finished loading, we trigger an action.
 Pratically the purpose of a .action file is the set the string identifier of an action MY_AWESOME_ACTION and set the type of the of the payload of the actions (passed to the effects)
 
-<script src="https://gist.github.com/sinsunsan/40b2c6eadd5c98ad85ade2929cd34394.js"></script>
+<script src="https://gist.github.com/sinsunsan/dc622768aa2f4452ead5438e0cba05d6.js"></script>
 
 * **effect**: a change to do when an action is triggered
 * **entity**: 
