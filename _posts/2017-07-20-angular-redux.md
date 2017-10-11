@@ -44,16 +44,7 @@ Redux is a way to store in a centralized place data so that all the app  can udp
 
 Example map 
 
-````
-{
-    1: 
-        { 
-            id: 1, 
-            value: "blue"
-        }
-
-}
-````
+<script src="https://gist.github.com/sinsunsan/05b4e6287309750f82e30204316c616a.js"></script>
 
 * In the store we store both application model and ui state and user preference...
 
@@ -80,17 +71,7 @@ npm install ngrx-store-freeze --save-dev
 ````
 
 you should then have in your package.json something like 
-````
-dependencies: {
-    "@ngrx/effects": "^4.0.0",
-    "@ngrx/router-store": "^4.0.0",
-    "@ngrx/store": "^4.0.0",
-    "@ngrx/store-devtools": "^4.0.0",
-},
-"devDependencies": {
-    "ngrx-store-freeze": "^0.2.0",
-}
-````
+<script src="https://gist.github.com/sinsunsan/395243962c2679b833179d429b60acd5.js"></script>
 
 ### NGRX terminology 
 
@@ -104,6 +85,10 @@ Another [explanation](http://www.wisdomofjim.com/blog/setting-up-ngrx-in-an-angu
 > The reducer is the thing that catches and handles the actions that are dispatched from your smart components (or from your action reducers), and it is also the thing that actually resets the state to a new, modified state.
 
 * **selector**: function that in charge to retrieved view model structure that are data as need by the UI
+
+[Link to utility functions createSelector or createFeatureSelector](https://github.com/ngrx/platform/blob/master/docs/store/selectors.md)
+
+
 * **action**: an action triggered by the user like clicking on a button, changing view that impact the global state. Action can be loading of data, for example The data have just finished loading, we trigger an action.
 * **effect**: a change to do when an action is triggered
 * **entity**: 

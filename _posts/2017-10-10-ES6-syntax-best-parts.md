@@ -3,6 +3,28 @@ layout: post
 title: ES6 syntax best parts
 published: true
 ---
+### Where to find info about ES6 new syntax and features
+
+* [Exploring ES6 online book](http://exploringjs.com/es6)
+
+
+### Destructuration 
+
+````
+private getDataUrl({org, project}) {
+  console.log(org); 
+  console.log(project); 
+}
+````
+
+instead of 
+
+````
+private getDataUrl(data) {
+  console.log(data.org); 
+  console.log(data.project); 
+}
+````
 
 
 ### Fat arrow syntax
