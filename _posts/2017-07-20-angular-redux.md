@@ -4,7 +4,10 @@ title: Angular + Redux = NGRX / A  rxjs powered redux store
 published: true
 ---
 
+<img src="../images/ngrx-workflow.png">
+
 ### What it is?
+
 Redux is a way to store in a centralized place data so that all the app  can udpate flowlessly by subscribing to some events. For exemple if a component need to listen udpates of "projects" content, he get informed when this event occur.
 
 ### Links to start with
@@ -22,6 +25,15 @@ Redux is a way to store in a centralized place data so that all the app  can udp
 
 * [UI state managment with Redux in angular 4](https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-4) in this tuto Hristo Georgiev explain how to use redux in the context of angular 4 to control not only data but also UI like window resizing, hide/display of element.
 
+* [Setting up ngrx](http://www.wisdomofjim.com/blog/setting-up-ngrx-in-an-angular-2-project)
+
+### Go further / More specific articles
+
+* [Understanding ngrx selector](http://www.wisdomofjim.com/blog/understanding-ngrx-selectors)
+
+
+* [understanding the [] for ngrx action type](http://www.wisdomofjim.com/blog/understanding-the-__-___-___-syntax-for-ngrx-action-types)
+* 
 ### Reading blog university tutorial notes
 
 * The tuto start with a description of the facebook counter bug that initiated the switch to a redux like architecture for Facebook homepage. 
@@ -82,13 +94,21 @@ dependencies: {
 
 ### NGRX terminology 
 
+<img src="../images/ngrx-workflow.png">
+
 * **store**: the shared service managed by the ngrx library that manage state and trigger event when the state is changed (Could be thought as a database front side)
 * **state**: Global object that store all global values stored in the store. Each feature module add a property to the store to make available the useful part of the global state
+
 * **reducer**: main function where is defined the logic : (could be thought as the database tables). Pratically the reducer have the role to merge / save the state modification with the state global state. 
+Another [explanation](http://www.wisdomofjim.com/blog/setting-up-ngrx-in-an-angular-2-project) : 
+> The reducer is the thing that catches and handles the actions that are dispatched from your smart components (or from your action reducers), and it is also the thing that actually resets the state to a new, modified state.
+
 * **selector**: function that in charge to retrieved view model structure that are data as need by the UI
 * **action**: an action triggered by the user like clicking on a button, changing view that impact the global state. Action can be loading of data, for example The data have just finished loading, we trigger an action.
 * **effect**: a change to do when an action is triggered
 * **entity**: 
+    
+
 
 <em>The raw tab or tree tab allow to navigate in the state values</em>
 <img src="../images/redux-dev-tools.png" alt="ngrx dev tools raw tab">
