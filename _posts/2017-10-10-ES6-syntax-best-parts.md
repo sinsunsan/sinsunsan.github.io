@@ -9,6 +9,20 @@ published: true
 * [Exploring ES6 online book](http://exploringjs.com/es6)
 
 
+### Classes
+
+Class are used everywhere in Angular, so worth double reading the manual of javascript [class in ES6](http://exploringjs.com/es6/ch_classes.html). 
+
+* `;`` in class are allowed but ignored
+* we can use getter of setter (that is not an angular syntax but an ES6 one )
+````
+get errorMessage() {
+ // put a logic  to get error messasage
+ Return erroMessage;
+} 
+````
+
+ 
 ### Destructuration 
 
 ````

@@ -9,3 +9,21 @@ published: true
 To make json web token authentication, we need to pass  token to the server. It is convenient to make this token logic independant of each api call so that it is global. An interceptor intercept all request outgoing or ingoing to make modification to them. So we can create a service that deal with interception. 
 
 <script src="https://gist.github.com/sinsunsan/adba1f200f6a34165ae6b8ae8ab2e09f.js"></script>
+
+
+### Action definition of angular ngrx architecture
+
+The purpose of the action file is to define actions of which to take effects. 
+In a typical page where we have to load specific data. We have 3 basics actions : 
+
+* The page loading itself (start with On)
+* The action of loading the data (start with Load)
+* The action of receiving the data (end with Loaded)
+
+An other convention used in this file is : 
+
+* to end type representing object received from the server my MD. (Model data)
+* To end type representing object sent to the server by TO (Transfer Object) 
+
+
+<script src="https://gist.github.com/sinsunsan/d7ee9776e2b586d9b0a9f71f51b6a36e.js"></script>
