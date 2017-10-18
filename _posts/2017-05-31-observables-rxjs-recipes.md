@@ -9,6 +9,16 @@ published: true
 * [A more cleanly designed doc that the original](https://www.learnrxjs.io)
 * [rxjs / The original doc](http://reactivex.io/rxjs/)
 
+### Create a timer with observable 
+
+Create a timer that will emit a value every 5000ms.
+
+````
+const timer = Rx.Observable.interval(5000);
+````
+
+[js bin example of 2 sources (2 intervals emitters) with  the second slower](http://jsbin.com/vujekucuxa/1)
+
 ### [Observable] Observable.combineLatest
 
 * **When to use?** : You have 2 queries or more. You need to do something depending of the results of those queries. For example  you need to wait for page params and get the connected user informations...

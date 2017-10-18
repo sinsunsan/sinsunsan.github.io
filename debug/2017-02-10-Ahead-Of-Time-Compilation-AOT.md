@@ -33,6 +33,10 @@ The code is precompiled so it take less time to download for each client and get
 * **Save http request**: The templates and css are inlined in the compilation process so you save many http request that slow down the loading
 * **Better security**: Less javascript evaluation mean less possiblity for vulnerability
 
+### AOT Coding style / DO and DON'T
+
+* [Rangle.io](https://github.com/rangle/angular-2-aot-sandbox) a github repo illustrated do and don't 
+
 ### How to install it in your projects
 
 * 1/ Download compiler libs
@@ -76,4 +80,4 @@ It will compile the code to aot folder
 
 * 7/ Change the boostraping
 
- * 8/ Add treeshaking with rollup
+* 8/ Add treeshaking with rollup

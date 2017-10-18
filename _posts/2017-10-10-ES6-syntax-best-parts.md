@@ -92,5 +92,8 @@ const commonModules = [
   ...otherComponents,
   { customObject: test },
 ]
-```
+````
 
+### Modules and imports 
+
+* [ES6 modules import syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)

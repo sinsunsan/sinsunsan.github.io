@@ -24,6 +24,14 @@ Ainsi que ses [cours](https://www.college-de-france.fr/site/yann-lecun/course-20
 [http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 
+* Machine learning / nice introduction with simple language
+
+[https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+
+
+* Github project with huge list of ressources on machine learning
+[https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)
+
 ### Installing python
 
 * Download 2.7 version of python
