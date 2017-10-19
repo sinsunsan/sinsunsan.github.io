@@ -4,7 +4,7 @@ title: Angular + Redux = NGRX / A  rxjs powered redux store
 published: true
 ---
 
-<img src="../images/ngrx-workflow.png">
+<img src="../images/ngrx-diagram.png">
 
 ### What it is?
 
@@ -80,7 +80,6 @@ npm install ngrx-store-freeze --save-dev
 
 you should then have in your package.json something like 
 <script src="https://gist.github.com/sinsunsan/395243962c2679b833179d429b60acd5.js"></script>
-
 
 ### NGRX terminology 
 
