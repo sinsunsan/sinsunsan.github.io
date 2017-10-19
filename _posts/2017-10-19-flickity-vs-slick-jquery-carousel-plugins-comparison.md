@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flickity vs Slick / Jquery carousel plugins comparision
+title: Flickity vs Slick / Jquery carousel plugins comparison
 published: true
 ---
 
