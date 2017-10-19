@@ -60,9 +60,6 @@ Look at [flatmap official doc](http://reactivex.io/documentation/operators/)flat
 
 * **When to use?** : To perform an action like logging that do not transform the observable result
 
-### [Operator] exhaustMap
-
-`import 'rxjs/add/operator/exhaustMap';`
 
 
 ### [Operator] catch
