@@ -18,7 +18,16 @@ Slick has a stable angular wrapper [ngx-slick](https://github.com/devmark/ngx-sl
 
 ### Features only in flickity 
 
-[Flickity options page](https://flickity.metafizzy.co/options.html)
+[All flickity options](https://flickity.metafizzy.co/options.html)
+
+**Options specific to flickity (not in slick)**
+
+* **freeScroll** / Allow to scroll not on a complete slide, but manually so you can stop where you want
+
+* **groupCells** / Group cells allow to advance slide groups by slide group (3 by 3 for example)
+
+* **asNavFro** / Double carousel sync to make a nav bar from one to control the larger one.
+<img src="./images/carousel-sync.png">
 
 ### Features in slick carousel 
 
