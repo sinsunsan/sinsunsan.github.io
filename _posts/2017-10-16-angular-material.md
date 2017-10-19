@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Material style guide line && Angular material : more useful parts
+title: Material - Most useful path
 published: true
 ---
 
