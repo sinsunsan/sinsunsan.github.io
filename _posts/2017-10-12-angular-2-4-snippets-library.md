@@ -27,3 +27,9 @@ An other convention used in this file is :
 
 
 <script src="https://gist.github.com/sinsunsan/d7ee9776e2b586d9b0a9f71f51b6a36e.js"></script>
+
+### Define a async pipe thanks to ng-if
+
+Allow to define a aync variable globally in a structural directive (*ngFor, *ngIf)
+
+<script src="https://gist.github.com/sinsunsan/427696be90ba076437299b2f3bed0266.js"></script>

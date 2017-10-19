@@ -64,6 +64,10 @@ We have put our [the angular 2 & 4 UI components libraries](/angular-2-4-ui-comp
 
 * [Ngx Slick](https://github.com/devmark/ngx-slick/tree/master/src) wrapper from [slick jquery plugin](http://kenwheeler.github.io/slick/)
 
+
+### Complex stackable grid
+
+* [Grid stack](http://gridstackjs.com/) and it's ng2 wrapper [ng2-gridstack](https://github.com/ApolloSSC/ng2-gridstack)
 ## Events
 
 * **ng-radio** a message bus for angular to replace missing $cope.$emit and allow sibling components to talk and more generally global casting of  a message. Use RxJs [https://github.com/govorov/ng-radio](https://github.com/govorov/ng-radio)
