@@ -196,8 +196,14 @@ Organize your code in a modular way. Import a module instead of importing a doze
 * How to use guards to prevent access to some pages
 [http://www.sparkbit.pl/angular-2-route-guards-real-life-example/](http://www.sparkbit.pl/angular-2-route-guards-real-life-example/)
 
-# Named router oulet (same as UI router)
+* Named router oulet (same as UI router)
 [http://onehungrymind.com/named-router-outlets-in-angular-2/](http://onehungrymind.com/named-router-outlets-in-angular-2/)
+
+* An interceptor for angular 4 
+[https://medium.com/@amcdnl/the-new-http-client-in-angular-4-3-754bd3ff83a8](https://medium.com/@amcdnl/the-new-http-client-in-angular-4-3-754bd3ff83a8)
+Mains changes : interceptor, json as a default reponse
+* [Other article about new router and interceptor](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
+* [a last article that talk about multiple interceptors](https://alligator.io/angular/httpclient-interceptors/)
 
 ## ES 6
 
@@ -277,3 +283,11 @@ import { OptionService }      from '../../../services/api/option.service';
 ### Responsive
 
 * [Responsive directive to display / hide and more](https://github.com/ManuCutillas/ng2-responsive)
+
+
+### Error handler 
+
+* Example of [an interceptor to server as an error handler with then new router - juil 2017](https://medium.com/@amcdnl/the-new-http-client-in-angular-4-3-754bd3ff83a8) For exemple it intercept and d things when request have a status code of let's say 403
+ * Global error handler [https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
+ * Error handler by extending a [https://hackernoon.com/global-http-request-error-catching-in-angular-486a319f59ab](https://hackernoon.com/global-http-request-error-catching-in-angular-486a319f59ab)
+

@@ -424,3 +424,14 @@ export class SlickCarouselItem {
 }
 ````
 
+
+
+### Http interceptor
+
+Http intercetptor intercept http requests for example to add a token to all API request.
+
+Define interceptor service in the app.module.ts
+<script src="https://gist.github.com/sinsunsan/fabb4e7dc983967b902b272b338f0516.js"></script>
+
+Example of intecptor file
+<script src="https://gist.github.com/sinsunsan/bb490aafddbf10dfa88ba24cd7b799ec.js"></script>

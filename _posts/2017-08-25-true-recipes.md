@@ -31,7 +31,6 @@ So please read in french or get it translated by google.
 
 ### Filet mignon à la sauce au kiwi avec caviar d'aubergine et poivron grillé
 
-
 #### Ingredients 
 
 * un filet mignon 
@@ -56,7 +55,6 @@ So please read in french or get it translated by google.
 * Pour le poivron, enlever la peau en appuyant sur le poivron pour l'écraser, elle devrait partir toute seule
 * Servir séparément : caviar d'aubergine, poivron grillé et filet mignon avec sa farce tomate + ail + kiwi
 
-
 ### Sauce au navet 
 
 Une petite sauce fraiche et originale pour assaisonner un plat végétarien, de  poisson ou ce que vous voulez. Le navet va donner une onctuosité et une épaisseur, la tomate et le citron vont prendre le pas sur l'amertume du navet. Enfin épices et ail vont donner du goût. 
@@ -79,7 +77,7 @@ Une petite sauce fraiche et originale pour assaisonner un plat végétarien, de 
 * Mixer
 * Mettre citron et épices comme vous souhaitez
 
-### Choux farcis au  poisson, sauce au navet et boulgour / quinoa
+### Choux farcis au poisson, sauce aux navets et au boulgour / quinoa
 
 #### Ingredients 
 
@@ -98,15 +96,28 @@ mais pas trop car la cuisson va continuer au four
 * préparer les choux farcis en mettant un bout de poisson, du boulgour et une cuillère de sauce au navet (recette ci-dessus) Utiliser 2-3 feuilles par rouleaux que vous pouvez fermer avec un cure dent mais pas obligé. 
 * Faire cuire au four 20-3°0 minutes en recouvrant des grandes feuilles vertes que vous pouvez garder pour la présentation du plat. 
 
-### Sauce de lamelles de choux à la tomate et au vinaigre
-
+### Lamelles de choux à la tomate et au vinaigre
 
 #### Ingredients 
 
-* Choux vert 
+* Choux vert (ou choux frisé)
 * Vinaigre japonais
 * Tomate
 * Epice : curcuma, cumin....
+* Oignon, ail
 
 ###  Pas à pas 
+
+* Effeuiller le choux en enlevant les feuilles extérieures
+* Faites blanchir (bouillir 10 minutes) le choux vert
+* Faites bouillir la tomate 1-2 minutes dans la même eau que le choux
+* Faire revenir ail et oignon dans de l'huile d'olive avec les épices
+* Une fois le choux et la tomate pré-cuites, couper le choux en lamelles pas trop petites 
+* Mettre les lamelles de choux dans la casserole et faites revenir
+* Enlever la peau de la tomate et ajouter au chou 
+* Ajouter le vinaigre japonais, il va rendre le choux plus doux et sucré
+* Mettre un couvercle, baisser le feu et faites revenir 15 minutes environ
+* Vous pouvez rajouter des raisins secs en cours de cuisson
+* Une fois prêt vous pouvez servir comme accompagnement d'un plat végétarien par exemple avec du couscous et de la purée d'avocat, le choux et la tomate étant légerement sucrés cela donnera une saveur complementaire
+
 
