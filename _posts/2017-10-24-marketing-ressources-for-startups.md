@@ -14,3 +14,11 @@ published: true
 ###  Design inspirations
 
 * [https://www.canva.com/templates/](https://www.canva.com/templates/)
+
+
+### Illustrations or images banks 
+
+* [https://www.freepik.com](https://www.freepik.com)
+* [https://www.shutterstock.com/](https://www.shutterstock.com/)
+* [https://www.bigstockphoto.com](https://www.bigstockphoto.com)
+* [https://www.dreamstime.com](https://www.dreamstime.com)
