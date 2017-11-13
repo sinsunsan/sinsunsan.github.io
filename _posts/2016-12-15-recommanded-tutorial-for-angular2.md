@@ -67,22 +67,27 @@ Some more advanced form topics like automatically adding class for bootstrap or 
 A way to organize component to differentiate presentational component highly reusable and intelligent component that actually handle the logic and specific stuff
 [https://teropa.info/blog/2016/02/22/dumb-components-and-visual-feedback-in-angular-apps.html]()
 
-#### viewChildren 
+### viewChildren 
 
 * [View children, view child and query list](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e) 
 
-## Components @input
+### Components @input
 
-* How to define a inner child component property on-change to allow pass observable as input.   [http://almerosteyn.com/2016/03/immutable-component-input-from-observable](http://almerosteyn.com/2016/03/immutable-component-input-from-observable)
+* How to define a inner child component property on-change to allow pass observable as input. [http://almerosteyn.com/2016/03/immutable-component-input-from-observable](http://almerosteyn.com/2016/03/immutable-component-input-from-observable)
 
-## Component ngInit vs constructor
+### Component ngInit vs constructor
 
 * Difference between constructor and ngOnInit     
  [http://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit](http://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit)
 
-## Dynamic component / Component inheritance / Communication between components...
+### Dynamic components
 
-* dynamically creating component in angular 2 [http://blog.rangle.io/dynamically-creating-components-with-angular-2/](http://blog.rangle.io/dynamically-creating-components-with-angular-2/)
+* [Dynamically creating component in angular 2](http://blog.rangle.io/dynamically-creating-components-with-angular-2/)
+
+* [Another dynamic component creation tutorial](https://netbasal.com/dynamically-creating-components-with-angular-a7346f4a982d)
+
+
+### Communication between components
 
 * Component inheritance introduced in 2.3     
 [https://scotch.io/tutorials/component-inheritance-in-angular-2](https://scotch.io/tutorials/component-inheritance-in-angular-2)
@@ -94,8 +99,14 @@ A way to organize component to differentiate presentational component highly reu
     * With @viewchild that allow to manipulate child methods
     * With a service and observable subject
 
-[https://angular.io/docs/ts/latest/cookbook/component-communication.html](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
+* [https://angular.io/docs/ts/latest/cookbook/component-communication.html](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
 
+
+* [Access child DOM and methods @viewChild and template variable](https://alligator.io/angular/viewchild-access-component/)
+
+### Ng-template 
+
+* [ng-template](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 ### DOM
 
 * How to use the angular 2 renderer service to manipulate the DOM in a way all platforms (server, browser, mobile.. can accept)
@@ -139,7 +150,6 @@ RxJs is the  implementation of Observable used by angular which is being develop
 [http://reactivex.io/documentation/operators.html#transforming](http://reactivex.io/documentation/operators.html#transforming)
 
 ## ngFor, ngIf, ...
-
 
 * Revision of what ngFor can do
    * how to get the index
@@ -204,6 +214,8 @@ Organize your code in a modular way. Import a module instead of importing a doze
 Mains changes : interceptor, json as a default reponse
 * [Other article about new router and interceptor](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
 * [a last article that talk about multiple interceptors](https://alligator.io/angular/httpclient-interceptors/)
+
+* [Router events](https://toddmotto.com/dynamic-page-titles-angular-2-router-events) Events that trigger at route change start, end...
 
 ## ES 6
 
@@ -284,6 +296,10 @@ import { OptionService }      from '../../../services/api/option.service';
 
 * [Responsive directive to display / hide and more](https://github.com/ManuCutillas/ng2-responsive)
 
+
+###  Theming 
+
+* [https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
 
 ### Error handler 
 

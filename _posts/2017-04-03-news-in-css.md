@@ -13,6 +13,30 @@ CSS is still evoluting.
 
 Also the number of possibilities in css is high. And probably as me, you have missed some handy or cool stuff css3 or more have brought to css.
 
+### Boostrap 4 
+
+<img src="./boostrap-flexbox.png" alt="new featurs in boostrap 4" />
+
+* [What changes in v4 version](https://hackernoon.com/what-changed-in-bootstrap-4-0-ca3cbbf4f62f)
+    * sass
+    * grid with flexbox (allow vertical alignement)
+    * grid unit less columns
+    * rem font sizing 
+    * new small screen breakpoints  
+
+### CSS Grid 
+
+ Learn  grid  with [grid garden](http://cssgridgarden.com/) learning game
+
+### Flexbox
+
+Learn flexbox with [flexbox froggy](http://flexboxfroggy.com/) learning game
+
+### CSS counter 
+
+When you have a list of item and use a `content` tag to define content with css. And what if you want to add to this content the number of item in a list without changing the js. 
+
+The [css counter](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters) are exactly for that.
 
 ### **transition**
 
@@ -122,6 +146,3 @@ Set automatically browser prefix for you
 
 [http://cssreference.io/flexbox/](http://cssreference.io/flexbox/)
 
-* **Hide outline in an accessible way** 
-* 
-[https://jmperezperez.com/outline-focus-ring-a11y/](https://jmperezperez.com/outline-focus-ring-a11y/)

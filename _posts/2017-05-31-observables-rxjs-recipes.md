@@ -76,6 +76,12 @@ Look at [flatmap official doc](http://reactivex.io/documentation/operators/)flat
 * **When to use?** : When you want to limit the number of returned elements. For example take only the 5 first elements of a stream of observable.
 [Learn RXJS doc on take](https://www.learnrxjs.io/operators/filtering/take.html)
 
+### [Filter] filter
+
+* **When to use?** : Select the condition to received a given obersable, for example you want to make an api call only if the parameters are available 
+
+[Learn RXJS on filter](https://www.learnrxjs.io/operators/filtering/filter.html)
+
 ### [Operator] withLatestFrom
 
 `import 'rxjs/add/operator/withLatestFrom';`

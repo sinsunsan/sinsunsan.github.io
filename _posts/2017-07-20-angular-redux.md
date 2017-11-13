@@ -37,6 +37,8 @@ Redux is a way to store in a centralized place data so that all the app  can udp
 
 * [understanding the [] for ngrx action type](http://www.wisdomofjim.com/blog/understanding-the-__-___-___-syntax-for-ngrx-action-types)
 
+* [Get state in effects](https://medium.com/@viestursv/how-to-get-store-state-in-ngrx-effect-fab9e9c8f087)
+
 ### Reading blog university tutorial notes
 
 * The tuto start with a description of the facebook counter bug that initiated the switch to a redux like architecture for Facebook homepage. 

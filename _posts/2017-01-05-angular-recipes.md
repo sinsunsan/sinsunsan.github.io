@@ -435,3 +435,8 @@ Define interceptor service in the app.module.ts
 
 Example of intecptor file
 <script src="https://gist.github.com/sinsunsan/bb490aafddbf10dfa88ba24cd7b799ec.js"></script>
+
+
+### Execute a function with a delay in an angular component
+
+<script src="https://gist.github.com/sinsunsan/d7aa65e35a377d3f4b71b7162f4d1a26.js"></script>

@@ -13,4 +13,4 @@ We are going to list expression encountered while reading that we should use to 
 
 
 * Bear in mind
-`Please bear in mind you will have to supply both side of the conversation`
+`Please bear in mind you will have to supply both side of the conversation
