@@ -33,3 +33,11 @@ An other convention used in this file is :
 Allow to define a aync variable globally in a structural directive (*ngFor, *ngIf)
 
 <script src="https://gist.github.com/sinsunsan/427696be90ba076437299b2f3bed0266.js"></script>
+
+
+### Use a template variable inside a component class
+
+
+Template variable #myvar is accessible in the component js, with @viewchild and elementRef. Here is an example code snippet.
+
+<script src="https://gist.github.com/sinsunsan/3ac829ab31f93e83c19c0d67ba60b8ea.js"></script>
