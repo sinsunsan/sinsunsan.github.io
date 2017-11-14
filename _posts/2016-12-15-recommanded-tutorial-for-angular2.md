@@ -104,9 +104,11 @@ A way to organize component to differentiate presentational component highly reu
 
 * [Access child DOM and methods @viewChild and template variable](https://alligator.io/angular/viewchild-access-component/)
 
-### Ng-template 
+### Ng-template, ng-container, ng-template-outlet
 
 * [ng-template](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+
+
 ### DOM
 
 * How to use the angular 2 renderer service to manipulate the DOM in a way all platforms (server, browser, mobile.. can accept)
