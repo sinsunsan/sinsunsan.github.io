@@ -13,7 +13,7 @@ But do not lose all esperances, we may prevent that sad end by putting in pratic
 
 <ul>
   <li>
-    <a href="#global">Global</a>
+    <a href="#global">Global problems</a>
   </li>
   <li>
    <a href="#sea-rise">Sea rise</a>
