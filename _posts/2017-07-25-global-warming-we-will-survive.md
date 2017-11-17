@@ -13,9 +13,20 @@ If we fail though, you can read our sibling article : [Global Warning : the huma
 
 <ul>
   <li>
+   <a href="#solutions">Solutions</a>
+  </li>
+  <li>
    <a href="#photovoltaic">Photovoltaïc</a>
   </li>
 </ul> 
+
+<h3 id="solutions">Solutions</h3>
+
+* [Six global massive changes that show that the world have started to move in the good direction](https://www.theguardian.com/environment/2017/nov/08/seven-megatrends-that-could-beat-global-warming-climate-change?CMP=share_btn_tw)
+
+Good news: Renewable energies, Vegetal alimentation, New batteries, Electric cars, Energetic  efficency, Decliling coal industry 
+
+Bad news: Deforestation 
 
 <h3 id="photovoltaic">Photovoltaïc</h3>
 

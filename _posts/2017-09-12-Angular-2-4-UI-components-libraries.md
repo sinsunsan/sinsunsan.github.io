@@ -45,6 +45,10 @@ Plus it's angular 2 library
 
 [http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
 
-### Specific library 
+### Specific libraries
 
 * **ng2-sticky** Allow a div to be sticky and stay at the same place in the screen independantly of the scroll [https://github.com/makseo/ng2-sticky](https://github.com/makseo/ng2-sticky)
+
+### Grids 
+
+* **angular2Grister** [https://swiety85.github.io/angular2gridster/](https://swiety85.github.io/angular2gridster/) Good to make jquery, with no jquery dependency
