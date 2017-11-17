@@ -26,9 +26,8 @@ If we fail though, you can read our sibling article : [Global Warning : the huma
 
 * [Six global massive changes that show that the world have started to move in the good direction](https://www.theguardian.com/environment/2017/nov/08/seven-megatrends-that-could-beat-global-warming-climate-change?CMP=share_btn_tw)
 
-Good news: Renewable energies, Vegetal alimentation, New batteries, Electric cars, Energetic  efficency, Decliling coal industry 
-
-Bad news: Deforestation 
+    * **Good news**: Renewable energies, Vegetal alimentation, New batteries, Electric cars, Energetic  efficency, Decliling coal industry 
+    * **Bad news**: Deforestation 
 
 * [6 pays cherchent à être indépendant energetiquement et completement décarbonnées](http://www.lejournalinternational.info/six-pays-qui-cherchent-lindependance-energetique/)
 
@@ -36,7 +35,7 @@ L'Islande, la Norvège, L'éthiopie, Le Costa Rica, L'urugay et le Brésil sont 
 
 * [Dominique Bourg nous parle de la perception des risques et de l'évolution de la prise en compte du changement climatique.](https://www.franceculture.fr/emissions/matieres-penser-avec-dominique-rousset/penser-le-futur-en-democratie)
 
-Dominique Bourg a dirigé l'ouvrage collectif : (le dictionnaire de la pensée écologique)[https://www.puf.com/content/Dictionnaire_de_la_pens%C3%A9e_%C3%A9cologique].
+Dominique Bourg a dirigé l'ouvrage collectif : [le dictionnaire de la pensée écologique](https://www.puf.com/content/Dictionnaire_de_la_pens%C3%A9e_%C3%A9cologique).
 
 <h3 id="photovoltaic">Photovoltaïc</h3>
 
