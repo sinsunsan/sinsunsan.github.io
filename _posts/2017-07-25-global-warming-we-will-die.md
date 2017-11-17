@@ -33,10 +33,10 @@ But do not lose all esperances, we may prevent that sad end by putting in pratic
 <h3 id="carbon">Carbon effects</h3>
 * [Les effets du carbones dans les glaciations passées et ce qu'il nous apprend sur la  crise du climat actuel](http://huet.blog.lemonde.fr/2017/11/16/lavertissement-de-la-terre-boule-de-neige)
 
-La faible teneur en CO2 dans l'athmosphère est responsable combiné avec les causes astronomiques des phénomènes dit de "boule de glace" où la terre était entièrement revetue d'un important couche de glace. A l'inverse sa forte teneur due aux eruptions volcaniques a permis plusieurs fois de dégeler le manteau de glace, même si cette dernière renvoyait 90% de l'energie solaire à cause de la couleur blanche (son albedo).
-Cela nous montre le pouvoir très fort que ce gaz a eu dans le passé et a actuellement dans le context du rechauffement acceleré de la terre.
+La faible teneur en CO2 dans l'athmosphère est responsable, combiné avec les causes astronomiques, des phénomènes dit de "boule de glace", où la terre était entièrement revetue d'une importante couche de glace. A l'inverse sa forte teneur due aux éruptions volcaniques a permis plusieurs fois de dégeler le manteau de glace, même si cette dernière renvoyait 90% de l'energie solaire à cause de sa couleur blanche (l'albedo = taux de reflexion).
+Cela nous montre le pouvoir très fort que le CO2 a déjà eu dans le passé et a donc actuellement dans le contexte du rechauffement accéleré de la terre.
 
-<img src="../images/carbon-emission-2017.png"
+<img src="../images/carbon-emission-2017.png">
 
 <h3 id="sea-rise">Sea rise</h3>
 
