@@ -20,6 +20,7 @@ But do not lose all esperances, we may prevent that sad end by putting in pratic
   </li>
   <li>
     <a href="#carbon">Carbon effects</a>
+  </li>
 </ul> 
  
 <h3 id="global">Global</h3>

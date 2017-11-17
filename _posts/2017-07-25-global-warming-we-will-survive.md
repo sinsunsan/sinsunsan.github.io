@@ -10,7 +10,6 @@ This article is a in progress compilation of links to documentate the efforts an
 
 If we fail though, you can read our sibling article : [Global Warning : the humanity will die](http://dev.sebastienlucas.com/global-warming-we-will-die)
 
-
 <ul>
   <li>
    <a href="#solutions">Solutions</a>
