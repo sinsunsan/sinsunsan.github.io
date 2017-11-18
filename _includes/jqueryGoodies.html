@@ -1,0 +1,12 @@
+{% if site.jqueryGoodies %}
+  <script
+  src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+  integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+  crossorigin="anonymous"></script>
+  <script>
+    // https://github.com/jekyll/jekyll/issues/2690
+    $('.h2,h3,h4,h5,h6').filter('[id]').each(function () {
+      $(this).html('<a href="#'+$(this).attr('id')+'">' + $(this).text() + '</a>');
+    });
+  </script>
+{% endif %}
