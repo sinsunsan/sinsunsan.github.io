@@ -1,6 +1,6 @@
 ---
 layout: post
-title: True recipes
+title: Cooking recipes log
 published: true
 ---
 
@@ -19,7 +19,7 @@ You will say :
 * plants blog
 * ...
 
-Mixin french and english post too.
+Mixing french and english post too.
 
 It is too much ! 
 
@@ -29,7 +29,7 @@ It is too hard for me to write in english about cooking, as I have a lot of voca
 
 So please read in french or get it translated by google.
 
-### Filet mignon à la sauce au kiwi avec caviar d'aubergine et poivron grillé
+### Filet mignon à la sauce au kiwi avec caviar d'aubergine et poivrons grillés
 
 #### Ingredients 
 
@@ -119,5 +119,31 @@ mais pas trop car la cuisson va continuer au four
 * Mettre un couvercle, baisser le feu et faites revenir 15 minutes environ
 * Vous pouvez rajouter des raisins secs en cours de cuisson
 * Une fois prêt vous pouvez servir comme accompagnement d'un plat végétarien par exemple avec du couscous et de la purée d'avocat, le choux et la tomate étant légerement sucrés cela donnera une saveur complementaire
+
+### Champignons emincés à l'huile de sesame et au cumin
+
+#### Servir avec
+
+Des pommes de terres, du riz... comme acompagnement 
+
+#### Ingredients 
+
+* Champinon de Paris Blond
+* Huile de sesame 
+* Graine de cumin
+* Vinaingre de riz
+* Piment
+* Curcuma 
+* Sel 
+* Ail 
+* Huile d'olive
+
+#### Pas à pas 
+
+* Faire revenir l'ail dans l'huile d'olive les graines de cumins
+* Rajouter les champignons emincés finement 
+* Soupoudrer de curcuma, piment, et sel
+* Au bout de 5 minutes rajouter un peu d'huile  de sesame (pas trop le gout et très fort) et du vinaigre de riz japonais / L'huile donne un gout un peu amer mais fort en gout, le vinaigre japonais amolli et sucre legerement 
+* Continuer à cuire 5 minutes
 
 
