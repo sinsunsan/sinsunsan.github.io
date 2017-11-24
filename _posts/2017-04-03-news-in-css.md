@@ -113,7 +113,10 @@ Allow to size depending of the screen size, ideal for full width
 
 Flexbox based solutions
 
+### position sticky 
 
+* (Can I use Sticky)[https://caniuse.com/#feat=css-sticky]
+* Sticky Bits https://css-tricks.com/stickybits-alternative-position-sticky-polyfills/
 
 Classical solutions :
 
@@ -146,3 +149,9 @@ Set automatically browser prefix for you
 
 [http://cssreference.io/flexbox/](http://cssreference.io/flexbox/)
 
+
+### SCSS / SASS
+
+* SASS MAPS 
+
+[http://clubmate.fi/sass-maps-syntax-examples-and-good-things/](http://clubmate.fi/sass-maps-syntax-examples-and-good-things/)

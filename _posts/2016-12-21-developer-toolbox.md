@@ -21,6 +21,14 @@ Alternatives are :
 
 Though Firefox have interesting features with a nice design of the debugger. Chrome offer more extensions and mainly I am  more used to chrome for good or bad reasons.
 
+### Online coding
+
+Allow to test code online before puting in your project
+* [Stackblitz](https://stackblitz.com)
+* Js bin
+* Plunkr
+* Code edit
+* ...
 
 ## A terminal
 

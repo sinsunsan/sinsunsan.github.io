@@ -5,6 +5,11 @@ title: The tutorials I've read to learn Angular 2-4
 ---
 Here is a curated list of some good tutorials we used to learn the version 2 of angular.
 
+### Web components 
+
+* [https://www.sitepen.com/blog/2017/09/14/using-web-components-with-angular](https://www.sitepen.com/blog/2017/09/14/using-web-components-with-angular)
+How to integrate web components in angular
+
 ## General
 
 * Official angular 2 tutorial      
@@ -201,6 +206,8 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 * Simple tutorial to do a custom  pipe available in its components then make it available application wide    [https://scotch.io/tutorials/create-a-globally-available-custom-pipe-in-angular-2](https://scotch.io/tutorials/create-a-globally-available-custom-pipe-in-angular-2)
 
+* [Angular date pipe tutorial](https://loiane.com/2017/08/angular-tips-formatting-dates-with-a-custom-date-pipe-dd-mm-yyyy/)
+
 ## Router
 
 * In depth practical article on the new  angular 2 router     [https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router](https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router)
@@ -301,7 +308,13 @@ import { OptionService }      from '../../../services/api/option.service';
 
 ###  Theming 
 
-* [https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
+* [https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1](https://medium.com/@tomastrajan)
+
+<div>
+Allow to use angular  material theming abstraction (you do not need to use other aspect of material if you do not want). Though it complicate a bit the scss handling, it is a great enhancement for let's say use case where you want to customize your app for your clients, or allow the user to change it's profile visual aspect. Angular material have an opinated but intelligent way of handling colors, that is portable is different environment : mobile, desktop....
+</div>
+
+<script src="https://gist.github.com/sinsunsan/07a6971f30d381dbf26a5eda00f3786c.js"></script>
 
 ### Error handler 
 

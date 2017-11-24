@@ -29,6 +29,15 @@ Most popular css framwework comparison : material / semantic ui / boostrap / fou
 
 * [Utility opentype](https://github.com/kennethormandy/utility-opentype) css classes to apply sophisticated typographic styles easily
 
+### Icons 
+
+* Material
+* Font-awesome 
+* Ionic
+    * https://github.com/ionic-team/ionicons
+    * http://ionicons.com/cheatsheet.html
+    * https://infinitered.github.io/ionicons-version-3-search
+    * https://ionicframework.com/docs/ionicons/
 
 ### Animations
 
