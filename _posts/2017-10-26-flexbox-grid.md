@@ -4,7 +4,7 @@ title: Flexbox grid system
 published: true
 ---
 
-<img src="./images/flex-masonry.png" alt="masonry with flexbox"/>
+<img src="../images/flex-masonry.png" alt="masonry with flexbox"/>
 
 * [Flexbox grid](http://flexboxgrid.com/) simple grid system based on twbs grid class name for basic thing but ehancing it to new flexbox powered features.
 
@@ -14,4 +14,4 @@ The [Demo on codepen](https://codepen.io/jh3y/pen/vgZWZL)
 
 
 * [A game based on positioning frog on lily to  learn flexbox](http://flexboxfroggy.com)
-<img src="./images/flexbox-frog.png" alt="a game to learn flexbox">
+<img src="../images/flexbox-frog.png" alt="a game to learn flexbox">
