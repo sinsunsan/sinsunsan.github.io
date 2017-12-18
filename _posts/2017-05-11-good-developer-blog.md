@@ -20,7 +20,6 @@ Here is a working progress article where I list some intersting blogger blog.
 
 [http://tobiasahlin.com/blog/tutorials/](http://tobiasahlin.com/blog/tutorials/)
 
-[http://tobiasahlin.com/blog/tutorials/](http://tobiasahlin.com/blog/tutorials/)
 ### Collective blogs or platform
 
 * **Aligator.io** 
