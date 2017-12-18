@@ -24,6 +24,6 @@ Here is a working progress article where I list some intersting blogger blog.
 
 * **Aligator.io** 
 
-(https://alligator.io/)[https://alligator.io/]
+[https://alligator.io](https://alligator.io/)
 
 
