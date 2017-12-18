@@ -16,7 +16,7 @@ Here is a working progress article where I list some intersting blogger blog.
 * **Loiane Groner** Brasilian woman developer that work on angular but is a also a great specialist of ext.js (wrote several books on it).
 [https://loiane.com/](https://loiane.com/)
 
-* **Tobias Ahlin** Swedish designer / front blog. Interesting posts on data visualisation
+* **Tobias Ahlin** Swedish designer blog. Interesting posts on data visualisation, fonts... Participated in spotify, github.... and now minecraft.
 
 [http://tobiasahlin.com/blog/tutorials/](http://tobiasahlin.com/blog/tutorials/)
 
