@@ -214,3 +214,7 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ## Ng-template
 
 * [Ng-template](https://toddmotto.com/angular-ngfor-template-element#ng-template-element)
+
+## Animation 
+
+* [angular2-counto](https://github.com/izupet/angular2-counto) Animation from 0 to the number 

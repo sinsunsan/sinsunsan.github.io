@@ -77,7 +77,7 @@ Une petite sauce fraiche et originale pour assaisonner un plat végétarien, de 
 * Mixer
 * Mettre citron et épices comme vous souhaitez
 
-### Choux farcis au poisson, sauce aux navets et au boulgour / quinoa
+### Choux farcis au poisson,sauce aux navets et au boulgour / quinoa
 
 #### Ingredients 
 
@@ -145,5 +145,22 @@ Des pommes de terres, du riz... comme acompagnement
 * Soupoudrer de curcuma, piment, et sel
 * Au bout de 5 minutes rajouter un peu d'huile  de sesame (pas trop le gout et très fort) et du vinaigre de riz japonais / L'huile donne un gout un peu amer mais fort en gout, le vinaigre japonais amolli et sucre legerement 
 * Continuer à cuire 5 minutes
+
+### Orecchiette aux moules et à l'oseille
+
+#### Ingredients 
+
+* Orecchiette n0 91 de cecco
+* Tomate apéritive Pomodorini en conserve (Marque de Cecco)
+* Oseille hachée surgellé
+* Moule surgellée
+* Ail
+* Echalotte 
+* Mirin
+* Curcuma
+* Sel
+
+#### Pas à pas
+
 
 

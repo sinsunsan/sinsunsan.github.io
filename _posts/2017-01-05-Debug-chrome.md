@@ -15,3 +15,4 @@ Display a list of flag (options) you can switch if needed.
 
 Community cheatsheet  about shortcuts and more
 https://github.com/jaredwilli/devtools-cheatsheet
+

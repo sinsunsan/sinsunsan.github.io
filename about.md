@@ -37,7 +37,7 @@ Current Explorations :
 My favorite  editor: [Atom.io](https://atom.io/)    
 My main project: [Bricks, Agile and open architecture app](http://www.bricksapp.io)
 
-### 2014-2016 : Full stack period (Angular + Node)
+### 2013-2016 : Full stack period (Angular + Node)
 
 My favorite editor : [Sublime text](https://www.sublimetext.com/)   
 My Main project : [Openbricks.io, the hub for open source architecture](http://www.openbricks.io)
@@ -46,14 +46,14 @@ My Main project : [Openbricks.io, the hub for open source architecture](http://w
 * In 2016 I worked for [Arsultima](http://www.arsultima) & Mosaïc
 * In 2015 I worked for [Holaspirit](https://www.holaspirit.com)
 * In 2014 I worked for [We Cook](https://www.wecook.fr)
+* In 2013 I Worked for different companies : AKQA, Isobar, Fullsix....
 
-### 2010-2013 : Drupal period (Drupal + Php)
+### 2010-2012 : Drupal period (Drupal + Php)
 
 My favorite editor : [Text Mate](https://macromates.com/)   
 My main project : [Archiref, the visual source of architecture](http://www.archiref.com)
 
 * From 2010 to 2013, I coded in PHP and with Drupal CMS (version 6)
-* In 2013 I Worked for different companies : AKQA, Isobar, Fullsix....
 * In 2012, I worked for [Rue 89](http://rue89.nouvelobs.com)
 * In 2011 I worked for [Plume.fr agency](http://plume.fr)
 

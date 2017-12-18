@@ -50,3 +50,7 @@ CMD + P (same short cut that in sublime text)
 it open a list of files 
 
 <img src="../images/chrome-debugger-file-list.png" alt="chrome file list debugger">
+
+### Debug on mobile 
+
+Use the [chrome debugger remote device](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3) feature with an adroid

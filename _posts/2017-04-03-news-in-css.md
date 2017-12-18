@@ -117,6 +117,8 @@ Flexbox based solutions
 
 * (Can I use Sticky)[https://caniuse.com/#feat=css-sticky]
 * Sticky Bits https://css-tricks.com/stickybits-alternative-position-sticky-polyfills/
+* More in depth article to understand position sticky [https://www.sitepoint.com/css-position-sticky-introduction-polyfills/](https://www.sitepoint.com/css-position-sticky-introduction-polyfills/)
+End of [2017 support](https://caniuse.com/#feat=css-sticky) for position sticky: supported by all expept IE.
 
 Classical solutions :
 

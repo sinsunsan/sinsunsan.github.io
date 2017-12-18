@@ -135,6 +135,7 @@ In this tuto, you learn how to do a wrapper of window to inject in with DI only 
 * **ng-show / ng-hide in angular 2** : the angular 2 solution is to bind to hidden prop but there is some issue so read  this article to decide which practice to use
 
 [http://www.talkingdotnet.com/dont-use-hidden-attribute-angularjs-2](http://www.talkingdotnet.com/dont-use-hidden-attribute-angularjs-2/)
+
 ## Observables / RxJS
 
 Angular 2 adopted this new concept of observable which basically is a more advanced form of promise.
@@ -171,10 +172,9 @@ RxJs is the  implementation of Observable used by angular which is being develop
 * [ng-template and odd, even, last variable in ngFor](https://toddmotto.com/angular-ngfor-template-element#accessing-first-last-odd-even)
 
 
-### Redux  inspired rxjs store 
+### Redux inspired rxjs store 
 
 * [https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course) Good introduction to the reactive architecture
-
 
 ## Modules
 
@@ -234,13 +234,12 @@ Mains changes : interceptor, json as a default reponse
 ## Typescript
 
 * Detailed explanation about how the modules resolution works for the typescript compiler. How typescript find a module when we write something like :   
-
 ````js
 // Relative import
 import { Component, Input }   from '@angular/core';
 // Non relative  import
 import { OptionService }      from '../../../services/api/option.service';
-````    
+````   
 
 [https://www.typescriptlang.org/docs/handbook/module-resolution.html](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
 
@@ -282,8 +281,14 @@ import { OptionService }      from '../../../services/api/option.service';
 
 * a bit old but clear [http://blog.mgechev.com/2016/07/05/using-stripe-payment-with-angular-2/]( http://blog.mgechev.com/2016/07/05/using-stripe-payment-with-angular-2/)
 
+### Commits, git....
 
-### test 
+* Automatical changelogs 
+[https://github.com/conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version
+)
+* Conventional commits a standard for commits [https://conventionalcommits.org/](https://conventionalcommits.org/)
+
+### Tests 
 
 * [automated test with angular 2](http://www.gistia.com/guide-end-end-testing-angular-2) 
 
@@ -307,6 +312,8 @@ import { OptionService }      from '../../../services/api/option.service';
 
 
 ###  Theming 
+
+* [The more detailed article on how /deep/ ::ng-deep, :host or :host-context works](https://www.concretepage.com/angular-2/angular-2-4-component-styles-host-host-context-deep-selector-example)
 
 * [https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1](https://medium.com/@tomastrajan)
 
