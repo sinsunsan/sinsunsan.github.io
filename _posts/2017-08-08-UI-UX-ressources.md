@@ -17,10 +17,28 @@ UI evolve with the sites and apps that use it. As in other fields, examples are 
 * [Patterns for mobile apps](http://pttrns.com)
 
 
-### Tools 
+### Fonts 
 
 * [Fonts converter](https://transfonter.org/) Convert TTF fonts or other to web fonts (eot, woff...), generate also the good css and create a family
 * [Fonts 2u](https://fr.fonts2u.com/) Download  fonts for desktop
+
+
+### Photos 
+
+* [Free stock photo selection](http://htmlcolorcodes.com/resources/ultimate-guide-to-free-stock-photos/) Good selection of high quality free stock photo covering different themes
+
+### Colors 
+
+#### Color theory 
+
+* [Basic of color harmony](http://htmlcolorcodes.com/color-picker/) A synthesis of color harmony rules
+
+#### Colors Tools 
+* [Colors.css](http://clrs.cc/) Nice replacement for  web default colors(named colors) also a [github project](https://github.com/mrmrs/colors)
+* [Paletton](http://paletton.com/) Good tool de generate a pallette depending of rules, simulation contrast, simulation of design integration, of color blindness....
+* [Coesive colors](http://javier.xyz/cohesive-colors/) Get a more  unified pallette by applying an overlay on it
+* [Color hunt](http://www.colorhunt.co/) Product hunt for colors / new pallettes published daily with like system
+* [Adobe color](https://color.adobe.com/) Adobe tool for color pallette
 
 ### Rules & Books
 

@@ -43,6 +43,11 @@ Allow to test code online before puting in your project
 
 * Ngrok [https://ngrok.com](https://ngrok.com) allow to make localhost available on www to share an url to others or test situations where a distant server need to access your machine (web hook for example).
 
+
+tuneling an app with a specific port to make it available on a mobile phone for example 
+```ngrok http --host-header=rewrite 4200```
+
+
 The following screen is what we see when we launch a port tunneling with ngrok.
 
 ```

@@ -4,6 +4,15 @@ title: Science podcasts
 published: true
 ---
 
+### Scientific sites and ressources 
+
+* Quanta Magazine / https://www.quantamagazine.org
+
+Nice layout, not so much news article, more focused on on depth analysis
+
+### Podcasts
+
+
 * **Au-delà de la théorie de la relativité générale**
 
 Bonne conférence sur le format table-ronde animée par l'excellent astrophysicien français Aurélien Barrau et le journaliste scientifique Laurent Sacco.
@@ -36,6 +45,10 @@ Ses défauts :
 
 [https://www.franceculture.fr/emissions/la-methode-scientifique/adn-un-brin-de-memoire](https://www.franceculture.fr/emissions/la-methode-scientifique/adn-un-brin-de-memoire)
 
+
+* **Fondement mental des mathématiques**
+
+https://www.college-de-france.fr/site/stanislas-dehaene/course-2017-03-27-09h30.htm
 
 
 * **Pourquoi le stress perturbe la prise de décision**

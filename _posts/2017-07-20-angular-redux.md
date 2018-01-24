@@ -31,9 +31,16 @@ Redux is a way to store in a centralized place data so that all the app  can udp
 
 * [https://kimsereyblog.blogspot.fr/2017/07/managing-global-state-with-ngrx-store.html](https://kimsereyblog.blogspot.fr/2017/07/managing-global-state-with-ngrx-store.html) Step by step exmaple of uses of the main ngrx concepts (store, reducer, selector...)
 
-### Go further / More specific articles
+### NGRX Selector 
+
+Selectors allow you to select part of the state to display it in component
 
 * [Understanding ngrx selector](http://www.wisdomofjim.com/blog/understanding-ngrx-selectors)
+* [More in depth article on what is a selector](https://toddmotto.com/ngrx-store-understanding-state-selectors)
+
+
+### Go further / More specific articles
+
 
 * [understanding the [] for ngrx action type](http://www.wisdomofjim.com/blog/understanding-the-__-___-___-syntax-for-ngrx-action-types)
 

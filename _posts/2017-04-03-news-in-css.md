@@ -26,8 +26,11 @@ Also the number of possibilities in css is high. And probably as me, you have mi
 
 ### CSS Grid 
 
- Learn  grid  with [grid garden](http://cssgridgarden.com/) learning game
+* Learn  grid  with [grid garden](http://cssgridgarden.com/) learning game
 
+* use of css grid in production right now ? https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout
+
+* another tutorial on css grid https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/
 ### Flexbox
 
 Learn flexbox with [flexbox froggy](http://flexboxfroggy.com/) learning game
