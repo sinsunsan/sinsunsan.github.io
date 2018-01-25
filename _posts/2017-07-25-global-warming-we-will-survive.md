@@ -15,6 +15,9 @@ If we fail though, you can read our sibling article : [Global Warning : the huma
    <a href="#global">Global</a>
   </li>
   <li>
+   <a href="#energy">Energy</a>
+  </li>
+  <li>
    <a href="#photovoltaic">Photovoltaïc</a>
   </li>
   <li>
@@ -37,6 +40,14 @@ L'Islande, la Norvège, L'éthiopie, Le Costa Rica, L'urugay et le Brésil sont 
 
 Dominique Bourg a dirigé l'ouvrage collectif : [le dictionnaire de la pensée écologique](https://www.puf.com/content/Dictionnaire_de_la_pens%C3%A9e_%C3%A9cologique).
 
+<h3 id="energy">Energy / Energetic Mix</h3>
+
+* Jean-Marc Jancovic a donné des conférences intéressantes qui permettent de mieux comprendre le besoin de quantifier le mix-enérgétique et son évolution pour comprendre le problème actuel et avoir une chance de le résoudre en prioritisant les actions qui ont le plus grand impact global. Un trés bon orateur, ses conférences en français sont très didactiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2JH6TwaDYW4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+https://jancovici.com/en/category/climate-change/predicting-the-future/
+
 <h3 id="photovoltaic">Photovoltaïc</h3>
 
 * [A giant photovoltaic central in China in the shape of a panda](https://twitter.com/brutofficiel/status/889840668389986305)
@@ -48,9 +59,3 @@ Dominique Bourg a dirigé l'ouvrage collectif : [le dictionnaire de la pensée �
 
 * [Pirogues recyclées en bouteilles en plastique au cameroun](http://www.lemonde.fr/afrique/article/2017/09/10/au-cameroun-des-pirogues-en-bouteilles-en-plastique-recyclees_5183663_3212.html)
 
-
-* Jean-Marc Jancovic a donné des conférences intéressantes qui permettent de mieux comprendre le besoin de quantifier le mix-enérgétique et son évolution pour comprendre le problème actuel et avoir une chance de le résoudre en prioritisant les actions qui ont le plus grand impact global. Un trés bon orateur, ses conférences en français sont très didactiques.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2JH6TwaDYW4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-https://jancovici.com/en/category/climate-change/predicting-the-future/
