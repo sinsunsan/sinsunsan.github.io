@@ -46,6 +46,8 @@ Selectors allow you to select part of the state to display it in component
 
 * [Get state in effects](https://medium.com/@viestursv/how-to-get-store-state-in-ngrx-effect-fab9e9c8f087)
 
+* [Library of ngrx pattern by Victor Savkin](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)
+
 ### Reading blog university tutorial notes
 
 * The tuto start with a description of the facebook counter bug that initiated the switch to a redux like architecture for Facebook homepage. 
