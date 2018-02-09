@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation of Docker by Aymen El Amri / COMET Meetups
+title: L'écosystème de Docker par Aymen El Amri / COMET Meetups
 published: true
 ---
 
