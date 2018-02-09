@@ -128,7 +128,7 @@ Un container par machine virtuelle sans orchestration c'est du gaspillage. Avec 
 [Traefik](https://github.com/containous/traefik) permet de gérer des micro-services. Les micro-services sont moins en vogue et rejoignent les conteneurs, car ils partagent les mêmes concepts, la découverte...
 
 <img 
-	src="docker-traefik-architecture.png"
+	src="../images/docker-traefik-architecture.png"
 	alt="Traefik micro-services + Docker"/>
 
 * **Le futur du conteneur ?**: 
