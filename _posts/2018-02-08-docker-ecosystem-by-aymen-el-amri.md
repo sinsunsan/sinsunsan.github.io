@@ -123,7 +123,7 @@ Pour une application très simple avec une API en node js et le front sur Angula
 
 Un container par machine virtuelle sans orchestration c'est du gaspillage. Avec de l'orchestration, on peut mettre beaucoups de conteneurs sur la même machine. Ils peuvent communiquer à travers un reseau interne, ou si si plusieurs machines, récréer un lien virtuel entre tout ces conteneurs sur plusieurs machines. 
 
-* **A tu testé Traefik ?**
+* **As-tu testé Traefik ?**
 
 [Traefik](https://github.com/containous/traefik) permet de gérer des micro-services. Les micro-services sont moins en vogue et rejoignent les conteneurs, car ils partagent les mêmes concepts, la découverte...
 
