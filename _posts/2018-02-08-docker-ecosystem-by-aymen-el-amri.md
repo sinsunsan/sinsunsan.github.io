@@ -4,6 +4,8 @@ title: L'écosystème de Docker par Aymen El Amri / COMET Meetups
 published: true
 ---
 
+<img src="../images/docker-aymen-amri.jpg", alt="docker ecosystem presentation de Aymen Amri">
+
 Meetup sur docker dans les locaux de Comet. 
 Comet, une startup qui aide les freelances à se connecter à des missions pour des grands groupes organisent régulièrement des [meetups](https://www.meetup.com/fr-FR/Comet-Meetups-for-Freelancers/) ciblant les développeurs.
 
