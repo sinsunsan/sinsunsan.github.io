@@ -49,4 +49,6 @@ Cela nous montre le pouvoir très fort que le CO2 a déjà eu dans le passé et 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Animation du chercheur <a href="https://twitter.com/anttilip">@anttilip</a> pour illustrer le changement de température dans divers pays depuis 1900. <a href="https://t.co/KAQgn0Netf">pic.twitter.com/KAQgn0Netf</a></p>&mdash; Bruno Guglielminetti (@Guglielminetti) <a href="https://twitter.com/Guglielminetti/status/892351408250531840">1 août 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* Coupure totale d'eau à Cap Town (2ème ville d'Afrique du Sud) prévue pour avril 
 
+http://www.lemonde.fr/afrique/article/2018/01/24/en-afrique-du-sud-vent-de-panique-au-cap-menace-d-etre-prive-d-eau_5246519_3212.html
