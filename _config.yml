@@ -55,6 +55,9 @@ baseurl: ""
 paginate: 10
 paginate_path: '/page-:num/'
 
+# https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/
+theme: cayman
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
