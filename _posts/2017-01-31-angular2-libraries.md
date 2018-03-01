@@ -218,3 +218,7 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ## Animation 
 
 * [angular2-counto](https://github.com/izupet/angular2-counto) Animation from 0 to the number 
+
+### DOM 
+
+https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02

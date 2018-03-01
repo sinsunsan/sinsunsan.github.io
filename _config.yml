@@ -6,7 +6,11 @@
 name: Sebastien Lucas
 
 # Short bio or description (displayed in the header)
+<<<<<<< HEAD
 description: Blog of a self-taught Angular developer / Node + Angular
+=======
+description: Blog of a self-taught Fullstack developer / Node + Angular
+>>>>>>> 970b4cb1a1ae66027e78ada2ef6796402213b484
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/sinsunsan/sinsunsan.github.io/master/images/sebastien_lucas2016.jpg
@@ -14,7 +18,7 @@ avatar: https://raw.githubusercontent.com/sinsunsan/sinsunsan.github.io/master/i
 #
 # Flags below are optional
 #
-
+  
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -51,6 +55,10 @@ url: http://dev.sebastienlucas.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# https://pablogonzalezalba.github.io/2017/02/23/jekyll-add-pagination.html
+paginate: 10
+paginate_path: '/page-:num/'
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -80,7 +88,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate # old pagination plugin 
+  #- jekyll-paginate # old pagination plugin 
 
 # Exclude these files from your production _site
 exclude:
