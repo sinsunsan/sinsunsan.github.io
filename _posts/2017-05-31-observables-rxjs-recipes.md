@@ -8,6 +8,7 @@ published: true
 
 * [A more cleanly designed doc that the original](https://www.learnrxjs.io)
 * [rxjs / The original doc](http://reactivex.io/rxjs/)
+* [A selection of 6 operators to know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 
 ### Create a timer with observable 
 

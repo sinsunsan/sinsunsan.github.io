@@ -7,6 +7,7 @@ published: true
 Very good introduction to Jasmine https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma
 
 Video explanation : talk about unit test, what is it, test in general...
+The jasmine Documentation https://jasmine.github.io/api/3.0/global.html#beforeEach
 
 ### JASMINE before / after functions
 
@@ -34,7 +35,7 @@ so write
 `fit('the test to focus on')`
 
 
-### The hiearchy of unit test 
+### The hierarchy of unit test 
 
 * A test suite : a group of test (describe)
 * A test spec : one individual test (it)
@@ -51,3 +52,21 @@ Karma is a test runner, it is not compulsary to use it. Though it is easier :
 
 https://github.com/karma-runner/karma/releases
 
+### Jasmine Spy 
+
+* https://www.htmlgoodies.com/html5/javascript/spy-on-javascript-methods-using-the-jasmine-testing-framework.html
+* https://jasmine.github.io/api/3.0/global.html#spyOn
+
+
+### Remove code duplication in Jasmine 
+
+https://juristr.com/blog/2014/10/avoid-test-code-duplication-jasmine
+Deplication using a way to invock describe by using a function 
+
+https://gist.github.com/traviskaufman/11131303 Git that explain why using **this** in the test context. 
+Some recent comment explained how to use it with typescript also.
+
+https://www.reddit.com/r/javascript/comments/60a10r/improve_your_javascript_unit_testing_with/ Discussion about how to write units tests with multiple expect in it or not, parametrized tests...
+
+https://gist.github.com/sinsunsan/cb1779b3b83a33fe8446bf27ef7f6149
+Exemple of parametrized test in javascript 

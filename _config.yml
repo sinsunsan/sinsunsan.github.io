@@ -6,7 +6,7 @@
 name: Sebastien Lucas
 
 # Short bio or description (displayed in the header)
-description: Blog of a self-taught Full stack developer / Node + Angular
+description: Blog of a self-taught Angular developer / Node + Angular
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/sinsunsan/sinsunsan.github.io/master/images/sebastien_lucas2016.jpg
@@ -75,9 +75,12 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
+# Plugins officialy suppported by github pages 
+# https://pages.github.com/versions/
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # old pagination plugin 
 
 # Exclude these files from your production _site
 exclude:

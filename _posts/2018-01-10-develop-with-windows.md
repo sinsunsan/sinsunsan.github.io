@@ -15,3 +15,5 @@ So here is some ressources, on how to develop with a windows OS.
 
 * Git bash https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
 * Cyg Win https://www.cygwin.com/
+* Com EMU https://conemu.github.io/
+* Console2 https://www.hanselman.com/blog/Console2ABetterWindowsCommandPrompt.aspx

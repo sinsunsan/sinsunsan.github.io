@@ -18,7 +18,17 @@ That make you test that an app have a title that it should have
 
 * http://www.protractortest.org/#/style-guide
 
+* https://github.com/CarmenPopoviciu/protractor-styleguide
+
 ### Get a better display of tests executions 
 
 * Display a nicer html version of the tests https://www.npmjs.com/package/protractor-jasmine2-html-reporter
 * Display how to specs are being evaluated in real time https://github.com/bcaudan/jasmine-spec-reporter
+
+### Debug tests 
+
+* Element not visible https://stackoverflow.com/questions/37809915/element-not-visible-error-not-able-to-click-an-element
+
+* browser.sleep(20000) give you 20s to inspect manually in the browser that the automated test opened what is going on
+
+* Use **fit** to the test you want to debug or build so that you don't waste time with the others. Just change it('') par fit('') for focus, and when you are done do change it back.
