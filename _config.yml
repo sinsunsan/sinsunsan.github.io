@@ -6,11 +6,7 @@
 name: Sebastien Lucas
 
 # Short bio or description (displayed in the header)
-<<<<<<< HEAD
-description: Blog of a self-taught Angular developer / Node + Angular
-=======
 description: Blog of a self-taught Fullstack developer / Node + Angular
->>>>>>> 970b4cb1a1ae66027e78ada2ef6796402213b484
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/sinsunsan/sinsunsan.github.io/master/images/sebastien_lucas2016.jpg
