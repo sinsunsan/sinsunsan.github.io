@@ -16,6 +16,6 @@ Lodash is great, we have an article about [most useful lodash functions](http://
 <script src="https://gist.github.com/sinsunsan/39c3573696e953fe075c317a77590c5a"></script>
 
 
-### Object.assign or spread operator
+### Object.assign or spread operator instead of _.defaults or _.extends, _.assign...
 
 <script src="https://gist.github.com/sinsunsan/4152a5c0fc6058fd876585792b611c3f.js"></script>
