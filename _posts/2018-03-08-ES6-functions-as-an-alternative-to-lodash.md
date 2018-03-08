@@ -13,7 +13,7 @@ Lodash is great, we have an article about [most useful lodash functions](http://
 
 ### Object.keys instead of _.keys
 
-<script src="https://gist.github.com/sinsunsan/39c3573696e953fe075c317a77590c5a"></script>
+<script src="https://gist.github.com/sinsunsan/39c3573696e953fe075c317a77590c5a.js"></script>
 
 
 ### Object.assign or spread operator instead of _.defaults or _.extends, _.assign...
