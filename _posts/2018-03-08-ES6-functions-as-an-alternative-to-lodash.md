@@ -8,7 +8,6 @@ Lodash is great, we have an article about [most useful lodash functions](http://
 
 ### array.reduce instead of _.keysBy
 
-
 <script src="https://gist.github.com/sinsunsan/4b733d2e03fb77c6bb8cea160fbb8ef7.js"></script>
 
 
@@ -16,3 +15,7 @@ Lodash is great, we have an article about [most useful lodash functions](http://
 
 <script src="https://gist.github.com/sinsunsan/39c3573696e953fe075c317a77590c5a"></script>
 
+
+### Object.assign or spread operator
+
+<script src="https://gist.github.com/sinsunsan/4152a5c0fc6058fd876585792b611c3f.js"></script>
