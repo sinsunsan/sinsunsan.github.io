@@ -185,6 +185,7 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 * The ng module FAQ is a good place to better understand the ngModules API fine tuning     [https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-declarable)
 
+* https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
 
 * The angular university tutorial on ngModule
 
