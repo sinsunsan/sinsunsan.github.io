@@ -70,3 +70,19 @@ https://www.reddit.com/r/javascript/comments/60a10r/improve_your_javascript_unit
 
 https://gist.github.com/sinsunsan/cb1779b3b83a33fe8446bf27ef7f6149
 Exemple of parametrized test in javascript 
+
+### Debug Jasmine test 
+
+* Error due to a missing selector with debugElement 
+
+```js
+const myElement = fixture.debugElement.query(By.css(.missing-class));
+// myElement.nativeElement will trigger an error
+```
+
+`Failed: Uncaught (in promise): TypeError: Cannot read property 'nativeElement' of undefined`
+
+
+* angular test with data that come from a resolver
+
+https://stackoverflow.com/questions/42656045/angular2-testing-and-resolved-data-how-to-test-ngoninit

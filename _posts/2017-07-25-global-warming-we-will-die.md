@@ -21,8 +21,13 @@ But do not lose all esperances, we may prevent that sad end by putting in pratic
   <li>
     <a href="#carbon">Carbon effects</a>
   </li>
+  <li>
+  	<a href="#biodiversity">Bio-diversity fall</a>
+  </li>
+  <li>
+  	<a href="#ocean">OCean</a>
+  </li>
 </ul> 
- 
 <h3 id="global">Global</h3>
 
 * [The Uninhabitable Earth](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) a list of many dangers that climate change will bring for humans that make us doubt if humanity will at the end survive...
@@ -52,3 +57,12 @@ Cela nous montre le pouvoir très fort que le CO2 a déjà eu dans le passé et 
 * Coupure totale d'eau à Cap Town (2ème ville d'Afrique du Sud) prévue pour avril 
 
 http://www.lemonde.fr/afrique/article/2018/01/24/en-afrique-du-sud-vent-de-panique-au-cap-menace-d-etre-prive-d-eau_5246519_3212.html
+
+
+<h3 id="biodiversity">Biodiversity Fall</h3>
+
+* [Menace d'extension massive de la Bio-diversité / 14-03-2018 / Le Monde](http://www.lemonde.fr/biodiversite/article/2018/03/14/face-au-choc-climatique-la-biodiversite-menacee-d-extinctions-massives_5270456_1652692.html)
+
+<h3 id="ocean">Ocean acidification and desoxigenation</h3>
+
+ * [Océans : une usine chimique qui se dérègle](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-mardi-13-mars-2018)
