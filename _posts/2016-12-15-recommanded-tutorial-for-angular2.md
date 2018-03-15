@@ -19,6 +19,7 @@ How to integrate web components in angular
 * 132+ Video tutorial on specific pratical cases
 [https://egghead.io/technologies/angular2](https://egghead.io/technologies/angular2)
 * nicely focused tutorials on a medium hoste dev site [https://netbasal.com/tagged/angular2](https://netbasal.com/tagged/angular2)
+* Very well done and free tutorial on angular https://codecraft.tv/courses/angular The good aspect is that the tutorials have both a video a a detailed instruction. And that all the learnings are well size to be progressive.
 
 
 ### Data binding

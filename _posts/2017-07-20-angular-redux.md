@@ -42,6 +42,8 @@ Selectors allow you to select part of the state to display it in component
 ### Go further / More specific articles
 
 
+* Errors not to be done with  NGRX 
+http://brianflove.com/2017/11/01/ngrx-anti-patterns
 * [understanding the [] for ngrx action type](http://www.wisdomofjim.com/blog/understanding-the-__-___-___-syntax-for-ngrx-action-types)
 
 * [Get state in effects](https://medium.com/@viestursv/how-to-get-store-state-in-ngrx-effect-fab9e9c8f087)
@@ -82,8 +84,7 @@ But since 4 version all those packages are put in [one github repository](https:
 npm install @ngrx/store @ngrx/store-devtools @ngrx/router-store-builds @ngrx/effects --save
 ````
 
-
-Tigger an error is state is not correctly cloned  in the reducer
+Trigger an error is state is not correctly cloned  in the reducer
 
 ````
 npm install ngrx-store-freeze --save-dev
@@ -134,11 +135,11 @@ Every times an action is triggered can be
 * ngrx special action at initialisation
 
 ### Ngrx Dev tools
+
 <em>The raw tab or tree tab allow to navigate in the state values</em>
 <img src="../images/redux-dev-tools.png" alt="ngrx dev tools raw tab">
 
 
 * reducer the table 
 * the store the database as explained [comment of example app book reducer](https://github.com/ngrx/platform/blob/master/example-app/app/books/reducers/books.ts#L86)
-
 
