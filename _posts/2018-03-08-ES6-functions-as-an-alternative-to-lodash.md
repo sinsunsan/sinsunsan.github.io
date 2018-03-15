@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ES6 functions to use as an alternative to lodash
+title: Javascript and ES6 functions to use as an alternative to lodash
 published: true
 ---
 
@@ -25,3 +25,11 @@ Convert an object with key to an array
 Clone an object 
 
 <script src="https://gist.github.com/sinsunsan/4152a5c0fc6058fd876585792b611c3f.js"></script>
+
+### Array.filter instead of _.filter
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
+### Array.find instead of _.find 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
