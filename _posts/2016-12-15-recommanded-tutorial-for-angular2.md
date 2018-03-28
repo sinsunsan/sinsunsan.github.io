@@ -195,6 +195,9 @@ Organize your code in a modular way. Import a module instead of importing a doze
 
 [https://angular.io/styleguide#!#application-structure-and-angular-modules](https://angular.io/styleguide#!#application-structure-and-angular-modules)
 
+* Clear and recent article on module and their differen types
+https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a
+
 ## Decorator / Annotation syntax [Typescript]
 
 * Difference between decorator and annotation [http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
