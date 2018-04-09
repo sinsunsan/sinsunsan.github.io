@@ -64,3 +64,9 @@ Others I do not use :
 Do not use passive form in english like it is so common in french.
 
 * **ce module permet de faire la recommandation** > this module enable recommandation plutot que "allow to do"
+
+### To me or For me 
+
+To me express the opinion and for me more the consequence / benefits on me
+https://english.stackexchange.com/questions/3098/expressing-an-opinion-to-me-or-for-me
+

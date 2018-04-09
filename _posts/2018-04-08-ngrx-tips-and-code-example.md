@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Ngrx tips and code examples
+title: Angular Ngrx tips and code examples
 published: true
 ---
 
-You can learn ngrx by watching the lesson of Todd Motto here 
+You can learn ngrx by watching the lesson of Todd Motto here. It is the most complete and linear way to learn ngrx. 
+You should do this before diving into more precise topics.
 https://platform.ultimateangular.com/courses/ngrx-store-effects
 
 ### Dispatch several actions from the same effects
@@ -15,7 +16,7 @@ https://platform.ultimateangular.com/courses/ngrx-store-effects
 
 ### React to query success with a snackbar, confirm
 
-Good tutorial that explain the refactoring of a component.
+Good tutorial that explain the refactoring of a component in ngrx
 http://brianflove.com/2018/01/10/ngrx-refactor-module/
 
 And a tutorial to put snackbar management in store 
@@ -28,5 +29,14 @@ https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506
 
 ### Using ngrx entity 
 
-Medium article that explain the new feature of entity that allow to save some boiler plate code and standardize our components with entity
+* Medium article that explain the new feature of entity that allow to save some boiler plate code and standardize our components with entity
 https://medium.com/ngrx/introducing-ngrx-entity-598176456e15
+
+* Not nice presentation but good example of using the adapter of ngrx entity
+https://www.concretepage.com/angular-2/ngrx/ngrx-entity-example#createEntityAdapter
+
+* Alligator blog tutorial on ngrx/entity
+https://alligator.io/angular/ngrx-entity/
+
+* The doc of  ngrx entity adapter on github 
+https://github.com/ngrx/platform/blob/master/docs/entity/adapter.md
