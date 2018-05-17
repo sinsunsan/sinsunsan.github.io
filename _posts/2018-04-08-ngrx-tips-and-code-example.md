@@ -40,3 +40,8 @@ https://alligator.io/angular/ngrx-entity/
 
 * The doc of  ngrx entity adapter on github 
 https://github.com/ngrx/platform/blob/master/docs/entity/adapter.md
+
+
+### Hot and cold observable 
+
+https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339
