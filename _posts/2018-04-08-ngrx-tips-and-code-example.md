@@ -12,7 +12,6 @@ https://platform.ultimateangular.com/courses/ngrx-store-effects
 
 * https://stackoverflow.com/questions/41701138/dispatch-multiple-actions-in-one-effect
 
-<<<<<<< HEAD
 ### Use of ngrx/entity 
 
 https://alligator.io/angular/ngrx-entity/

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Online learning for developers

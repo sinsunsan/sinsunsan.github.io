@@ -1,4 +1,3 @@
-    
 ---
 layout: post
 title: Interview Sébastien Lucas par Malt / Développeur Angular
