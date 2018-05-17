@@ -10,6 +10,7 @@ published: true
 * [rxjs / The original doc](http://reactivex.io/rxjs/)
 * [A selection of 6 operators to know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 * [Another Online book on RXJS](http://xgrommx.github.io/rx-book/content/observable)
+* [A playground to display obersable in action](https://rxviz.com/examples/chess-game)
 
 ### Unsubscribing to observable in Angular 
 

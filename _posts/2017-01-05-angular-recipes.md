@@ -425,7 +425,6 @@ export class SlickCarouselItem {
 ````
 
 
-
 ### Http interceptor
 
 Http intercetptor intercept http requests for example to add a token to all API request.
@@ -440,3 +439,20 @@ Example of intecptor file
 ### Execute a function with a delay in an angular component
 
 <script src="https://gist.github.com/sinsunsan/d7aa65e35a377d3f4b71b7162f4d1a26.js"></script>
+
+
+### Use environnement variable in your component or service 
+
+https://medium.com/beautiful-angular/angular-2-and-environment-variables-59c57ba643be
+
+### Async handling automation and Progressive Web app 
+
+https://medium.com/@cyrilletuzi/angular-async-pipe-everywhere-with-ngx-pwa-offline-d8de68845c81
+
+### Sharing data / method between component 
+
+https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/
+
+### Setup of universal server side rendering (updated)
+
+https://angularfirebase.com/lessons/server-side-rendering-firebase-angular-universal/
