@@ -11,6 +11,11 @@ published: true
 * [A selection of 6 operators to know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 * [Another Online book on RXJS](http://xgrommx.github.io/rx-book/content/observable)
 
+### Unsubscribing to observable in Angular 
+
+* https://blog.codecentric.de/en/2018/01/different-ways-unsubscribing-rxjs-observables-angular/
+* https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87
+
 ### Create a timer with observable 
 
 Create a timer that will emit a value every 5000ms.

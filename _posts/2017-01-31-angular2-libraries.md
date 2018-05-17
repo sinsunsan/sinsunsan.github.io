@@ -222,3 +222,8 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 ### DOM 
 
 https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02
+
+
+### Utility 
+
+* Generate UUID in the front endhttps://github.com/wulfsolter/angular2-uuid
