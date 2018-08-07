@@ -32,7 +32,13 @@ Allow to test code online before puting in your project
 
 ## A terminal
 
-* iterm better terminal for Mac
+* iterm better terminal for Mac https://www.iterm2.com/
+* A well though shell settings maintained by community
+https://github.com/robbyrussell/oh-my-zsh | http://ohmyz.sh/
+
+## A simple node server 
+
+* https://www.npmjs.com/package/http-server
 
 ## Versioning
 

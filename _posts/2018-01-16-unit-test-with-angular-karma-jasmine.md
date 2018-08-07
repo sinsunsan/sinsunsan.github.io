@@ -28,6 +28,7 @@ https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/
 https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d
 
 * Angular testing recipes 
+
 A repository to an app with many testing case ordered by type
 https://github.com/juristr/angular-testing-recipes
 
@@ -45,13 +46,13 @@ https://angular-2-training-book.rangle.io/handout/testing/components/
 
 ### DebugElement vs fixture.debugElement
 
-2 Ways to access the DOM inside unit test in angular 
+* 2 Ways to access the DOM inside unit test in angular 
 
 https://stackoverflow.com/questions/37705599/angular2-testing-whats-the-difference-between-a-debugelement-and-a-nativeeleme
 
 https://angular.io/guide/testing#debugelement
 
-The code Of Debug element a wrapper on DOM API 
+* The code Of Debug element a wrapper on DOM API 
 https://angular.io/api/core/DebugElement
 
 ### Asynchronous problems 
@@ -70,13 +71,15 @@ https://github.com/juristr/angular-testing-recipes/blob/master/src/app/services/
 
 ### Mocking dependencies
 
-Good tutorial on the various strategy of mock....
+* Good tutorial on the various strategy of mock....
 https://www.ng-conf.org/mocking-dependencies-angular/
 
 ### Testing services
 
-Testing services
+* Testing services with HttpTestingController
 https://medium.com/netscape/testing-with-the-angular-httpclient-api-648203820712
+
+* Testing service with https://www.techiediaries.com/angular-testing-httptestingcontroller
 
 ### Overriding component : Testing component with child component 
 

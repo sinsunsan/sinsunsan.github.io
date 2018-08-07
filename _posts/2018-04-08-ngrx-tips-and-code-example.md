@@ -55,3 +55,22 @@ https://github.com/ngrx/platform/blob/master/docs/entity/adapter.md
 ### Hot and cold observable 
 
 https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339
+
+
+### testing ngrx 
+
+Todd motto is a reference but is a paid ressource
+https://ultimateangular.teachable.com/courses/ngrx-store-effects/lectures/3923989
+
+Other articles about testing ngrx
+
+* Official ngrx testing doc
+
+
+### Marble test 
+
+https://github.com/ReactiveX/rxjs/blob/master/doc/marble-testing.md
+https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339
+https://github.com/ngrx/platform/blob/master/docs/store/testing.md
+
+https://medium.com/roowix/unit-testing-of-ngrx-angular-application-part-i-selectors-2edc46d0e0b

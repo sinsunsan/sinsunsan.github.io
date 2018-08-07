@@ -27,3 +27,18 @@ You can use
 parseInt(getComputedStyle($('body')).height, 10)
 ````
 The result is 25078
+
+### What is copying a  object ? 
+
+https://medium.com/@tkssharma/objects-in-javascript-object-assign-deep-copy-64106c9aefab
+
+The original 
+
+https://scotch.io/bar-talk/copying-objects-in-javascript
+
+
+### Immutability 
+
+* https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3
+* https://github.com/facebook/immutable-js
+* https://github.com/mweststrate/immer
