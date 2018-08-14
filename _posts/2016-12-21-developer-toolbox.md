@@ -70,3 +70,9 @@ The official description is :
 [https://freemacsoft.net/appcleaner/](https://freemacsoft.net/appcleaner/)
 
 When chrome get mad with its settings for example the famous dev tools zoom that you are unable to reset. Just reinstall Chrome. But in order to delete properly and do get rid of the settings that annoy, this simple free app will do the job. Select the app(s) you want to truly delete and click on the search button to launch to search for dependency files, they click on delete. 
+
+
+Your branches
+#148  Open  142-Works_Pagination1
+
+#149  Open  146-Disable_Owner_Address_Edit

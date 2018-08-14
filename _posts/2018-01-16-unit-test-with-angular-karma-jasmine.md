@@ -103,4 +103,15 @@ https://platform.ultimateangular.com/courses/ngrx-store-effects/lectures/3923987
 https://github.com/UltimateAngular/ngrx-store-effects-app/tree/27-testing-effects
 
 
+### Debugging test 
+
+* Console.log 
+* open a chrome debugger in the karma launched chrome window a trick is that the error messages are something difficult to understand because of the fact that it refere to compile code transformed in ES5 like 
+`at Object.reducer (webpack:///./src/app/platform/applicability/store/reducers/applicability.reducer.ts?:104:73)`
+
+so 
+* by opening the chrome debugger
+* going to 
+
+
 
