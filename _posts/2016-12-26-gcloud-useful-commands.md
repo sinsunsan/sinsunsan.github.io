@@ -2,6 +2,7 @@
 published: true
 title: Useful commands to start with gcloud utility
 ---
+
 gcloud is a command line utility very useful to manage you projects on Google cloud.
 
 I am a beginner with google cloud and found the UI quite confusing. A bit less than AWS thought. I do not know why cloud giant (AWS, Google...) cannot hire good designer to craft a simple and efficient UI. Perhaps because the target user are developers and for them the most important is that is works!

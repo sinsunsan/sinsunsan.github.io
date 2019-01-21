@@ -26,3 +26,16 @@ kill -9   2091
 ```
 
 <script src="https://gist.github.com/sinsunsan/40d5f096ea6aa9f267d64148d4fc1c38"></script>
+
+
+### ssh add ssh keys to authorized keys in a server
+
+`cat ~/.ssh/id_rsa.pub | ssh root@your.ip.address "cat >> ~/.ssh/authorized_keys"`
+
+authorized_keys is file that list all authorized keys in the remote server. 
+
+for root login check that `PermitRootLogin without-password` is set in you sshdConfig file
+
+https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets
+
+

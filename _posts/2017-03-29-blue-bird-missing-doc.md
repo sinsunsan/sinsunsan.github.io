@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue bird missing doc : the essential function decrypted
+title: Blue bird missing doc / the essential function decrypted
 published: true
 ---
 

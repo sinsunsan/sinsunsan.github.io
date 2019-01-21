@@ -12,6 +12,14 @@ I am currently building web sites and applications using Angular as a front end 
 
 If you are interested to work with me, here is my updated [Web developer Resume](http://bit.ly/slucas-web).
 
+I was born in 1977, the year challenger prone was launched to space and the beginning of the generation called [XENNIAL](http://didyouknowfacts.com/theres-now-a-name-for-the-micro-generation-born-between-1977-1983/). 
+
+Xennials generation group people : 
+
+* born between 1977 - 1983 (or when the original Star Wars trilogy was released)
+* that experienced an analogue childhood and a digital adulthood 
+* that possess both Gen X cyncism and Millenial optimism 
+
 ## My story with code
 
 ### 2017-... : NOW Period (Angular 2 & more)
@@ -29,7 +37,7 @@ Current Explorations :
 My favorite  editor: [Atom.io](https://atom.io/)    
 My main project: [Bricks, Agile and open architecture app](http://www.bricksapp.io)
 
-### 2014-2016 : Full stack period (Angular + Node)
+### 2013-2016 : Full stack period (Angular + Node)
 
 My favorite editor : [Sublime text](https://www.sublimetext.com/)   
 My Main project : [Openbricks.io, the hub for open source architecture](http://www.openbricks.io)
@@ -38,14 +46,14 @@ My Main project : [Openbricks.io, the hub for open source architecture](http://w
 * In 2016 I worked for [Arsultima](http://www.arsultima) & Mosaïc
 * In 2015 I worked for [Holaspirit](https://www.holaspirit.com)
 * In 2014 I worked for [We Cook](https://www.wecook.fr)
+* In 2013 I Worked for different companies : AKQA, Isobar, Fullsix....
 
-### 2010-2013 : Drupal period (Drupal + Php)
+### 2010-2012 : Drupal period (Drupal + Php)
 
 My favorite editor : [Text Mate](https://macromates.com/)   
 My main project : [Archiref, the visual source of architecture](http://www.archiref.com)
 
 * From 2010 to 2013, I coded in PHP and with Drupal CMS (version 6)
-* In 2013 I Worked for different companies : AKQA, Isobar, Fullsix....
 * In 2012, I worked for [Rue 89](http://rue89.nouvelobs.com)
 * In 2011 I worked for [Plume.fr agency](http://plume.fr)
 
@@ -70,9 +78,11 @@ My main project : [Sébastien Lucas - Photography](http://www.sebastienlucas.com
 
 ### 1977 What happened  ?
 
-* this year Apple Inc. get incorporated
-* Voyager probe started its journey
-* Centre Pompidou museum erected in Paris
+* This year Apple Inc. get incorporated
+* [Voyager I & II](https://voyager.jpl.nasa.gov/mission/status/) probes started their journey. They are now the farthest human made objects in space.
+![Voyage Golden Record]({{site.baseurl}}/images/voyager.jpg)
+* Centre Pompidou museum by Architects Renzo Piano and Richard Rogers was erected in Paris
+![Centre pompidou inauguration]({{site.baseurl}}/images/centre-pompidou.jpg)
 * [Make](https://en.wikipedia.org/wiki/Make_(software)) utility in unix system was born.
 
 ![First mac computer]({{site.baseurl}}/images/mac.jpg)

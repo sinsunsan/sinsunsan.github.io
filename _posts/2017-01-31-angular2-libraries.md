@@ -58,32 +58,16 @@ And is then interpreted at run time to adapt to screen size.
 
 ###  Angular 2 UI components library
 
-* **angular material 2**
+We have put our [the angular 2 & 4 UI components libraries](/angular-2-4-ui-components-libraries) list in a separate article
 
-[https://github.com/angular/material2](https://github.com/angular/material2)
+### Carousel 
 
-* **semantic ui**
+* [Ngx Slick](https://github.com/devmark/ngx-slick/tree/master/src) wrapper from [slick jquery plugin](http://kenwheeler.github.io/slick/)
 
-[https://semantic-ui.com/](https://semantic-ui.com/)
-Plus it's angular 2 library
-[ng-semantic.herokuapp.com](ng-semantic.herokuapp.com)
 
-* **primeng** a collection of widget and library
+### Complex stackable grid
 
-[https://www.primefaces.org/primeng/#/fileupload](https://www.primefaces.org/primeng/#/fileupload)
-
-* **ng bootstrap** a famous UI library in angular 1
-
-[https://valor-software.com/ng2-bootstrap](https://valor-software.com/ng2-bootstrap)
-
-* **dev extreme** Specialized in data viz, tables, filtering...
-
-[https://github.com/DevExpress/devextreme-angular#demos](https://github.com/DevExpress/devextreme-angular#demos)
-
-* **Fuel UI** On top of bootstrap 4
-
-[http://fuelinteractive.github.io/fuel-ui/](http://fuelinteractive.github.io/fuel-ui/)
-
+* [Grid stack](http://gridstackjs.com/) and it's ng2 wrapper [ng2-gridstack](https://github.com/ApolloSSC/ng2-gridstack)
 ## Events
 
 * **ng-radio** a message bus for angular to replace missing $cope.$emit and allow sibling components to talk and more generally global casting of  a message. Use RxJs [https://github.com/govorov/ng-radio](https://github.com/govorov/ng-radio)
@@ -126,6 +110,8 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 [https://github.com/nogorilla/angular-cc-library](https://github.com/nogorilla/angular-cc-library)
 
+* [ng2 validation](https://github.com/yuyang041060120/ng2-validation) / Add many form  validator to default one
+
 ## Data
 
 * **JS-DATA** Data store for js  (front and back)
@@ -147,9 +133,13 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 
 * **Angular 2 infinite scroll**    [https://github.com/orizens/angular2-infinite-scroll](https://github.com/orizens/angular2-infinite-scroll)  
 
-
 * **ng2-page-scroll** Scroll in the page
 [https://github.com/Nolanus/ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll)
+
+* **ng2-scroll-to** Have the advantage of allowing to scroll inside an element. No service to though
+[https://github.com/drusso85/ng2-scroll-to](https://github.com/drusso85/ng2-scroll-to) 
+
+* **ng2-scroll-to-el** [https://github.com/MarcinMichalik/ng-scrollTo](https://github.com/MarcinMichalik/ng-scrollTo)
 
 * **Angular Perfect Scrollbar** Wrapper for perfect scroll bar, a lib to customise the scrollbars
 
@@ -191,3 +181,49 @@ Angular 2 markdown make also the auto-linking, you can  see all markdown styles 
 * **Observable and subjects**
 
 [http://stackoverflow.com/questions/39494058/angular-2-behavior-subject-vs-observable](http://stackoverflow.com/questions/39494058/angular-2-behavior-subject-vs-observable)
+
+## Debug
+
+* **pretty json** A nice json pipes with syntax highlighting
+
+## Styling 
+
+* [Advanced styling for angular v4](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635)
+
+
+## Table 
+
+* [NgX-datatable](https://github.com/swimlane/ngx-datatable) complete big or small table
+
+## Charts 
+
+* [ng2-charts](http://valor-software.com/ng2-charts/#doughnutChart) Integration of charts js for angular 
+
+## Local + session storage / Cookie management
+
+* [angular2-localstorage](https://github.com/marcj/angular2-localstorage) a decorator to retrieve local storage data directly in component 
+
+* [local storage + session storage](https://github.com/PillowPillow/ng2-webstorage)
+
+* [Cookie management](https://github.com/salemdar/ngx-cookie)
+
+## Errors 
+
+* [Global errror handling](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
+
+## Ng-template
+
+* [Ng-template](https://toddmotto.com/angular-ngfor-template-element#ng-template-element)
+
+## Animation 
+
+* [angular2-counto](https://github.com/izupet/angular2-counto) Animation from 0 to the number 
+
+### DOM 
+
+https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02
+
+
+### Utility 
+
+* Generate UUID in the front endhttps://github.com/wulfsolter/angular2-uuid

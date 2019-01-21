@@ -6,7 +6,7 @@
 name: Sebastien Lucas
 
 # Short bio or description (displayed in the header)
-description: Blog of a self-taught Full stack developer / Node + Angular
+description: Blog of a self-taught Fullstack developer / Node + Angular
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/sinsunsan/sinsunsan.github.io/master/images/sebastien_lucas2016.jpg
@@ -14,7 +14,7 @@ avatar: https://raw.githubusercontent.com/sinsunsan/sinsunsan.github.io/master/i
 #
 # Flags below are optional
 #
-
+  
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -36,18 +36,27 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: angular-and-node-learnings-sebastien-lucas
 
+jqueryGoodies: true
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-10855009-34
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.openbricks.io
+url: http://dev.sebastienlucas.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+# https://pablogonzalezalba.github.io/2017/02/23/jekyll-add-pagination.html
+paginate: 10
+paginate_path: '/page-:num/'
+
+# https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/
+theme: jekyll-theme-cayman
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -73,9 +82,12 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
+# Plugins officialy suppported by github pages 
+# https://pages.github.com/versions/
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # old pagination plugin 
 
 # Exclude these files from your production _site
 exclude:

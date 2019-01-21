@@ -3,6 +3,10 @@ layout: post
 title: 6 raisons pourquoi voter pour Mélenchon est dangereux
 published: true
 ---
+### Updates depuis l'éléctions de mai 2017
+
+* [Réaction pour le moins étonnante de la France insoumise par rapport à la répression au Venezuela et au régime Chaviste de Nicolas Maduro qui estime ne pas être une dictature](https://www.marianne.net/politique/crise-au-venezuela-les-positions-d-equilibristes-de-la-france-insoumise-et-du-pcf)
+
 
 ### Frexit en ligne de mire et éclatement de l'europe
 

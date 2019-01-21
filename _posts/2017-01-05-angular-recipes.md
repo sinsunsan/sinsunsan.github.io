@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular 2 recipes / Tips & tricks
+title: Angular 2 recipes / Tips and tricks
 published: true
 ---
 Tips & tricks for tricky but useful things in angular 2. The type of problems that are too small  to deserve a full blog post, and that you do not know how to name to search for.
@@ -217,13 +217,13 @@ export class SharedModule {
 ### Navigate to a defined page in the component or service
 
 ````js
-
-import { Router }                    from '@angular/router';
+import { ActivatedRoute, Router }           from '@angular/router';
 
 // Component definition
 
 constructor(
     private router: Router,
+    private route: ActivatedRoute,
   ) {}
 
 // Inside a component method
@@ -249,6 +249,14 @@ Observable.combineLatest(
     })
 ````
 
+
+### Redirect to the same path but changing one query params
+
+The trick is [] to tell same page.
+
+````js
+this.router.navigate([], { relativeTo: this.route, queryParams: { step: this.steps[0] } });
+````
 
 ### Redirect to the same path changing only the last path parameter
 
@@ -298,4 +306,153 @@ ngOnInit() {
   }
 ````
 
-Fore query params read this [good tuto](https://angular-2-training-book.rangle.io/handout/routing/query_params.html) for more info
+For query params read this [good tuto](https://angular-2-training-book.rangle.io/handout/routing/query_params.html) for more info
+
+### Execute a js library outside of the scope of angular 
+
+Angular run inside an execution context so is not accesible in the global scope of the page. But some libraries  like jquery exist in the global scope of the page. 
+
+So here is an example on [how to run a jquery library from an angular component](https://github.com/devmark/ngx-slick/blob/master/src/slick.component.ts).
+
+Import of the NgZone module
+
+````js 
+import {
+    Component, Input, Output, EventEmitter, NgZone, forwardRef, AfterViewInit,
+    OnDestroy, Directive, ElementRef, Host
+} from '@angular/core';
+````
+
+Definition in the component constructor
+
+````js
+constructor(private el: ElementRef, private zone: NgZone) {
+````
+Use of 
+this.zone.runOutsideAngular(() => {
+
+  to switch execution zone
+
+ ````js
+   /**
+     * init slick
+     */
+    initSlick() {
+        const self = this;
+
+        this.zone.runOutsideAngular(() => {
+            this.$instance = $(this.el.nativeElement).slick(this.config);
+            this.initialized = true;
+
+            this.$instance.on('afterChange', (event, slick, currentSlide) => {
+                self.zone.run(() => {
+                    self.afterChange.emit({event, slick, currentSlide});
+                });
+            });
+
+            this.$instance.on('beforeChange', (event, slick, currentSlide, nextSlide) => {
+                self.zone.run(() => {
+                    self.beforeChange.emit({event, slick, currentSlide, nextSlide});
+                });
+            });
+
+            this.$instance.on('breakpoint', (event, slick, breakpoint) => {
+                self.zone.run(() => {
+                    self.breakpoint.emit({event, slick, breakpoint});
+                });
+            });
+
+            this.$instance.on('destroy', (event, slick) => {
+                self.zone.run(() => {
+                    self.destroy.emit({event, slick});
+                });
+            });
+        });
+    }
+````
+
+
+### Add even, odd and last class to ngFor 
+
+````pug
+div(
+    *ngFor="let item of item; let last = last; let odd = odd; let even = even; let index = index;",
+    [ngClass]="{'odd': odd,'even': even,'last': last}", 
+    class="item item-{{ index }}")
+````
+will result in 
+````html
+<div class="item odd item-1">
+First item
+</div>
+<div class="item even item-2">
+Second item
+</div>
+<div class="item odd last item-2">
+Third item
+</div>
+````
+
+### Dynamic templates
+
+In angular 2 your can use dynamic templates 
+called by name 
+Primeng library make heavy use of it, you can see as an illustration 
+[templates definitions here](https://github.com/primefaces/primeng/blob/master/src/app/components/common/shared.ts)
+
+
+### Injection parent component in child component 
+
+Example and explanations in the [slick-carousel integration](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998) tutorial
+
+* **@ContentChildren()** allow  to have a reference to a child component in the parent component 
+* **@Host()** allow  to have a reference to a parent component in the child component 
+
+````ts
+@Directive({
+  selector: '[slick-carousel-item]',
+})
+export class SlickCarouselItem {
+  constructor(private el: ElementRef, @Host() private carousel: SlickCarouselComponent) {
+  }
+  ngAfterViewInit() {
+    this.carousel.addSlide(this);
+  }
+  ngOnDestroy() {
+    this.carousel.removeSlide(this);
+  }
+}
+````
+
+
+### Http interceptor
+
+Http intercetptor intercept http requests for example to add a token to all API request.
+
+Define interceptor service in the app.module.ts
+<script src="https://gist.github.com/sinsunsan/fabb4e7dc983967b902b272b338f0516.js"></script>
+
+Example of intecptor file
+<script src="https://gist.github.com/sinsunsan/bb490aafddbf10dfa88ba24cd7b799ec.js"></script>
+
+
+### Execute a function with a delay in an angular component
+
+<script src="https://gist.github.com/sinsunsan/d7aa65e35a377d3f4b71b7162f4d1a26.js"></script>
+
+
+### Use environnement variable in your component or service 
+
+https://medium.com/beautiful-angular/angular-2-and-environment-variables-59c57ba643be
+
+### Async handling automation and Progressive Web app 
+
+https://medium.com/@cyrilletuzi/angular-async-pipe-everywhere-with-ngx-pwa-offline-d8de68845c81
+
+### Sharing data / method between component 
+
+https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/
+
+### Setup of universal server side rendering (updated)
+
+https://angularfirebase.com/lessons/server-side-rendering-firebase-angular-universal/

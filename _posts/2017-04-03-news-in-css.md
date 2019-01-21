@@ -13,6 +13,33 @@ CSS is still evoluting.
 
 Also the number of possibilities in css is high. And probably as me, you have missed some handy or cool stuff css3 or more have brought to css.
 
+### Boostrap 4 
+
+<img src="./boostrap-flexbox.png" alt="new featurs in boostrap 4" />
+
+* [What changes in v4 version](https://hackernoon.com/what-changed-in-bootstrap-4-0-ca3cbbf4f62f)
+    * sass
+    * grid with flexbox (allow vertical alignement)
+    * grid unit less columns
+    * rem font sizing 
+    * new small screen breakpoints  
+
+### CSS Grid 
+
+* Learn  grid  with [grid garden](http://cssgridgarden.com/) learning game
+
+* use of css grid in production right now ? https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout
+
+* another tutorial on css grid https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/
+### Flexbox
+
+Learn flexbox with [flexbox froggy](http://flexboxfroggy.com/) learning game
+
+### CSS counter 
+
+When you have a list of item and use a `content` tag to define content with css. And what if you want to add to this content the number of item in a list without changing the js. 
+
+The [css counter](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters) are exactly for that.
 
 ### **transition**
 
@@ -89,7 +116,12 @@ Allow to size depending of the screen size, ideal for full width
 
 Flexbox based solutions
 
+### position sticky 
 
+* (Can I use Sticky)[https://caniuse.com/#feat=css-sticky]
+* Sticky Bits https://css-tricks.com/stickybits-alternative-position-sticky-polyfills/
+* More in depth article to understand position sticky [https://www.sitepoint.com/css-position-sticky-introduction-polyfills/](https://www.sitepoint.com/css-position-sticky-introduction-polyfills/)
+End of [2017 support](https://caniuse.com/#feat=css-sticky) for position sticky: supported by all expept IE.
 
 Classical solutions :
 
@@ -117,3 +149,14 @@ Set automatically browser prefix for you
 * **post css web pack plugin**
 
 [https://github.com/postcss/postcss-loader](https://github.com/postcss/postcss-loader)
+
+* **Flexbox nice tutorial**
+
+[http://cssreference.io/flexbox/](http://cssreference.io/flexbox/)
+
+
+### SCSS / SASS
+
+* SASS MAPS 
+
+[http://clubmate.fi/sass-maps-syntax-examples-and-good-things/](http://clubmate.fi/sass-maps-syntax-examples-and-good-things/)

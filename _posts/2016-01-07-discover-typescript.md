@@ -84,4 +84,6 @@ that allow to map the declaration with module name `sweetalert2`that is defined 
 
 ### Contribute to create d.ts files
 
-* The following in depth tutorial explain how to create a definition files for an existing library. Seems boring? Could be a great way to explore libraries and read their code and learn from them      [http://blog.wolksoftware.com/contributing-to-definitelytyped](http://blog.wolksoftware.com/contributing-to-definitelytyped)
+* The following in depth tutorial explain how to create a definition files for an existing library. Seems boring? Could be a great way to explore libraries and read their code and learn from them [http://blog.wolksoftware.com/contributing-to-definitelytyped](http://blog.wolksoftware.com/contributing-to-definitelytyped)
+* The main libraries types is stored in the huge [Definetly typed](https://github.com/DefinitelyTyped/DefinitelyTyped) repository. 
+* It is possible to import only a single library types from this same repo with for example `npm install @types/lodash` for lodash only
