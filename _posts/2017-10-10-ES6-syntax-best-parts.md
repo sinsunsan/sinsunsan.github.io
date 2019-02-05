@@ -68,7 +68,7 @@ _.default(state, { error: null, pending: true });
 ````
 
 
-#### Concatenating àrrays
+#### Concatenating arrays
 
 ````js
 import { OrganizationComponent,
@@ -97,3 +97,8 @@ const commonModules = [
 ### Modules and imports 
 
 * [ES6 modules import syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+
+
+### Async / Await 
+
+* https://javascript.info/async
